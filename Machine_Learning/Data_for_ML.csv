@@ -1,0 +1,4234 @@
+customer_id,total_spent,latest_purchased_brand,latest_brand_tier,most_purchased_brand,most_purchased_brand_tier,latest_brand_name,most_purchased_brand_name
+94,34807.9392,9,high,9,high,Trek,Trek
+94,34807.9392,9,high,9,high,Trek,Trek
+94,34807.9392,9,high,9,high,Trek,Trek
+94,34807.9392,9,high,9,high,Trek,Trek
+94,34807.9392,9,high,9,high,Trek,Trek
+10,33634.2604,1,mid,1,mid,Electra,Electra
+10,33634.2604,1,mid,1,mid,Electra,Electra
+10,33634.2604,1,mid,1,mid,Electra,Electra
+10,33634.2604,7,mid,1,mid,"Sun Bicycles",Electra
+75,32803.0062,9,high,9,high,Trek,Trek
+75,32803.0062,9,high,9,high,Trek,Trek
+75,32803.0062,9,high,9,high,Trek,Trek
+6,32675.0725,1,mid,9,high,Electra,Trek
+6,32675.0725,9,high,9,high,Trek,Trek
+6,32675.0725,1,mid,9,high,Electra,Trek
+16,31925.8857,9,high,1,mid,Trek,Electra
+16,31925.8857,7,mid,1,mid,"Sun Bicycles",Electra
+16,31925.8857,1,mid,1,mid,Electra,Electra
+16,31925.8857,1,mid,1,mid,Electra,Electra
+16,31925.8857,3,high,1,mid,Heller,Electra
+73,31913.6902,9,high,9,high,Trek,Trek
+73,31913.6902,2,mid,9,high,Haro,Trek
+1,28698.1534,1,mid,1,mid,Electra,Electra
+1,28698.1534,1,mid,1,mid,Electra,Electra
+1,28698.1534,1,mid,1,mid,Electra,Electra
+61,25636.4531,8,high,9,high,Surly,Trek
+61,25636.4531,9,high,9,high,Trek,Trek
+61,25636.4531,1,mid,9,high,Electra,Trek
+61,25636.4531,9,high,9,high,Trek,Trek
+61,25636.4531,9,high,9,high,Trek,Trek
+93,25612.7021,9,high,9,high,Trek,Trek
+93,25612.7021,1,mid,9,high,Electra,Trek
+93,25612.7021,1,mid,9,high,Electra,Trek
+122,24890.6244,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+122,24890.6244,9,high,7,mid,Trek,"Sun Bicycles"
+122,24890.6244,9,high,7,mid,Trek,"Sun Bicycles"
+122,24890.6244,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1224,24607.0261,9,high,9,high,Trek,Trek
+1224,24607.0261,1,mid,9,high,Electra,Trek
+1224,24607.0261,7,mid,9,high,"Sun Bicycles",Trek
+1224,24607.0261,7,mid,9,high,"Sun Bicycles",Trek
+1224,24607.0261,9,high,9,high,Trek,Trek
+9,24433.8818,1,mid,1,mid,Electra,Electra
+9,24433.8818,9,high,1,mid,Trek,Electra
+9,24433.8818,9,high,1,mid,Trek,Electra
+9,24433.8818,7,mid,1,mid,"Sun Bicycles",Electra
+9,24433.8818,9,high,1,mid,Trek,Electra
+12,24305.1394,7,mid,1,mid,"Sun Bicycles",Electra
+12,24305.1394,1,mid,1,mid,Electra,Electra
+12,24305.1394,9,high,1,mid,Trek,Electra
+3,24051.5279,1,mid,1,mid,Electra,Electra
+3,24051.5279,1,mid,1,mid,Electra,Electra
+3,24051.5279,1,mid,1,mid,Electra,Electra
+3,24051.5279,1,mid,1,mid,Electra,Electra
+3,24051.5279,7,mid,1,mid,"Sun Bicycles",Electra
+85,23195.0754,9,high,9,high,Trek,Trek
+85,23195.0754,8,high,9,high,Surly,Trek
+85,23195.0754,1,mid,9,high,Electra,Trek
+85,23195.0754,1,mid,9,high,Electra,Trek
+85,23195.0754,1,mid,9,high,Electra,Trek
+43,23049.0570,9,high,9,high,Trek,Trek
+43,23049.0570,8,high,9,high,Surly,Trek
+43,23049.0570,1,mid,9,high,Electra,Trek
+43,23049.0570,9,high,9,high,Trek,Trek
+43,23049.0570,9,high,9,high,Trek,Trek
+66,23026.2923,9,high,9,high,Trek,Trek
+66,23026.2923,9,high,9,high,Trek,Trek
+66,23026.2923,1,mid,9,high,Electra,Trek
+66,23026.2923,6,low,9,high,Strider,Trek
+35,22061.0729,1,mid,9,high,Electra,Trek
+35,22061.0729,9,high,9,high,Trek,Trek
+35,22061.0729,1,mid,9,high,Electra,Trek
+38,21535.6665,9,high,9,high,Trek,Trek
+38,21535.6665,8,high,9,high,Surly,Trek
+38,21535.6665,9,high,9,high,Trek,Trek
+58,21514.4615,7,mid,9,high,"Sun Bicycles",Trek
+58,21514.4615,8,high,9,high,Surly,Trek
+58,21514.4615,9,high,9,high,Trek,Trek
+58,21514.4615,2,mid,9,high,Haro,Trek
+58,21514.4615,1,mid,9,high,Electra,Trek
+4,21150.8927,9,high,9,high,Trek,Trek
+4,21150.8927,1,mid,9,high,Electra,Trek
+4,21150.8927,6,low,9,high,Strider,Trek
+4,21150.8927,9,high,9,high,Trek,Trek
+4,21150.8927,1,mid,9,high,Electra,Trek
+1214,20648.9537,9,high,9,high,Trek,Trek
+1214,20648.9537,9,high,9,high,Trek,Trek
+1214,20648.9537,9,high,9,high,Trek,Trek
+1214,20648.9537,9,high,9,high,Trek,Trek
+425,20509.4254,9,high,9,high,Trek,Trek
+425,20509.4254,9,high,9,high,Trek,Trek
+425,20509.4254,7,mid,9,high,"Sun Bicycles",Trek
+425,20509.4254,1,mid,9,high,Electra,Trek
+425,20509.4254,9,high,9,high,Trek,Trek
+238,20177.7457,9,high,9,high,Trek,Trek
+238,20177.7457,8,high,9,high,Surly,Trek
+238,20177.7457,9,high,9,high,Trek,Trek
+238,20177.7457,7,mid,9,high,"Sun Bicycles",Trek
+63,20086.3708,2,mid,9,high,Haro,Trek
+63,20086.3708,9,high,9,high,Trek,Trek
+63,20086.3708,9,high,9,high,Trek,Trek
+63,20086.3708,9,high,9,high,Trek,Trek
+63,20086.3708,1,mid,9,high,Electra,Trek
+28,19992.8648,9,high,9,high,Trek,Trek
+28,19992.8648,7,mid,9,high,"Sun Bicycles",Trek
+28,19992.8648,1,mid,9,high,Electra,Trek
+28,19992.8648,1,mid,9,high,Electra,Trek
+28,19992.8648,9,high,9,high,Trek,Trek
+31,19756.6432,9,high,8,high,Trek,Surly
+31,19756.6432,1,mid,8,high,Electra,Surly
+31,19756.6432,9,high,8,high,Trek,Surly
+1023,19329.9492,9,high,9,high,Trek,Trek
+1023,19329.9492,9,high,9,high,Trek,Trek
+1023,19329.9492,9,high,9,high,Trek,Trek
+1023,19329.9492,9,high,9,high,Trek,Trek
+2,19329.0849,1,mid,1,mid,Electra,Electra
+33,19043.9036,9,high,9,high,Trek,Trek
+82,18995.0137,1,mid,7,mid,Electra,"Sun Bicycles"
+82,18995.0137,1,mid,7,mid,Electra,"Sun Bicycles"
+82,18995.0137,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+82,18995.0137,9,high,7,mid,Trek,"Sun Bicycles"
+91,18856.8770,9,high,9,high,Trek,Trek
+91,18856.8770,9,high,9,high,Trek,Trek
+91,18856.8770,1,mid,9,high,Electra,Trek
+91,18856.8770,1,mid,9,high,Electra,Trek
+464,18853.3544,9,high,9,high,Trek,Trek
+464,18853.3544,9,high,9,high,Trek,Trek
+464,18853.3544,8,high,9,high,Surly,Trek
+464,18853.3544,9,high,9,high,Trek,Trek
+1100,18670.9288,1,mid,9,high,Electra,Trek
+1100,18670.9288,9,high,9,high,Trek,Trek
+1100,18670.9288,9,high,9,high,Trek,Trek
+1100,18670.9288,9,high,9,high,Trek,Trek
+227,18553.7300,9,high,9,high,Trek,Trek
+227,18553.7300,2,mid,9,high,Haro,Trek
+227,18553.7300,9,high,9,high,Trek,Trek
+227,18553.7300,9,high,9,high,Trek,Trek
+227,18553.7300,8,high,9,high,Surly,Trek
+108,18281.4729,7,mid,9,high,"Sun Bicycles",Trek
+108,18281.4729,9,high,9,high,Trek,Trek
+108,18281.4729,9,high,9,high,Trek,Trek
+1007,18278.9436,9,high,9,high,Trek,Trek
+1007,18278.9436,9,high,9,high,Trek,Trek
+1007,18278.9436,9,high,9,high,Trek,Trek
+1007,18278.9436,9,high,9,high,Trek,Trek
+525,18114.9309,9,high,9,high,Trek,Trek
+525,18114.9309,2,mid,9,high,Haro,Trek
+525,18114.9309,9,high,9,high,Trek,Trek
+525,18114.9309,1,mid,9,high,Electra,Trek
+525,18114.9309,9,high,9,high,Trek,Trek
+32,18037.2850,9,high,9,high,Trek,Trek
+32,18037.2850,9,high,9,high,Trek,Trek
+32,18037.2850,9,high,9,high,Trek,Trek
+157,17861.1996,1,mid,1,mid,Electra,Electra
+157,17861.1996,7,mid,1,mid,"Sun Bicycles",Electra
+157,17861.1996,9,high,1,mid,Trek,Electra
+157,17861.1996,1,mid,1,mid,Electra,Electra
+157,17861.1996,1,mid,1,mid,Electra,Electra
+289,17834.9634,9,high,9,high,Trek,Trek
+289,17834.9634,9,high,9,high,Trek,Trek
+289,17834.9634,9,high,9,high,Trek,Trek
+39,17783.4874,1,mid,9,high,Electra,Trek
+39,17783.4874,1,mid,9,high,Electra,Trek
+39,17783.4874,9,high,9,high,Trek,Trek
+39,17783.4874,9,high,9,high,Trek,Trek
+39,17783.4874,9,high,9,high,Trek,Trek
+1037,17758.3490,9,high,9,high,Trek,Trek
+1037,17758.3490,9,high,9,high,Trek,Trek
+1037,17758.3490,8,high,9,high,Surly,Trek
+1037,17758.3490,5,mid,9,high,Ritchey,Trek
+182,17746.5951,9,high,9,high,Trek,Trek
+182,17746.5951,8,high,9,high,Surly,Trek
+182,17746.5951,9,high,9,high,Trek,Trek
+182,17746.5951,8,high,9,high,Surly,Trek
+1005,17611.9570,9,high,9,high,Trek,Trek
+1005,17611.9570,9,high,9,high,Trek,Trek
+1005,17611.9570,1,mid,9,high,Electra,Trek
+607,17580.7168,3,high,9,high,Heller,Trek
+607,17580.7168,9,high,9,high,Trek,Trek
+607,17580.7168,9,high,9,high,Trek,Trek
+607,17580.7168,9,high,9,high,Trek,Trek
+607,17580.7168,9,high,9,high,Trek,Trek
+5,17520.2919,9,high,9,high,Trek,Trek
+5,17520.2919,7,mid,9,high,"Sun Bicycles",Trek
+1421,17494.9405,9,high,9,high,Trek,Trek
+1421,17494.9405,9,high,9,high,Trek,Trek
+1421,17494.9405,9,high,9,high,Trek,Trek
+1421,17494.9405,1,mid,9,high,Electra,Trek
+339,17479.9570,9,high,9,high,Trek,Trek
+339,17479.9570,9,high,9,high,Trek,Trek
+339,17479.9570,9,high,9,high,Trek,Trek
+383,17305.9384,8,high,9,high,Surly,Trek
+383,17305.9384,9,high,9,high,Trek,Trek
+383,17305.9384,9,high,9,high,Trek,Trek
+383,17305.9384,9,high,9,high,Trek,Trek
+40,17240.5623,1,mid,1,mid,Electra,Electra
+40,17240.5623,1,mid,1,mid,Electra,Electra
+40,17240.5623,8,high,1,mid,Surly,Electra
+54,17225.4439,9,high,9,high,Trek,Trek
+109,17193.9034,2,mid,9,high,Haro,Trek
+109,17193.9034,1,mid,9,high,Electra,Trek
+109,17193.9034,9,high,9,high,Trek,Trek
+109,17193.9034,9,high,9,high,Trek,Trek
+109,17193.9034,9,high,9,high,Trek,Trek
+21,17123.9975,9,high,9,high,Trek,Trek
+21,17123.9975,4,low,9,high,"Pure Cycles",Trek
+1391,17086.9343,9,high,9,high,Trek,Trek
+1391,17086.9343,9,high,9,high,Trek,Trek
+1391,17086.9343,1,mid,9,high,Electra,Trek
+1391,17086.9343,9,high,9,high,Trek,Trek
+153,17068.4922,7,mid,9,high,"Sun Bicycles",Trek
+153,17068.4922,1,mid,9,high,Electra,Trek
+153,17068.4922,9,high,9,high,Trek,Trek
+153,17068.4922,1,mid,9,high,Electra,Trek
+976,16950.0770,9,high,9,high,Trek,Trek
+976,16950.0770,9,high,9,high,Trek,Trek
+976,16950.0770,7,mid,9,high,"Sun Bicycles",Trek
+976,16950.0770,1,mid,9,high,Electra,Trek
+976,16950.0770,9,high,9,high,Trek,Trek
+47,16935.6408,9,high,9,high,Trek,Trek
+47,16935.6408,1,mid,9,high,Electra,Trek
+47,16935.6408,9,high,9,high,Trek,Trek
+47,16935.6408,1,mid,9,high,Electra,Trek
+47,16935.6408,9,high,9,high,Trek,Trek
+651,16890.1469,8,high,9,high,Surly,Trek
+651,16890.1469,9,high,9,high,Trek,Trek
+651,16890.1469,9,high,9,high,Trek,Trek
+651,16890.1469,9,high,9,high,Trek,Trek
+534,16846.9540,1,mid,9,high,Electra,Trek
+534,16846.9540,9,high,9,high,Trek,Trek
+534,16846.9540,9,high,9,high,Trek,Trek
+119,16764.1256,1,mid,1,mid,Electra,Electra
+119,16764.1256,9,high,1,mid,Trek,Electra
+19,16739.9958,2,mid,2,mid,Haro,Haro
+19,16739.9958,1,mid,2,mid,Electra,Haro
+22,16651.0484,1,mid,1,mid,Electra,Electra
+22,16651.0484,1,mid,1,mid,Electra,Electra
+22,16651.0484,9,high,1,mid,Trek,Electra
+1382,16491.5200,7,mid,8,high,"Sun Bicycles",Surly
+1382,16491.5200,8,high,8,high,Surly,Surly
+1382,16491.5200,1,mid,8,high,Electra,Surly
+1382,16491.5200,8,high,8,high,Surly,Surly
+1382,16491.5200,9,high,8,high,Trek,Surly
+184,16436.0650,9,high,9,high,Trek,Trek
+184,16436.0650,4,low,9,high,"Pure Cycles",Trek
+184,16436.0650,9,high,9,high,Trek,Trek
+70,16338.9384,9,high,9,high,Trek,Trek
+50,16179.1167,1,mid,1,mid,Electra,Electra
+50,16179.1167,9,high,1,mid,Trek,Electra
+79,16025.0715,9,high,1,mid,Trek,Electra
+79,16025.0715,2,mid,1,mid,Haro,Electra
+79,16025.0715,9,high,1,mid,Trek,Electra
+79,16025.0715,9,high,1,mid,Trek,Electra
+79,16025.0715,1,mid,1,mid,Electra,Electra
+971,15876.4261,1,mid,9,high,Electra,Trek
+971,15876.4261,7,mid,9,high,"Sun Bicycles",Trek
+971,15876.4261,9,high,9,high,Trek,Trek
+971,15876.4261,9,high,9,high,Trek,Trek
+971,15876.4261,8,high,9,high,Surly,Trek
+172,15841.0992,9,high,9,high,Trek,Trek
+172,15841.0992,1,mid,9,high,Electra,Trek
+14,15766.7006,1,mid,1,mid,Electra,Electra
+14,15766.7006,1,mid,1,mid,Electra,Electra
+14,15766.7006,9,high,1,mid,Trek,Electra
+14,15766.7006,1,mid,1,mid,Electra,Electra
+1199,15455.6250,1,mid,1,mid,Electra,Electra
+1199,15455.6250,9,high,1,mid,Trek,Electra
+1199,15455.6250,8,high,1,mid,Surly,Electra
+1199,15455.6250,9,high,1,mid,Trek,Electra
+1199,15455.6250,1,mid,1,mid,Electra,Electra
+908,15439.9468,9,high,9,high,Trek,Trek
+908,15439.9468,1,mid,9,high,Electra,Trek
+908,15439.9468,9,high,9,high,Trek,Trek
+809,15416.1565,1,mid,9,high,Electra,Trek
+809,15416.1565,9,high,9,high,Trek,Trek
+809,15416.1565,7,mid,9,high,"Sun Bicycles",Trek
+809,15416.1565,9,high,9,high,Trek,Trek
+809,15416.1565,9,high,9,high,Trek,Trek
+136,15314.0132,9,high,9,high,Trek,Trek
+136,15314.0132,1,mid,9,high,Electra,Trek
+136,15314.0132,9,high,9,high,Trek,Trek
+1132,15205.9284,9,high,9,high,Trek,Trek
+1132,15205.9284,8,high,9,high,Surly,Trek
+1132,15205.9284,9,high,9,high,Trek,Trek
+1132,15205.9284,2,mid,9,high,Haro,Trek
+1132,15205.9284,7,mid,9,high,"Sun Bicycles",Trek
+840,15097.9060,4,low,9,high,"Pure Cycles",Trek
+840,15097.9060,9,high,9,high,Trek,Trek
+840,15097.9060,9,high,9,high,Trek,Trek
+531,15087.2644,7,mid,9,high,"Sun Bicycles",Trek
+531,15087.2644,9,high,9,high,Trek,Trek
+531,15087.2644,9,high,9,high,Trek,Trek
+195,14935.0311,1,mid,8,high,Electra,Surly
+195,14935.0311,8,high,8,high,Surly,Surly
+195,14935.0311,9,high,8,high,Trek,Surly
+195,14935.0311,8,high,8,high,Surly,Surly
+195,14935.0311,9,high,8,high,Trek,Surly
+18,14877.2890,9,high,9,high,Trek,Trek
+18,14877.2890,9,high,9,high,Trek,Trek
+18,14877.2890,9,high,9,high,Trek,Trek
+18,14877.2890,9,high,9,high,Trek,Trek
+13,14774.4583,8,high,9,high,Surly,Trek
+13,14774.4583,7,mid,9,high,"Sun Bicycles",Trek
+13,14774.4583,9,high,9,high,Trek,Trek
+374,14735.4152,8,high,9,high,Surly,Trek
+374,14735.4152,7,mid,9,high,"Sun Bicycles",Trek
+374,14735.4152,1,mid,9,high,Electra,Trek
+374,14735.4152,9,high,9,high,Trek,Trek
+374,14735.4152,9,high,9,high,Trek,Trek
+663,14567.1570,7,mid,9,high,"Sun Bicycles",Trek
+663,14567.1570,9,high,9,high,Trek,Trek
+663,14567.1570,9,high,9,high,Trek,Trek
+1131,14566.4345,9,high,9,high,Trek,Trek
+1131,14566.4345,1,mid,9,high,Electra,Trek
+1131,14566.4345,8,high,9,high,Surly,Trek
+1131,14566.4345,9,high,9,high,Trek,Trek
+1131,14566.4345,9,high,9,high,Trek,Trek
+25,14529.2583,9,high,9,high,Trek,Trek
+25,14529.2583,1,mid,9,high,Electra,Trek
+25,14529.2583,4,low,9,high,"Pure Cycles",Trek
+25,14529.2583,2,mid,9,high,Haro,Trek
+25,14529.2583,8,high,9,high,Surly,Trek
+263,14405.0464,1,mid,1,mid,Electra,Electra
+263,14405.0464,9,high,1,mid,Trek,Electra
+263,14405.0464,1,mid,1,mid,Electra,Electra
+263,14405.0464,3,high,1,mid,Heller,Electra
+263,14405.0464,9,high,1,mid,Trek,Electra
+904,14397.1379,9,high,9,high,Trek,Trek
+904,14397.1379,9,high,9,high,Trek,Trek
+904,14397.1379,1,mid,9,high,Electra,Trek
+904,14397.1379,9,high,9,high,Trek,Trek
+904,14397.1379,9,high,9,high,Trek,Trek
+1171,14249.6462,9,high,9,high,Trek,Trek
+1171,14249.6462,8,high,9,high,Surly,Trek
+1171,14249.6462,9,high,9,high,Trek,Trek
+1171,14249.6462,9,high,9,high,Trek,Trek
+192,14208.3881,9,high,7,mid,Trek,"Sun Bicycles"
+192,14208.3881,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+192,14208.3881,1,mid,7,mid,Electra,"Sun Bicycles"
+24,14199.9558,9,high,1,mid,Trek,Electra
+24,14199.9558,9,high,1,mid,Trek,Electra
+24,14199.9558,1,mid,1,mid,Electra,Electra
+24,14199.9558,1,mid,1,mid,Electra,Electra
+24,14199.9558,6,low,1,mid,Strider,Electra
+167,14172.2185,7,mid,9,high,"Sun Bicycles",Trek
+167,14172.2185,2,mid,9,high,Haro,Trek
+167,14172.2185,9,high,9,high,Trek,Trek
+167,14172.2185,2,mid,9,high,Haro,Trek
+167,14172.2185,9,high,9,high,Trek,Trek
+1020,14141.3394,8,high,1,mid,Surly,Electra
+1020,14141.3394,9,high,1,mid,Trek,Electra
+1020,14141.3394,2,mid,1,mid,Haro,Electra
+1020,14141.3394,1,mid,1,mid,Electra,Electra
+53,14068.2366,1,mid,1,mid,Electra,Electra
+37,14011.8265,8,high,1,mid,Surly,Electra
+37,14011.8265,1,mid,1,mid,Electra,Electra
+37,14011.8265,1,mid,1,mid,Electra,Electra
+37,14011.8265,1,mid,1,mid,Electra,Electra
+292,13947.5449,9,high,9,high,Trek,Trek
+292,13947.5449,7,mid,9,high,"Sun Bicycles",Trek
+292,13947.5449,1,mid,9,high,Electra,Trek
+292,13947.5449,8,high,9,high,Surly,Trek
+292,13947.5449,9,high,9,high,Trek,Trek
+72,13914.3345,9,high,9,high,Trek,Trek
+72,13914.3345,9,high,9,high,Trek,Trek
+59,13854.6016,9,high,1,mid,Trek,Electra
+59,13854.6016,9,high,1,mid,Trek,Electra
+59,13854.6016,1,mid,1,mid,Electra,Electra
+59,13854.6016,1,mid,1,mid,Electra,Electra
+692,13821.5310,9,high,9,high,Trek,Trek
+692,13821.5310,8,high,9,high,Surly,Trek
+170,13801.2997,9,high,9,high,Trek,Trek
+170,13801.2997,9,high,9,high,Trek,Trek
+170,13801.2997,9,high,9,high,Trek,Trek
+123,13783.7813,7,mid,9,high,"Sun Bicycles",Trek
+123,13783.7813,9,high,9,high,Trek,Trek
+123,13783.7813,9,high,9,high,Trek,Trek
+123,13783.7813,1,mid,9,high,Electra,Trek
+123,13783.7813,9,high,9,high,Trek,Trek
+296,13773.6277,1,mid,1,mid,Electra,Electra
+296,13773.6277,9,high,1,mid,Trek,Electra
+296,13773.6277,1,mid,1,mid,Electra,Electra
+296,13773.6277,9,high,1,mid,Trek,Electra
+296,13773.6277,1,mid,1,mid,Electra,Electra
+1063,13765.5468,9,high,9,high,Trek,Trek
+1063,13765.5468,7,mid,9,high,"Sun Bicycles",Trek
+1063,13765.5468,2,mid,9,high,Haro,Trek
+1063,13765.5468,9,high,9,high,Trek,Trek
+169,13678.3570,7,mid,9,high,"Sun Bicycles",Trek
+169,13678.3570,9,high,9,high,Trek,Trek
+187,13611.6259,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+187,13611.6259,1,mid,7,mid,Electra,"Sun Bicycles"
+187,13611.6259,1,mid,7,mid,Electra,"Sun Bicycles"
+187,13611.6259,9,high,7,mid,Trek,"Sun Bicycles"
+187,13611.6259,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+87,13546.9484,1,mid,1,mid,Electra,Electra
+87,13546.9484,9,high,1,mid,Trek,Electra
+734,13287.5262,1,mid,9,high,Electra,Trek
+734,13287.5262,9,high,9,high,Trek,Trek
+734,13287.5262,9,high,9,high,Trek,Trek
+734,13287.5262,9,high,9,high,Trek,Trek
+503,13242.9620,9,high,9,high,Trek,Trek
+503,13242.9620,9,high,9,high,Trek,Trek
+595,13191.9384,1,mid,1,mid,Electra,Electra
+595,13191.9384,1,mid,1,mid,Electra,Electra
+595,13191.9384,1,mid,1,mid,Electra,Electra
+595,13191.9384,9,high,1,mid,Trek,Electra
+681,13130.8288,8,high,9,high,Surly,Trek
+681,13130.8288,3,high,9,high,Heller,Trek
+681,13130.8288,9,high,9,high,Trek,Trek
+681,13130.8288,1,mid,9,high,Electra,Trek
+681,13130.8288,9,high,9,high,Trek,Trek
+883,13107.4410,1,mid,9,high,Electra,Trek
+883,13107.4410,9,high,9,high,Trek,Trek
+883,13107.4410,9,high,9,high,Trek,Trek
+883,13107.4410,2,mid,9,high,Haro,Trek
+883,13107.4410,8,high,9,high,Surly,Trek
+226,13033.5961,1,mid,9,high,Electra,Trek
+226,13033.5961,1,mid,9,high,Electra,Trek
+226,13033.5961,8,high,9,high,Surly,Trek
+226,13033.5961,9,high,9,high,Trek,Trek
+226,13033.5961,9,high,9,high,Trek,Trek
+175,13023.9260,1,mid,1,mid,Electra,Electra
+175,13023.9260,9,high,1,mid,Trek,Electra
+175,13023.9260,1,mid,1,mid,Electra,Electra
+1438,12980.9387,1,mid,1,mid,Electra,Electra
+1438,12980.9387,1,mid,1,mid,Electra,Electra
+1438,12980.9387,9,high,1,mid,Trek,Electra
+1438,12980.9387,8,high,1,mid,Surly,Electra
+1438,12980.9387,9,high,1,mid,Trek,Electra
+441,12965.7468,1,mid,9,high,Electra,Trek
+441,12965.7468,9,high,9,high,Trek,Trek
+441,12965.7468,9,high,9,high,Trek,Trek
+310,12935.9494,8,high,9,high,Surly,Trek
+310,12935.9494,9,high,9,high,Trek,Trek
+310,12935.9494,9,high,9,high,Trek,Trek
+140,12909.9214,9,high,1,mid,Trek,Electra
+140,12909.9214,1,mid,1,mid,Electra,Electra
+140,12909.9214,1,mid,1,mid,Electra,Electra
+140,12909.9214,9,high,1,mid,Trek,Electra
+140,12909.9214,7,mid,1,mid,"Sun Bicycles",Electra
+803,12867.9580,9,high,9,high,Trek,Trek
+803,12867.9580,9,high,9,high,Trek,Trek
+803,12867.9580,2,mid,9,high,Haro,Trek
+231,12861.8789,7,mid,1,mid,"Sun Bicycles",Electra
+231,12861.8789,9,high,1,mid,Trek,Electra
+231,12861.8789,7,mid,1,mid,"Sun Bicycles",Electra
+231,12861.8789,1,mid,1,mid,Electra,Electra
+116,12793.6337,8,high,8,high,Surly,Surly
+116,12793.6337,1,mid,8,high,Electra,Surly
+1070,12774.2451,1,mid,7,mid,Electra,"Sun Bicycles"
+1070,12774.2451,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1070,12774.2451,9,high,7,mid,Trek,"Sun Bicycles"
+1070,12774.2451,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1070,12774.2451,2,mid,7,mid,Haro,"Sun Bicycles"
+334,12663.9560,2,mid,9,high,Haro,Trek
+334,12663.9560,9,high,9,high,Trek,Trek
+334,12663.9560,9,high,9,high,Trek,Trek
+1403,12595.0730,9,high,9,high,Trek,Trek
+1403,12595.0730,9,high,9,high,Trek,Trek
+1403,12595.0730,8,high,9,high,Surly,Trek
+86,12551.9970,1,mid,1,mid,Electra,Electra
+86,12551.9970,1,mid,1,mid,Electra,Electra
+86,12551.9970,3,high,1,mid,Heller,Electra
+700,12541.7634,9,high,9,high,Trek,Trek
+700,12541.7634,7,mid,9,high,"Sun Bicycles",Trek
+105,12461.5479,1,mid,3,high,Electra,Heller
+105,12461.5479,3,high,3,high,Heller,Heller
+105,12461.5479,8,high,3,high,Surly,Heller
+105,12461.5479,9,high,3,high,Trek,Heller
+95,12433.4557,9,high,9,high,Trek,Trek
+95,12433.4557,8,high,9,high,Surly,Trek
+95,12433.4557,9,high,9,high,Trek,Trek
+1237,12420.7130,1,mid,1,mid,Electra,Electra
+1237,12420.7130,8,high,1,mid,Surly,Electra
+1237,12420.7130,9,high,1,mid,Trek,Electra
+1237,12420.7130,1,mid,1,mid,Electra,Electra
+1237,12420.7130,1,mid,1,mid,Electra,Electra
+1086,12400.8480,8,high,9,high,Surly,Trek
+1086,12400.8480,9,high,9,high,Trek,Trek
+1086,12400.8480,9,high,9,high,Trek,Trek
+1086,12400.8480,9,high,9,high,Trek,Trek
+1086,12400.8480,9,high,9,high,Trek,Trek
+1090,12392.9547,9,high,9,high,Trek,Trek
+1090,12392.9547,1,mid,9,high,Electra,Trek
+1090,12392.9547,9,high,9,high,Trek,Trek
+1258,12381.8274,1,mid,1,mid,Electra,Electra
+1258,12381.8274,9,high,1,mid,Trek,Electra
+1258,12381.8274,1,mid,1,mid,Electra,Electra
+1258,12381.8274,7,mid,1,mid,"Sun Bicycles",Electra
+203,12369.6265,9,high,1,mid,Trek,Electra
+203,12369.6265,1,mid,1,mid,Electra,Electra
+203,12369.6265,1,mid,1,mid,Electra,Electra
+203,12369.6265,1,mid,1,mid,Electra,Electra
+203,12369.6265,7,mid,1,mid,"Sun Bicycles",Electra
+1103,12334.9570,9,high,9,high,Trek,Trek
+1103,12334.9570,9,high,9,high,Trek,Trek
+1103,12334.9570,1,mid,9,high,Electra,Trek
+194,12320.1207,1,mid,8,high,Electra,Surly
+194,12320.1207,1,mid,8,high,Electra,Surly
+194,12320.1207,8,high,8,high,Surly,Surly
+1332,12307.9627,9,high,9,high,Trek,Trek
+1332,12307.9627,2,mid,9,high,Haro,Trek
+1332,12307.9627,9,high,9,high,Trek,Trek
+690,12104.7860,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+690,12104.7860,8,high,7,mid,Surly,"Sun Bicycles"
+690,12104.7860,1,mid,7,mid,Electra,"Sun Bicycles"
+690,12104.7860,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+690,12104.7860,9,high,7,mid,Trek,"Sun Bicycles"
+905,12089.9814,9,high,9,high,Trek,Trek
+135,12026.9409,8,high,8,high,Surly,Surly
+135,12026.9409,9,high,8,high,Trek,Surly
+135,12026.9409,1,mid,8,high,Electra,Surly
+138,12010.4969,9,high,1,mid,Trek,Electra
+138,12010.4969,1,mid,1,mid,Electra,Electra
+138,12010.4969,1,mid,1,mid,Electra,Electra
+1195,11993.9720,9,high,9,high,Trek,Trek
+1195,11993.9720,1,mid,9,high,Electra,Trek
+29,11979.9467,1,mid,1,mid,Electra,Electra
+330,11972.9271,9,high,1,mid,Trek,Electra
+330,11972.9271,9,high,1,mid,Trek,Electra
+330,11972.9271,1,mid,1,mid,Electra,Electra
+330,11972.9271,1,mid,1,mid,Electra,Electra
+330,11972.9271,1,mid,1,mid,Electra,Electra
+1019,11950.4766,3,high,9,high,Heller,Trek
+1019,11950.4766,9,high,9,high,Trek,Trek
+1019,11950.4766,1,mid,9,high,Electra,Trek
+1019,11950.4766,9,high,9,high,Trek,Trek
+165,11907.9041,1,mid,8,high,Electra,Surly
+165,11907.9041,8,high,8,high,Surly,Surly
+165,11907.9041,1,mid,8,high,Electra,Surly
+165,11907.9041,9,high,8,high,Trek,Surly
+165,11907.9041,6,low,8,high,Strider,Surly
+322,11832.4539,2,mid,1,mid,Haro,Electra
+322,11832.4539,1,mid,1,mid,Electra,Electra
+322,11832.4539,9,high,1,mid,Trek,Electra
+747,11831.3359,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+747,11831.3359,9,high,7,mid,Trek,"Sun Bicycles"
+747,11831.3359,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+509,11787.5533,2,mid,2,mid,Haro,Haro
+509,11787.5533,8,high,2,mid,Surly,Haro
+509,11787.5533,9,high,2,mid,Trek,Haro
+509,11787.5533,1,mid,2,mid,Electra,Haro
+104,11776.4101,9,high,1,mid,Trek,Electra
+104,11776.4101,1,mid,1,mid,Electra,Electra
+104,11776.4101,1,mid,1,mid,Electra,Electra
+104,11776.4101,7,mid,1,mid,"Sun Bicycles",Electra
+48,11705.8520,1,mid,1,mid,Electra,Electra
+48,11705.8520,7,mid,1,mid,"Sun Bicycles",Electra
+48,11705.8520,1,mid,1,mid,Electra,Electra
+48,11705.8520,3,high,1,mid,Heller,Electra
+48,11705.8520,1,mid,1,mid,Electra,Electra
+473,11596.4289,8,high,1,mid,Surly,Electra
+473,11596.4289,1,mid,1,mid,Electra,Electra
+473,11596.4289,1,mid,1,mid,Electra,Electra
+473,11596.4289,9,high,1,mid,Trek,Electra
+473,11596.4289,1,mid,1,mid,Electra,Electra
+871,11588.6474,9,high,8,high,Trek,Surly
+871,11588.6474,7,mid,8,high,"Sun Bicycles",Surly
+871,11588.6474,2,mid,8,high,Haro,Surly
+871,11588.6474,8,high,8,high,Surly,Surly
+871,11588.6474,1,mid,8,high,Electra,Surly
+583,11578.6544,9,high,1,mid,Trek,Electra
+583,11578.6544,1,mid,1,mid,Electra,Electra
+583,11578.6544,1,mid,1,mid,Electra,Electra
+583,11578.6544,8,high,1,mid,Surly,Electra
+583,11578.6544,1,mid,1,mid,Electra,Electra
+627,11479.5394,9,high,9,high,Trek,Trek
+627,11479.5394,1,mid,9,high,Electra,Trek
+627,11479.5394,3,high,9,high,Heller,Trek
+627,11479.5394,9,high,9,high,Trek,Trek
+275,11476.5364,9,high,5,mid,Trek,Ritchey
+275,11476.5364,8,high,5,mid,Surly,Ritchey
+275,11476.5364,7,mid,5,mid,"Sun Bicycles",Ritchey
+275,11476.5364,2,mid,5,mid,Haro,Ritchey
+275,11476.5364,5,mid,5,mid,Ritchey,Ritchey
+224,11471.8954,2,mid,8,high,Haro,Surly
+224,11471.8954,9,high,8,high,Trek,Surly
+224,11471.8954,1,mid,8,high,Electra,Surly
+224,11471.8954,8,high,8,high,Surly,Surly
+224,11471.8954,2,mid,8,high,Haro,Surly
+462,11463.9580,9,high,9,high,Trek,Trek
+462,11463.9580,9,high,9,high,Trek,Trek
+462,11463.9580,9,high,9,high,Trek,Trek
+350,11462.5954,8,high,8,high,Surly,Surly
+350,11462.5954,8,high,8,high,Surly,Surly
+350,11462.5954,1,mid,8,high,Electra,Surly
+350,11462.5954,9,high,8,high,Trek,Surly
+1136,11428.6530,8,high,9,high,Surly,Trek
+1136,11428.6530,9,high,9,high,Trek,Trek
+1136,11428.6530,4,low,9,high,"Pure Cycles",Trek
+1136,11428.6530,2,mid,9,high,Haro,Trek
+1136,11428.6530,9,high,9,high,Trek,Trek
+541,11406.4285,5,mid,9,high,Ritchey,Trek
+541,11406.4285,1,mid,9,high,Electra,Trek
+541,11406.4285,9,high,9,high,Trek,Trek
+541,11406.4285,1,mid,9,high,Electra,Trek
+541,11406.4285,9,high,9,high,Trek,Trek
+375,11391.4300,9,high,1,mid,Trek,Electra
+375,11391.4300,8,high,1,mid,Surly,Electra
+375,11391.4300,1,mid,1,mid,Electra,Electra
+375,11391.4300,1,mid,1,mid,Electra,Electra
+375,11391.4300,1,mid,1,mid,Electra,Electra
+415,11349.9574,9,high,9,high,Trek,Trek
+415,11349.9574,9,high,9,high,Trek,Trek
+415,11349.9574,1,mid,9,high,Electra,Trek
+780,11314.0730,9,high,9,high,Trek,Trek
+780,11314.0730,8,high,9,high,Surly,Trek
+780,11314.0730,9,high,9,high,Trek,Trek
+1284,11299.9720,9,high,9,high,Trek,Trek
+1284,11299.9720,9,high,9,high,Trek,Trek
+1423,11238.6544,1,mid,1,mid,Electra,Electra
+1423,11238.6544,7,mid,1,mid,"Sun Bicycles",Electra
+1423,11238.6544,8,high,1,mid,Surly,Electra
+1423,11238.6544,9,high,1,mid,Trek,Electra
+547,11183.0434,2,mid,9,high,Haro,Trek
+547,11183.0434,1,mid,9,high,Electra,Trek
+547,11183.0434,9,high,9,high,Trek,Trek
+547,11183.0434,9,high,9,high,Trek,Trek
+1348,11183.0335,1,mid,9,high,Electra,Trek
+1348,11183.0335,4,low,9,high,"Pure Cycles",Trek
+1348,11183.0335,4,low,9,high,"Pure Cycles",Trek
+1348,11183.0335,9,high,9,high,Trek,Trek
+1348,11183.0335,9,high,9,high,Trek,Trek
+65,11151.6045,9,high,9,high,Trek,Trek
+65,11151.6045,1,mid,9,high,Electra,Trek
+880,11120.3254,9,high,9,high,Trek,Trek
+880,11120.3254,8,high,9,high,Surly,Trek
+880,11120.3254,1,mid,9,high,Electra,Trek
+880,11120.3254,9,high,9,high,Trek,Trek
+880,11120.3254,9,high,9,high,Trek,Trek
+20,11102.4700,1,mid,8,high,Electra,Surly
+798,11062.4171,7,mid,9,high,"Sun Bicycles",Trek
+798,11062.4171,9,high,9,high,Trek,Trek
+798,11062.4171,3,high,9,high,Heller,Trek
+798,11062.4171,9,high,9,high,Trek,Trek
+798,11062.4171,9,high,9,high,Trek,Trek
+295,11055.9410,9,high,9,high,Trek,Trek
+295,11055.9410,7,mid,9,high,"Sun Bicycles",Trek
+295,11055.9410,9,high,9,high,Trek,Trek
+295,11055.9410,9,high,9,high,Trek,Trek
+295,11055.9410,8,high,9,high,Surly,Trek
+609,11035.8480,7,mid,9,high,"Sun Bicycles",Trek
+609,11035.8480,9,high,9,high,Trek,Trek
+609,11035.8480,9,high,9,high,Trek,Trek
+609,11035.8480,1,mid,9,high,Electra,Trek
+34,11035.7581,9,high,9,high,Trek,Trek
+34,11035.7581,9,high,9,high,Trek,Trek
+34,11035.7581,9,high,9,high,Trek,Trek
+159,11013.9345,1,mid,1,mid,Electra,Electra
+159,11013.9345,9,high,1,mid,Trek,Electra
+159,11013.9345,8,high,1,mid,Surly,Electra
+159,11013.9345,1,mid,1,mid,Electra,Electra
+783,10998.0295,9,high,9,high,Trek,Trek
+783,10998.0295,9,high,9,high,Trek,Trek
+783,10998.0295,1,mid,9,high,Electra,Trek
+783,10998.0295,1,mid,9,high,Electra,Trek
+783,10998.0295,7,mid,9,high,"Sun Bicycles",Trek
+997,10986.9040,8,high,9,high,Surly,Trek
+997,10986.9040,1,mid,9,high,Electra,Trek
+997,10986.9040,9,high,9,high,Trek,Trek
+997,10986.9040,9,high,9,high,Trek,Trek
+810,10951.5614,8,high,7,mid,Surly,"Sun Bicycles"
+810,10951.5614,9,high,7,mid,Trek,"Sun Bicycles"
+810,10951.5614,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+810,10951.5614,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+196,10949.9468,9,high,9,high,Trek,Trek
+196,10949.9468,7,mid,9,high,"Sun Bicycles",Trek
+196,10949.9468,9,high,9,high,Trek,Trek
+245,10869.9637,1,mid,9,high,Electra,Trek
+245,10869.9637,9,high,9,high,Trek,Trek
+245,10869.9637,9,high,9,high,Trek,Trek
+403,10866.9622,1,mid,9,high,Electra,Trek
+403,10866.9622,9,high,9,high,Trek,Trek
+403,10866.9622,9,high,9,high,Trek,Trek
+89,10805.3354,9,high,9,high,Trek,Trek
+68,10802.6294,1,mid,1,mid,Electra,Electra
+550,10794.3537,1,mid,7,mid,Electra,"Sun Bicycles"
+550,10794.3537,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+550,10794.3537,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+550,10794.3537,9,high,7,mid,Trek,"Sun Bicycles"
+1018,10792.2470,7,mid,9,high,"Sun Bicycles",Trek
+1018,10792.2470,9,high,9,high,Trek,Trek
+1018,10792.2470,9,high,9,high,Trek,Trek
+888,10728.4385,9,high,9,high,Trek,Trek
+888,10728.4385,9,high,9,high,Trek,Trek
+888,10728.4385,9,high,9,high,Trek,Trek
+888,10728.4385,2,mid,9,high,Haro,Trek
+888,10728.4385,1,mid,9,high,Electra,Trek
+27,10719.0988,1,mid,1,mid,Electra,Electra
+27,10719.0988,1,mid,1,mid,Electra,Electra
+27,10719.0988,2,mid,1,mid,Haro,Electra
+27,10719.0988,1,mid,1,mid,Electra,Electra
+815,10620.0449,8,high,8,high,Surly,Surly
+815,10620.0449,9,high,8,high,Trek,Surly
+815,10620.0449,8,high,8,high,Surly,Surly
+815,10620.0449,1,mid,8,high,Electra,Surly
+815,10620.0449,8,high,8,high,Surly,Surly
+1312,10617.9730,9,high,9,high,Trek,Trek
+1312,10617.9730,2,mid,9,high,Haro,Trek
+576,10574.9624,1,mid,9,high,Electra,Trek
+576,10574.9624,9,high,9,high,Trek,Trek
+576,10574.9624,9,high,9,high,Trek,Trek
+247,10570.4719,9,high,9,high,Trek,Trek
+247,10570.4719,8,high,9,high,Surly,Trek
+1205,10563.6480,1,mid,8,high,Electra,Surly
+1205,10563.6480,9,high,8,high,Trek,Surly
+1205,10563.6480,8,high,8,high,Surly,Surly
+1205,10563.6480,8,high,8,high,Surly,Surly
+1138,10541.9632,1,mid,9,high,Electra,Trek
+1138,10541.9632,9,high,9,high,Trek,Trek
+1138,10541.9632,9,high,9,high,Trek,Trek
+1138,10541.9632,9,high,9,high,Trek,Trek
+867,10529.9630,9,high,9,high,Trek,Trek
+867,10529.9630,9,high,9,high,Trek,Trek
+1443,10372.0934,9,high,9,high,Trek,Trek
+1443,10372.0934,1,mid,9,high,Electra,Trek
+1443,10372.0934,9,high,9,high,Trek,Trek
+1443,10372.0934,1,mid,9,high,Electra,Trek
+1443,10372.0934,8,high,9,high,Surly,Trek
+1440,10360.2550,4,low,3,high,"Pure Cycles",Heller
+1440,10360.2550,8,high,3,high,Surly,Heller
+1440,10360.2550,9,high,3,high,Trek,Heller
+1440,10360.2550,1,mid,3,high,Electra,Heller
+1440,10360.2550,3,high,3,high,Heller,Heller
+30,10355.3908,1,mid,1,mid,Electra,Electra
+30,10355.3908,1,mid,1,mid,Electra,Electra
+30,10355.3908,1,mid,1,mid,Electra,Electra
+30,10355.3908,9,high,1,mid,Trek,Electra
+543,10336.9624,1,mid,1,mid,Electra,Electra
+543,10336.9624,1,mid,1,mid,Electra,Electra
+543,10336.9624,9,high,1,mid,Trek,Electra
+147,10322.9721,9,high,9,high,Trek,Trek
+147,10322.9721,9,high,9,high,Trek,Trek
+126,10314.9248,1,mid,9,high,Electra,Trek
+126,10314.9248,6,low,9,high,Strider,Trek
+126,10314.9248,2,mid,9,high,Haro,Trek
+126,10314.9248,9,high,9,high,Trek,Trek
+126,10314.9248,9,high,9,high,Trek,Trek
+255,10269.8557,9,high,9,high,Trek,Trek
+255,10269.8557,8,high,9,high,Surly,Trek
+255,10269.8557,7,mid,9,high,"Sun Bicycles",Trek
+255,10269.8557,1,mid,9,high,Electra,Trek
+255,10269.8557,9,high,9,high,Trek,Trek
+463,10266.9542,9,high,9,high,Trek,Trek
+463,10266.9542,6,low,9,high,Strider,Trek
+463,10266.9542,1,mid,9,high,Electra,Trek
+463,10266.9542,9,high,9,high,Trek,Trek
+259,10231.0464,1,mid,9,high,Electra,Trek
+259,10231.0464,9,high,9,high,Trek,Trek
+259,10231.0464,8,high,9,high,Surly,Trek
+259,10231.0464,1,mid,9,high,Electra,Trek
+259,10231.0464,9,high,9,high,Trek,Trek
+1368,10216.2360,9,high,1,mid,Trek,Electra
+1368,10216.2360,3,high,1,mid,Heller,Electra
+1368,10216.2360,1,mid,1,mid,Electra,Electra
+1368,10216.2360,1,mid,1,mid,Electra,Electra
+1368,10216.2360,1,mid,1,mid,Electra,Electra
+715,10187.9451,2,mid,7,mid,Haro,"Sun Bicycles"
+715,10187.9451,9,high,7,mid,Trek,"Sun Bicycles"
+715,10187.9451,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+715,10187.9451,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+715,10187.9451,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+844,10186.6285,9,high,9,high,Trek,Trek
+844,10186.6285,7,mid,9,high,"Sun Bicycles",Trek
+844,10186.6285,8,high,9,high,Surly,Trek
+844,10186.6285,9,high,9,high,Trek,Trek
+844,10186.6285,7,mid,9,high,"Sun Bicycles",Trek
+239,10156.8968,1,mid,1,mid,Electra,Electra
+239,10156.8968,9,high,1,mid,Trek,Electra
+239,10156.8968,9,high,1,mid,Trek,Electra
+824,10132.3624,1,mid,9,high,Electra,Trek
+824,10132.3624,9,high,9,high,Trek,Trek
+1225,10050.6281,1,mid,8,high,Electra,Surly
+1225,10050.6281,8,high,8,high,Surly,Surly
+1225,10050.6281,1,mid,8,high,Electra,Surly
+1225,10050.6281,8,high,8,high,Surly,Surly
+1225,10050.6281,9,high,8,high,Trek,Surly
+320,10047.4245,7,mid,9,high,"Sun Bicycles",Trek
+320,10047.4245,9,high,9,high,Trek,Trek
+240,9959.0962,1,mid,1,mid,Electra,Electra
+240,9959.0962,9,high,1,mid,Trek,Electra
+594,9942.1400,1,mid,1,mid,Electra,Electra
+594,9942.1400,1,mid,1,mid,Electra,Electra
+594,9942.1400,9,high,1,mid,Trek,Electra
+594,9942.1400,7,mid,1,mid,"Sun Bicycles",Electra
+594,9942.1400,9,high,1,mid,Trek,Electra
+492,9927.5559,4,low,5,mid,"Pure Cycles",Ritchey
+492,9927.5559,5,mid,5,mid,Ritchey,Ritchey
+492,9927.5559,9,high,5,mid,Trek,Ritchey
+492,9927.5559,1,mid,5,mid,Electra,Ritchey
+886,9927.2049,1,mid,9,high,Electra,Trek
+886,9927.2049,9,high,9,high,Trek,Trek
+886,9927.2049,4,low,9,high,"Pure Cycles",Trek
+886,9927.2049,7,mid,9,high,"Sun Bicycles",Trek
+886,9927.2049,9,high,9,high,Trek,Trek
+1439,9919.9210,9,high,1,mid,Trek,Electra
+1439,9919.9210,1,mid,1,mid,Electra,Electra
+1439,9919.9210,1,mid,1,mid,Electra,Electra
+1439,9919.9210,7,mid,1,mid,"Sun Bicycles",Electra
+1439,9919.9210,7,mid,1,mid,"Sun Bicycles",Electra
+60,9919.3294,2,mid,1,mid,Haro,Electra
+60,9919.3294,2,mid,1,mid,Haro,Electra
+60,9919.3294,1,mid,1,mid,Electra,Electra
+60,9919.3294,1,mid,1,mid,Electra,Electra
+60,9919.3294,1,mid,1,mid,Electra,Electra
+544,9908.4642,9,high,9,high,Trek,Trek
+544,9908.4642,9,high,9,high,Trek,Trek
+544,9908.4642,7,mid,9,high,"Sun Bicycles",Trek
+544,9908.4642,9,high,9,high,Trek,Trek
+1034,9874.6525,1,mid,1,mid,Electra,Electra
+1034,9874.6525,8,high,1,mid,Surly,Electra
+1034,9874.6525,1,mid,1,mid,Electra,Electra
+1034,9874.6525,9,high,1,mid,Trek,Electra
+356,9865.4727,9,high,9,high,Trek,Trek
+356,9865.4727,9,high,9,high,Trek,Trek
+838,9849.0740,9,high,9,high,Trek,Trek
+838,9849.0740,9,high,9,high,Trek,Trek
+838,9849.0740,8,high,9,high,Surly,Trek
+421,9838.4455,9,high,9,high,Trek,Trek
+421,9838.4455,1,mid,9,high,Electra,Trek
+421,9838.4455,9,high,9,high,Trek,Trek
+421,9838.4455,8,high,9,high,Surly,Trek
+186,9833.6547,9,high,9,high,Trek,Trek
+186,9833.6547,9,high,9,high,Trek,Trek
+186,9833.6547,1,mid,9,high,Electra,Trek
+88,9805.2464,9,high,1,mid,Trek,Electra
+88,9805.2464,7,mid,1,mid,"Sun Bicycles",Electra
+88,9805.2464,9,high,1,mid,Trek,Electra
+345,9728.9827,9,high,9,high,Trek,Trek
+345,9728.9827,9,high,9,high,Trek,Trek
+1415,9725.8374,9,high,8,high,Trek,Surly
+1415,9725.8374,8,high,8,high,Surly,Surly
+1415,9725.8374,8,high,8,high,Surly,Surly
+1415,9725.8374,1,mid,8,high,Electra,Surly
+1415,9725.8374,7,mid,8,high,"Sun Bicycles",Surly
+983,9712.9515,1,mid,9,high,Electra,Trek
+983,9712.9515,9,high,9,high,Trek,Trek
+983,9712.9515,5,mid,9,high,Ritchey,Trek
+983,9712.9515,7,mid,9,high,"Sun Bicycles",Trek
+983,9712.9515,9,high,9,high,Trek,Trek
+499,9704.9449,1,mid,8,high,Electra,Surly
+499,9704.9449,9,high,8,high,Trek,Surly
+499,9704.9449,9,high,8,high,Trek,Surly
+499,9704.9449,8,high,8,high,Surly,Surly
+499,9704.9449,8,high,8,high,Surly,Surly
+411,9673.8444,8,high,9,high,Surly,Trek
+411,9673.8444,1,mid,9,high,Electra,Trek
+411,9673.8444,9,high,9,high,Trek,Trek
+598,9645.3834,7,mid,9,high,"Sun Bicycles",Trek
+598,9645.3834,9,high,9,high,Trek,Trek
+15,9586.8018,8,high,9,high,Surly,Trek
+15,9586.8018,9,high,9,high,Trek,Trek
+80,9563.3381,1,mid,1,mid,Electra,Electra
+80,9563.3381,1,mid,1,mid,Electra,Electra
+80,9563.3381,1,mid,1,mid,Electra,Electra
+738,9532.3529,1,mid,1,mid,Electra,Electra
+738,9532.3529,1,mid,1,mid,Electra,Electra
+738,9532.3529,8,high,1,mid,Surly,Electra
+738,9532.3529,9,high,1,mid,Trek,Electra
+26,9514.0705,9,high,8,high,Trek,Surly
+26,9514.0705,2,mid,8,high,Haro,Surly
+26,9514.0705,8,high,8,high,Surly,Surly
+26,9514.0705,7,mid,8,high,"Sun Bicycles",Surly
+26,9514.0705,6,low,8,high,Strider,Surly
+329,9499.9810,9,high,9,high,Trek,Trek
+1261,9497.1720,4,low,9,high,"Pure Cycles",Trek
+1261,9497.1720,9,high,9,high,Trek,Trek
+1261,9497.1720,8,high,9,high,Surly,Trek
+1261,9497.1720,1,mid,9,high,Electra,Trek
+1010,9479.9557,1,mid,1,mid,Electra,Electra
+1010,9479.9557,1,mid,1,mid,Electra,Electra
+1010,9479.9557,9,high,1,mid,Trek,Electra
+1010,9479.9557,1,mid,1,mid,Electra,Electra
+298,9474.9404,1,mid,9,high,Electra,Trek
+298,9474.9404,9,high,9,high,Trek,Trek
+298,9474.9404,9,high,9,high,Trek,Trek
+298,9474.9404,1,mid,9,high,Electra,Trek
+120,9425.1668,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+120,9425.1668,9,high,7,mid,Trek,"Sun Bicycles"
+120,9425.1668,9,high,7,mid,Trek,"Sun Bicycles"
+120,9425.1668,5,mid,7,mid,Ritchey,"Sun Bicycles"
+120,9425.1668,9,high,7,mid,Trek,"Sun Bicycles"
+559,9408.7878,1,mid,1,mid,Electra,Electra
+559,9408.7878,9,high,1,mid,Trek,Electra
+559,9408.7878,8,high,1,mid,Surly,Electra
+559,9408.7878,1,mid,1,mid,Electra,Electra
+1051,9399.9650,9,high,9,high,Trek,Trek
+1051,9399.9650,9,high,9,high,Trek,Trek
+1051,9399.9650,9,high,9,high,Trek,Trek
+802,9385.1020,1,mid,9,high,Electra,Trek
+802,9385.1020,4,low,9,high,"Pure Cycles",Trek
+802,9385.1020,9,high,9,high,Trek,Trek
+1201,9372.3701,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1201,9372.3701,9,high,7,mid,Trek,"Sun Bicycles"
+1201,9372.3701,8,high,7,mid,Surly,"Sun Bicycles"
+1201,9372.3701,1,mid,7,mid,Electra,"Sun Bicycles"
+1201,9372.3701,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1436,9334.5094,7,mid,9,high,"Sun Bicycles",Trek
+1436,9334.5094,1,mid,9,high,Electra,Trek
+1436,9334.5094,9,high,9,high,Trek,Trek
+1436,9334.5094,9,high,9,high,Trek,Trek
+1436,9334.5094,9,high,9,high,Trek,Trek
+279,9327.7380,8,high,8,high,Surly,Surly
+279,9327.7380,9,high,8,high,Trek,Surly
+279,9327.7380,7,mid,8,high,"Sun Bicycles",Surly
+279,9327.7380,1,mid,8,high,Electra,Surly
+920,9314.8357,8,high,9,high,Surly,Trek
+920,9314.8357,9,high,9,high,Trek,Trek
+920,9314.8357,9,high,9,high,Trek,Trek
+920,9314.8357,1,mid,9,high,Electra,Trek
+920,9314.8357,7,mid,9,high,"Sun Bicycles",Trek
+1165,9301.9304,1,mid,1,mid,Electra,Electra
+1165,9301.9304,1,mid,1,mid,Electra,Electra
+1165,9301.9304,1,mid,1,mid,Electra,Electra
+1165,9301.9304,9,high,1,mid,Trek,Electra
+1165,9301.9304,1,mid,1,mid,Electra,Electra
+661,9287.9439,9,high,8,high,Trek,Surly
+661,9287.9439,8,high,8,high,Surly,Surly
+661,9287.9439,7,mid,8,high,"Sun Bicycles",Surly
+661,9287.9439,1,mid,8,high,Electra,Surly
+1349,9278.6539,1,mid,5,mid,Electra,Ritchey
+1349,9278.6539,5,mid,5,mid,Ritchey,Ritchey
+1349,9278.6539,9,high,5,mid,Trek,Ritchey
+1349,9278.6539,4,low,5,mid,"Pure Cycles",Ritchey
+794,9274.9654,9,high,9,high,Trek,Trek
+794,9274.9654,9,high,9,high,Trek,Trek
+794,9274.9654,1,mid,9,high,Electra,Trek
+230,9211.5230,8,high,9,high,Surly,Trek
+230,9211.5230,9,high,9,high,Trek,Trek
+230,9211.5230,1,mid,9,high,Electra,Trek
+755,9210.7184,3,high,1,mid,Heller,Electra
+755,9210.7184,1,mid,1,mid,Electra,Electra
+755,9210.7184,9,high,1,mid,Trek,Electra
+755,9210.7184,1,mid,1,mid,Electra,Electra
+755,9210.7184,5,mid,1,mid,Ritchey,Electra
+42,9205.1175,1,mid,1,mid,Electra,Electra
+42,9205.1175,4,low,1,mid,"Pure Cycles",Electra
+42,9205.1175,9,high,1,mid,Trek,Electra
+42,9205.1175,1,mid,1,mid,Electra,Electra
+1441,9173.3817,9,high,9,high,Trek,Trek
+1441,9173.3817,8,high,9,high,Surly,Trek
+1441,9173.3817,9,high,9,high,Trek,Trek
+282,9163.4289,1,mid,1,mid,Electra,Electra
+282,9163.4289,1,mid,1,mid,Electra,Electra
+282,9163.4289,1,mid,1,mid,Electra,Electra
+282,9163.4289,9,high,1,mid,Trek,Electra
+282,9163.4289,1,mid,1,mid,Electra,Electra
+836,9161.9460,2,mid,9,high,Haro,Trek
+836,9161.9460,9,high,9,high,Trek,Trek
+836,9161.9460,9,high,9,high,Trek,Trek
+836,9161.9460,7,mid,9,high,"Sun Bicycles",Trek
+340,9157.7560,8,high,8,high,Surly,Surly
+340,9157.7560,8,high,8,high,Surly,Surly
+340,9157.7560,9,high,8,high,Trek,Surly
+340,9157.7560,8,high,8,high,Surly,Surly
+517,9044.9270,9,high,9,high,Trek,Trek
+517,9044.9270,4,low,9,high,"Pure Cycles",Trek
+517,9044.9270,9,high,9,high,Trek,Trek
+517,9044.9270,9,high,9,high,Trek,Trek
+732,8975.1570,4,low,1,mid,"Pure Cycles",Electra
+732,8975.1570,1,mid,1,mid,Electra,Electra
+732,8975.1570,9,high,1,mid,Trek,Electra
+732,8975.1570,1,mid,1,mid,Electra,Electra
+90,8956.7850,9,high,1,mid,Trek,Electra
+90,8956.7850,1,mid,1,mid,Electra,Electra
+90,8956.7850,8,high,1,mid,Surly,Electra
+444,8945.7500,9,high,9,high,Trek,Trek
+444,8945.7500,1,mid,9,high,Electra,Trek
+444,8945.7500,8,high,9,high,Surly,Trek
+444,8945.7500,9,high,9,high,Trek,Trek
+1279,8936.4460,7,mid,9,high,"Sun Bicycles",Trek
+1279,8936.4460,8,high,9,high,Surly,Trek
+1279,8936.4460,9,high,9,high,Trek,Trek
+1279,8936.4460,9,high,9,high,Trek,Trek
+46,8902.5066,1,mid,1,mid,Electra,Electra
+46,8902.5066,1,mid,1,mid,Electra,Electra
+251,8879.4529,1,mid,1,mid,Electra,Electra
+251,8879.4529,1,mid,1,mid,Electra,Electra
+251,8879.4529,9,high,1,mid,Trek,Electra
+893,8820.1505,4,low,9,high,"Pure Cycles",Trek
+893,8820.1505,9,high,9,high,Trek,Trek
+893,8820.1505,9,high,9,high,Trek,Trek
+893,8820.1505,1,mid,9,high,Electra,Trek
+893,8820.1505,7,mid,9,high,"Sun Bicycles",Trek
+959,8816.9544,1,mid,8,high,Electra,Surly
+959,8816.9544,8,high,8,high,Surly,Surly
+959,8816.9544,9,high,8,high,Trek,Surly
+1031,8787.1297,1,mid,1,mid,Electra,Electra
+1031,8787.1297,1,mid,1,mid,Electra,Electra
+1031,8787.1297,9,high,1,mid,Trek,Electra
+1031,8787.1297,7,mid,1,mid,"Sun Bicycles",Electra
+1031,8787.1297,1,mid,1,mid,Electra,Electra
+64,8778.1311,1,mid,1,mid,Electra,Electra
+587,8763.9644,8,high,8,high,Surly,Surly
+587,8763.9644,9,high,8,high,Trek,Surly
+587,8763.9644,1,mid,8,high,Electra,Surly
+328,8740.9660,9,high,9,high,Trek,Trek
+328,8740.9660,9,high,9,high,Trek,Trek
+328,8740.9660,1,mid,9,high,Electra,Trek
+713,8712.8466,9,high,9,high,Trek,Trek
+713,8712.8466,7,mid,9,high,"Sun Bicycles",Trek
+713,8712.8466,1,mid,9,high,Electra,Trek
+713,8712.8466,9,high,9,high,Trek,Trek
+713,8712.8466,9,high,9,high,Trek,Trek
+145,8696.0720,9,high,9,high,Trek,Trek
+145,8696.0720,4,low,9,high,"Pure Cycles",Trek
+145,8696.0720,1,mid,9,high,Electra,Trek
+610,8696.0720,9,high,9,high,Trek,Trek
+610,8696.0720,8,high,9,high,Surly,Trek
+610,8696.0720,1,mid,9,high,Electra,Trek
+252,8587.3970,3,high,3,high,Heller,Heller
+252,8587.3970,9,high,3,high,Trek,Heller
+252,8587.3970,1,mid,3,high,Electra,Heller
+252,8587.3970,8,high,3,high,Surly,Heller
+666,8570.9665,9,high,8,high,Trek,Surly
+666,8570.9665,2,mid,8,high,Haro,Surly
+666,8570.9665,8,high,8,high,Surly,Surly
+666,8570.9665,7,mid,8,high,"Sun Bicycles",Surly
+272,8561.2627,1,mid,9,high,Electra,Trek
+272,8561.2627,8,high,9,high,Surly,Trek
+272,8561.2627,9,high,9,high,Trek,Trek
+272,8561.2627,1,mid,9,high,Electra,Trek
+272,8561.2627,9,high,9,high,Trek,Trek
+649,8550.0527,8,high,8,high,Surly,Surly
+649,8550.0527,1,mid,8,high,Electra,Surly
+649,8550.0527,9,high,8,high,Trek,Surly
+1333,8534.3743,8,high,8,high,Surly,Surly
+1333,8534.3743,8,high,8,high,Surly,Surly
+1333,8534.3743,1,mid,8,high,Electra,Surly
+1333,8534.3743,8,high,8,high,Surly,Surly
+1333,8534.3743,9,high,8,high,Trek,Surly
+77,8522.9542,9,high,9,high,Trek,Trek
+351,8498.4630,9,high,8,high,Trek,Surly
+351,8498.4630,8,high,8,high,Surly,Surly
+351,8498.4630,8,high,8,high,Surly,Surly
+351,8498.4630,1,mid,8,high,Electra,Surly
+778,8481.8980,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+778,8481.8980,1,mid,4,low,Electra,"Pure Cycles"
+778,8481.8980,9,high,4,low,Trek,"Pure Cycles"
+778,8481.8980,4,low,4,low,"Pure Cycles","Pure Cycles"
+1341,8476.5220,4,low,9,high,"Pure Cycles",Trek
+1341,8476.5220,1,mid,9,high,Electra,Trek
+1341,8476.5220,9,high,9,high,Trek,Trek
+149,8474.1624,8,high,8,high,Surly,Surly
+149,8474.1624,9,high,8,high,Trek,Surly
+1161,8445.9545,1,mid,1,mid,Electra,Electra
+1161,8445.9545,1,mid,1,mid,Electra,Electra
+1161,8445.9545,9,high,1,mid,Trek,Electra
+206,8429.9454,8,high,5,mid,Surly,Ritchey
+206,8429.9454,5,mid,5,mid,Ritchey,Ritchey
+206,8429.9454,9,high,5,mid,Trek,Ritchey
+1374,8394.4714,1,mid,1,mid,Electra,Electra
+1374,8394.4714,3,high,1,mid,Heller,Electra
+1374,8394.4714,1,mid,1,mid,Electra,Electra
+1374,8394.4714,1,mid,1,mid,Electra,Electra
+1374,8394.4714,8,high,1,mid,Surly,Electra
+564,8392.9437,9,high,9,high,Trek,Trek
+564,8392.9437,9,high,9,high,Trek,Trek
+564,8392.9437,2,mid,9,high,Haro,Trek
+564,8392.9437,1,mid,9,high,Electra,Trek
+536,8376.9244,1,mid,1,mid,Electra,Electra
+536,8376.9244,5,mid,1,mid,Ritchey,Electra
+536,8376.9244,9,high,1,mid,Trek,Electra
+536,8376.9244,1,mid,1,mid,Electra,Electra
+506,8359.2160,4,low,9,high,"Pure Cycles",Trek
+506,8359.2160,9,high,9,high,Trek,Trek
+506,8359.2160,4,low,9,high,"Pure Cycles",Trek
+506,8359.2160,9,high,9,high,Trek,Trek
+578,8342.9390,1,mid,1,mid,Electra,Electra
+578,8342.9390,9,high,1,mid,Trek,Electra
+578,8342.9390,1,mid,1,mid,Electra,Electra
+578,8342.9390,1,mid,1,mid,Electra,Electra
+1290,8336.4169,1,mid,1,mid,Electra,Electra
+1290,8336.4169,1,mid,1,mid,Electra,Electra
+1290,8336.4169,9,high,1,mid,Trek,Electra
+1290,8336.4169,2,mid,1,mid,Haro,Electra
+1290,8336.4169,1,mid,1,mid,Electra,Electra
+115,8327.9477,9,high,9,high,Trek,Trek
+115,8327.9477,9,high,9,high,Trek,Trek
+115,8327.9477,9,high,9,high,Trek,Trek
+115,8327.9477,9,high,9,high,Trek,Trek
+870,8309.4449,9,high,9,high,Trek,Trek
+870,8309.4449,9,high,9,high,Trek,Trek
+870,8309.4449,1,mid,9,high,Electra,Trek
+870,8309.4449,9,high,9,high,Trek,Trek
+1084,8303.3719,1,mid,9,high,Electra,Trek
+1084,8303.3719,9,high,9,high,Trek,Trek
+1084,8303.3719,8,high,9,high,Surly,Trek
+1192,8299.9650,9,high,8,high,Trek,Surly
+1192,8299.9650,8,high,8,high,Surly,Surly
+1069,8280.5430,8,high,9,high,Surly,Trek
+1069,8280.5430,9,high,9,high,Trek,Trek
+1069,8280.5430,9,high,9,high,Trek,Trek
+181,8273.9559,9,high,9,high,Trek,Trek
+181,8273.9559,8,high,9,high,Surly,Trek
+1236,8263.8670,9,high,9,high,Trek,Trek
+1236,8263.8670,9,high,9,high,Trek,Trek
+1236,8263.8670,7,mid,9,high,"Sun Bicycles",Trek
+420,8204.5302,1,mid,8,high,Electra,Surly
+420,8204.5302,8,high,8,high,Surly,Surly
+420,8204.5302,9,high,8,high,Trek,Surly
+420,8204.5302,9,high,8,high,Trek,Surly
+420,8204.5302,8,high,8,high,Surly,Surly
+990,8200.7267,5,mid,1,mid,Ritchey,Electra
+990,8200.7267,1,mid,1,mid,Electra,Electra
+990,8200.7267,9,high,1,mid,Trek,Electra
+990,8200.7267,3,high,1,mid,Heller,Electra
+990,8200.7267,1,mid,1,mid,Electra,Electra
+800,8177.0541,1,mid,1,mid,Electra,Electra
+800,8177.0541,1,mid,1,mid,Electra,Electra
+800,8177.0541,9,high,1,mid,Trek,Electra
+637,8127.9469,1,mid,1,mid,Electra,Electra
+637,8127.9469,1,mid,1,mid,Electra,Electra
+637,8127.9469,1,mid,1,mid,Electra,Electra
+637,8127.9469,9,high,1,mid,Trek,Electra
+637,8127.9469,1,mid,1,mid,Electra,Electra
+479,8109.9505,1,mid,9,high,Electra,Trek
+479,8109.9505,9,high,9,high,Trek,Trek
+479,8109.9505,9,high,9,high,Trek,Trek
+479,8109.9505,8,high,9,high,Surly,Trek
+479,8109.9505,5,mid,9,high,Ritchey,Trek
+384,8096.4455,7,mid,9,high,"Sun Bicycles",Trek
+384,8096.4455,9,high,9,high,Trek,Trek
+384,8096.4455,7,mid,9,high,"Sun Bicycles",Trek
+384,8096.4455,9,high,9,high,Trek,Trek
+808,8083.9627,9,high,9,high,Trek,Trek
+808,8083.9627,8,high,9,high,Surly,Trek
+808,8083.9627,9,high,9,high,Trek,Trek
+173,8072.3310,2,mid,1,mid,Haro,Electra
+173,8072.3310,1,mid,1,mid,Electra,Electra
+173,8072.3310,7,mid,1,mid,"Sun Bicycles",Electra
+173,8072.3310,1,mid,1,mid,Electra,Electra
+173,8072.3310,9,high,1,mid,Trek,Electra
+1435,8069.6565,8,high,1,mid,Surly,Electra
+1435,8069.6565,4,low,1,mid,"Pure Cycles",Electra
+1435,8069.6565,1,mid,1,mid,Electra,Electra
+1435,8069.6565,9,high,1,mid,Trek,Electra
+1435,8069.6565,1,mid,1,mid,Electra,Electra
+991,8062.1245,4,low,4,low,"Pure Cycles","Pure Cycles"
+991,8062.1245,8,high,4,low,Surly,"Pure Cycles"
+991,8062.1245,4,low,4,low,"Pure Cycles","Pure Cycles"
+991,8062.1245,1,mid,4,low,Electra,"Pure Cycles"
+991,8062.1245,9,high,4,low,Trek,"Pure Cycles"
+496,8056.7680,3,high,5,mid,Heller,Ritchey
+496,8056.7680,9,high,5,mid,Trek,Ritchey
+496,8056.7680,5,mid,5,mid,Ritchey,Ritchey
+1060,8011.3120,8,high,8,high,Surly,Surly
+1060,8011.3120,9,high,8,high,Trek,Surly
+1060,8011.3120,1,mid,8,high,Electra,Surly
+1148,8009.0321,1,mid,8,high,Electra,Surly
+1148,8009.0321,8,high,8,high,Surly,Surly
+1148,8009.0321,8,high,8,high,Surly,Surly
+1148,8009.0321,9,high,8,high,Trek,Surly
+1148,8009.0321,1,mid,8,high,Electra,Surly
+1445,7999.9840,9,high,9,high,Trek,Trek
+934,7999.9630,9,high,8,high,Trek,Surly
+934,7999.9630,8,high,8,high,Surly,Surly
+960,7995.8047,4,low,4,low,"Pure Cycles","Pure Cycles"
+960,7995.8047,1,mid,4,low,Electra,"Pure Cycles"
+960,7995.8047,9,high,4,low,Trek,"Pure Cycles"
+960,7995.8047,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+1238,7993.8650,8,high,9,high,Surly,Trek
+1238,7993.8650,9,high,9,high,Trek,Trek
+878,7984.9390,1,mid,1,mid,Electra,Electra
+878,7984.9390,9,high,1,mid,Trek,Electra
+878,7984.9390,7,mid,1,mid,"Sun Bicycles",Electra
+878,7984.9390,7,mid,1,mid,"Sun Bicycles",Electra
+878,7984.9390,1,mid,1,mid,Electra,Electra
+160,7975.9730,9,high,8,high,Trek,Surly
+160,7975.9730,8,high,8,high,Surly,Surly
+687,7971.2261,7,mid,1,mid,"Sun Bicycles",Electra
+687,7971.2261,1,mid,1,mid,Electra,Electra
+687,7971.2261,1,mid,1,mid,Electra,Electra
+687,7971.2261,8,high,1,mid,Surly,Electra
+687,7971.2261,9,high,1,mid,Trek,Electra
+1360,7967.4144,4,low,9,high,"Pure Cycles",Trek
+1360,7967.4144,8,high,9,high,Surly,Trek
+1360,7967.4144,1,mid,9,high,Electra,Trek
+1360,7967.4144,9,high,9,high,Trek,Trek
+112,7952.0464,1,mid,1,mid,Electra,Electra
+112,7952.0464,1,mid,1,mid,Electra,Electra
+112,7952.0464,8,high,1,mid,Surly,Electra
+112,7952.0464,1,mid,1,mid,Electra,Electra
+916,7951.1468,1,mid,8,high,Electra,Surly
+916,7951.1468,7,mid,8,high,"Sun Bicycles",Surly
+916,7951.1468,8,high,8,high,Surly,Surly
+916,7951.1468,9,high,8,high,Trek,Surly
+1118,7947.4420,9,high,1,mid,Trek,Electra
+1118,7947.4420,3,high,1,mid,Heller,Electra
+1118,7947.4420,8,high,1,mid,Surly,Electra
+1118,7947.4420,1,mid,1,mid,Electra,Electra
+1026,7938.9374,9,high,9,high,Trek,Trek
+1026,7938.9374,1,mid,9,high,Electra,Trek
+1026,7938.9374,9,high,9,high,Trek,Trek
+1026,7938.9374,9,high,9,high,Trek,Trek
+1300,7932.9465,1,mid,1,mid,Electra,Electra
+1300,7932.9465,9,high,1,mid,Trek,Electra
+1300,7932.9465,1,mid,1,mid,Electra,Electra
+1300,7932.9465,1,mid,1,mid,Electra,Electra
+728,7918.8446,9,high,1,mid,Trek,Electra
+728,7918.8446,1,mid,1,mid,Electra,Electra
+728,7918.8446,5,mid,1,mid,Ritchey,Electra
+728,7918.8446,1,mid,1,mid,Electra,Electra
+728,7918.8446,8,high,1,mid,Surly,Electra
+1406,7900.4347,1,mid,1,mid,Electra,Electra
+1406,7900.4347,9,high,1,mid,Trek,Electra
+1406,7900.4347,5,mid,1,mid,Ritchey,Electra
+1406,7900.4347,1,mid,1,mid,Electra,Electra
+727,7855.2405,4,low,1,mid,"Pure Cycles",Electra
+727,7855.2405,1,mid,1,mid,Electra,Electra
+727,7855.2405,3,high,1,mid,Heller,Electra
+727,7855.2405,9,high,1,mid,Trek,Electra
+727,7855.2405,1,mid,1,mid,Electra,Electra
+1315,7848.2628,9,high,8,high,Trek,Surly
+1315,7848.2628,8,high,8,high,Surly,Surly
+1315,7848.2628,8,high,8,high,Surly,Surly
+581,7824.0401,1,mid,1,mid,Electra,Electra
+581,7824.0401,1,mid,1,mid,Electra,Electra
+581,7824.0401,1,mid,1,mid,Electra,Electra
+581,7824.0401,9,high,1,mid,Trek,Electra
+581,7824.0401,4,low,1,mid,"Pure Cycles",Electra
+453,7823.9440,9,high,9,high,Trek,Trek
+453,7823.9440,1,mid,9,high,Electra,Trek
+453,7823.9440,9,high,9,high,Trek,Trek
+453,7823.9440,2,mid,9,high,Haro,Trek
+83,7793.1507,1,mid,1,mid,Electra,Electra
+83,7793.1507,4,low,1,mid,"Pure Cycles",Electra
+83,7793.1507,1,mid,1,mid,Electra,Electra
+83,7793.1507,9,high,1,mid,Trek,Electra
+83,7793.1507,1,mid,1,mid,Electra,Electra
+1274,7791.0557,1,mid,1,mid,Electra,Electra
+1274,7791.0557,9,high,1,mid,Trek,Electra
+1274,7791.0557,1,mid,1,mid,Electra,Electra
+877,7783.4219,1,mid,1,mid,Electra,Electra
+877,7783.4219,8,high,1,mid,Surly,Electra
+877,7783.4219,2,mid,1,mid,Haro,Electra
+877,7783.4219,1,mid,1,mid,Electra,Electra
+877,7783.4219,1,mid,1,mid,Electra,Electra
+545,7782.8730,9,high,9,high,Trek,Trek
+545,7782.8730,7,mid,9,high,"Sun Bicycles",Trek
+545,7782.8730,9,high,9,high,Trek,Trek
+1081,7747.7390,1,mid,1,mid,Electra,Electra
+1081,7747.7390,3,high,1,mid,Heller,Electra
+1081,7747.7390,9,high,1,mid,Trek,Electra
+1081,7747.7390,1,mid,1,mid,Electra,Electra
+407,7719.9570,1,mid,9,high,Electra,Trek
+407,7719.9570,9,high,9,high,Trek,Trek
+407,7719.9570,9,high,9,high,Trek,Trek
+407,7719.9570,7,mid,9,high,"Sun Bicycles",Trek
+1398,7688.2721,9,high,9,high,Trek,Trek
+1398,7688.2721,4,low,9,high,"Pure Cycles",Trek
+1398,7688.2721,8,high,9,high,Surly,Trek
+1398,7688.2721,1,mid,9,high,Electra,Trek
+96,7681.1240,8,high,9,high,Surly,Trek
+96,7681.1240,9,high,9,high,Trek,Trek
+1052,7663.9490,9,high,9,high,Trek,Trek
+1052,7663.9490,9,high,9,high,Trek,Trek
+1052,7663.9490,9,high,9,high,Trek,Trek
+1052,7663.9490,1,mid,9,high,Electra,Trek
+859,7659.3381,9,high,9,high,Trek,Trek
+859,7659.3381,7,mid,9,high,"Sun Bicycles",Trek
+859,7659.3381,9,high,9,high,Trek,Trek
+859,7659.3381,9,high,9,high,Trek,Trek
+859,7659.3381,7,mid,9,high,"Sun Bicycles",Trek
+853,7601.1547,1,mid,9,high,Electra,Trek
+853,7601.1547,9,high,9,high,Trek,Trek
+853,7601.1547,9,high,9,high,Trek,Trek
+853,7601.1547,1,mid,9,high,Electra,Trek
+853,7601.1547,4,low,9,high,"Pure Cycles",Trek
+1227,7587.5154,8,high,8,high,Surly,Surly
+1227,7587.5154,4,low,8,high,"Pure Cycles",Surly
+1227,7587.5154,9,high,8,high,Trek,Surly
+787,7575.3454,1,mid,9,high,Electra,Trek
+787,7575.3454,9,high,9,high,Trek,Trek
+787,7575.3454,9,high,9,high,Trek,Trek
+787,7575.3454,2,mid,9,high,Haro,Trek
+787,7575.3454,2,mid,9,high,Haro,Trek
+69,7568.9310,1,mid,9,high,Electra,Trek
+69,7568.9310,9,high,9,high,Trek,Trek
+69,7568.9310,6,low,9,high,Strider,Trek
+529,7568.0544,9,high,8,high,Trek,Surly
+529,7568.0544,4,low,8,high,"Pure Cycles",Surly
+529,7568.0544,8,high,8,high,Surly,Surly
+529,7568.0544,1,mid,8,high,Electra,Surly
+128,7536.1622,1,mid,9,high,Electra,Trek
+128,7536.1622,9,high,9,high,Trek,Trek
+128,7536.1622,9,high,9,high,Trek,Trek
+269,7526.0367,1,mid,7,mid,Electra,"Sun Bicycles"
+269,7526.0367,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+269,7526.0367,9,high,7,mid,Trek,"Sun Bicycles"
+269,7526.0367,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1249,7520.0371,8,high,9,high,Surly,Trek
+1249,7520.0371,9,high,9,high,Trek,Trek
+1249,7520.0371,5,mid,9,high,Ritchey,Trek
+1249,7520.0371,7,mid,9,high,"Sun Bicycles",Trek
+1249,7520.0371,9,high,9,high,Trek,Trek
+225,7486.3314,1,mid,8,high,Electra,Surly
+225,7486.3314,9,high,8,high,Trek,Surly
+225,7486.3314,7,mid,8,high,"Sun Bicycles",Surly
+225,7486.3314,8,high,8,high,Surly,Surly
+1307,7482.1364,9,high,1,mid,Trek,Electra
+1307,7482.1364,1,mid,1,mid,Electra,Electra
+1307,7482.1364,1,mid,1,mid,Electra,Electra
+1307,7482.1364,1,mid,1,mid,Electra,Electra
+390,7439.9814,9,high,9,high,Trek,Trek
+1370,7439.9814,9,high,9,high,Trek,Trek
+308,7394.9644,9,high,1,mid,Trek,Electra
+308,7394.9644,8,high,1,mid,Surly,Electra
+308,7394.9644,1,mid,1,mid,Electra,Electra
+308,7394.9644,1,mid,1,mid,Electra,Electra
+472,7350.4645,1,mid,1,mid,Electra,Electra
+472,7350.4645,9,high,1,mid,Trek,Electra
+472,7350.4645,1,mid,1,mid,Electra,Electra
+1245,7345.7374,1,mid,1,mid,Electra,Electra
+1245,7345.7374,1,mid,1,mid,Electra,Electra
+1245,7345.7374,8,high,1,mid,Surly,Electra
+1245,7345.7374,9,high,1,mid,Trek,Electra
+1125,7339.4195,9,high,1,mid,Trek,Electra
+1125,7339.4195,1,mid,1,mid,Electra,Electra
+1125,7339.4195,1,mid,1,mid,Electra,Electra
+1125,7339.4195,1,mid,1,mid,Electra,Electra
+1125,7339.4195,7,mid,1,mid,"Sun Bicycles",Electra
+793,7327.0401,1,mid,1,mid,Electra,Electra
+793,7327.0401,7,mid,1,mid,"Sun Bicycles",Electra
+793,7327.0401,1,mid,1,mid,Electra,Electra
+793,7327.0401,8,high,1,mid,Surly,Electra
+793,7327.0401,7,mid,1,mid,"Sun Bicycles",Electra
+1043,7256.7738,9,high,9,high,Trek,Trek
+1043,7256.7738,9,high,9,high,Trek,Trek
+1043,7256.7738,7,mid,9,high,"Sun Bicycles",Trek
+675,7253.6195,1,mid,1,mid,Electra,Electra
+675,7253.6195,1,mid,1,mid,Electra,Electra
+675,7253.6195,9,high,1,mid,Trek,Electra
+675,7253.6195,1,mid,1,mid,Electra,Electra
+675,7253.6195,7,mid,1,mid,"Sun Bicycles",Electra
+540,7251.9655,9,high,9,high,Trek,Trek
+540,7251.9655,8,high,9,high,Surly,Trek
+540,7251.9655,9,high,9,high,Trek,Trek
+268,7211.7234,4,low,4,low,"Pure Cycles","Pure Cycles"
+268,7211.7234,1,mid,4,low,Electra,"Pure Cycles"
+268,7211.7234,9,high,4,low,Trek,"Pure Cycles"
+268,7211.7234,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+394,7184.9724,9,high,8,high,Trek,Surly
+394,7184.9724,8,high,8,high,Surly,Surly
+782,7183.3227,9,high,9,high,Trek,Trek
+782,7183.3227,9,high,9,high,Trek,Trek
+782,7183.3227,7,mid,9,high,"Sun Bicycles",Trek
+354,7179.9832,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+354,7179.9832,2,mid,7,mid,Haro,"Sun Bicycles"
+354,7179.9832,9,high,7,mid,Trek,"Sun Bicycles"
+354,7179.9832,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+726,7176.2149,1,mid,1,mid,Electra,Electra
+726,7176.2149,1,mid,1,mid,Electra,Electra
+726,7176.2149,9,high,1,mid,Trek,Electra
+726,7176.2149,8,high,1,mid,Surly,Electra
+726,7176.2149,4,low,1,mid,"Pure Cycles",Electra
+76,7168.4778,7,mid,1,mid,"Sun Bicycles",Electra
+76,7168.4778,2,mid,1,mid,Haro,Electra
+76,7168.4778,9,high,1,mid,Trek,Electra
+76,7168.4778,1,mid,1,mid,Electra,Electra
+76,7168.4778,9,high,1,mid,Trek,Electra
+1120,7159.9557,9,high,9,high,Trek,Trek
+1120,7159.9557,9,high,9,high,Trek,Trek
+1120,7159.9557,7,mid,9,high,"Sun Bicycles",Trek
+1120,7159.9557,8,high,9,high,Surly,Trek
+1162,7157.3531,9,high,9,high,Trek,Trek
+1162,7157.3531,1,mid,9,high,Electra,Trek
+1162,7157.3531,9,high,9,high,Trek,Trek
+84,7154.5445,7,mid,9,high,"Sun Bicycles",Trek
+84,7154.5445,1,mid,9,high,Electra,Trek
+84,7154.5445,9,high,9,high,Trek,Trek
+84,7154.5445,9,high,9,high,Trek,Trek
+7,7147.1629,9,high,9,high,Trek,Trek
+242,7143.6644,9,high,9,high,Trek,Trek
+242,7143.6644,8,high,9,high,Surly,Trek
+242,7143.6644,9,high,9,high,Trek,Trek
+1151,7139.9540,1,mid,1,mid,Electra,Electra
+1151,7139.9540,9,high,1,mid,Trek,Electra
+1151,7139.9540,1,mid,1,mid,Electra,Electra
+985,7130.5405,1,mid,1,mid,Electra,Electra
+985,7130.5405,9,high,1,mid,Trek,Electra
+985,7130.5405,7,mid,1,mid,"Sun Bicycles",Electra
+985,7130.5405,1,mid,1,mid,Electra,Electra
+985,7130.5405,1,mid,1,mid,Electra,Electra
+672,7111.0354,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+672,7111.0354,2,mid,7,mid,Haro,"Sun Bicycles"
+672,7111.0354,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+672,7111.0354,9,high,7,mid,Trek,"Sun Bicycles"
+569,7105.7751,8,high,8,high,Surly,Surly
+569,7105.7751,5,mid,8,high,Ritchey,Surly
+569,7105.7751,9,high,8,high,Trek,Surly
+569,7105.7751,8,high,8,high,Surly,Surly
+569,7105.7751,1,mid,8,high,Electra,Surly
+1150,7091.9367,2,mid,9,high,Haro,Trek
+1150,7091.9367,9,high,9,high,Trek,Trek
+1150,7091.9367,8,high,9,high,Surly,Trek
+1150,7091.9367,9,high,9,high,Trek,Trek
+125,7067.9628,9,high,1,mid,Trek,Electra
+125,7067.9628,1,mid,1,mid,Electra,Electra
+1230,7063.4639,2,mid,9,high,Haro,Trek
+1230,7063.4639,1,mid,9,high,Electra,Trek
+1230,7063.4639,9,high,9,high,Trek,Trek
+1422,7049.6730,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1422,7049.6730,9,high,7,mid,Trek,"Sun Bicycles"
+1314,7045.1564,9,high,1,mid,Trek,Electra
+1314,7045.1564,1,mid,1,mid,Electra,Electra
+1314,7045.1564,8,high,1,mid,Surly,Electra
+1314,7045.1564,1,mid,1,mid,Electra,Electra
+538,7042.6724,9,high,8,high,Trek,Surly
+538,7042.6724,4,low,8,high,"Pure Cycles",Surly
+538,7042.6724,8,high,8,high,Surly,Surly
+538,7042.6724,8,high,8,high,Surly,Surly
+538,7042.6724,1,mid,8,high,Electra,Surly
+665,7040.8464,9,high,9,high,Trek,Trek
+665,7040.8464,7,mid,9,high,"Sun Bicycles",Trek
+665,7040.8464,8,high,9,high,Surly,Trek
+626,7022.9624,9,high,1,mid,Trek,Electra
+626,7022.9624,1,mid,1,mid,Electra,Electra
+1372,7021.1487,7,mid,8,high,"Sun Bicycles",Surly
+1372,7021.1487,1,mid,8,high,Electra,Surly
+1372,7021.1487,9,high,8,high,Trek,Surly
+1372,7021.1487,8,high,8,high,Surly,Surly
+417,7004.8410,2,mid,7,mid,Haro,"Sun Bicycles"
+417,7004.8410,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+417,7004.8410,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+417,7004.8410,9,high,7,mid,Trek,"Sun Bicycles"
+51,7000.0580,8,high,8,high,Surly,Surly
+51,7000.0580,9,high,8,high,Trek,Surly
+1442,6987.2487,9,high,1,mid,Trek,Electra
+1442,6987.2487,1,mid,1,mid,Electra,Electra
+1442,6987.2487,4,low,1,mid,"Pure Cycles",Electra
+1442,6987.2487,7,mid,1,mid,"Sun Bicycles",Electra
+1442,6987.2487,1,mid,1,mid,Electra,Electra
+57,6981.9401,9,high,9,high,Trek,Trek
+57,6981.9401,2,mid,9,high,Haro,Trek
+922,6978.7151,8,high,9,high,Surly,Trek
+922,6978.7151,7,mid,9,high,"Sun Bicycles",Trek
+922,6978.7151,9,high,9,high,Trek,Trek
+922,6978.7151,9,high,9,high,Trek,Trek
+922,6978.7151,7,mid,9,high,"Sun Bicycles",Trek
+491,6971.5537,2,mid,2,mid,Haro,Haro
+491,6971.5537,9,high,2,mid,Trek,Haro
+491,6971.5537,1,mid,2,mid,Electra,Haro
+107,6961.0917,9,high,9,high,Trek,Trek
+107,6961.0917,9,high,9,high,Trek,Trek
+107,6961.0917,4,low,9,high,"Pure Cycles",Trek
+107,6961.0917,4,low,9,high,"Pure Cycles",Trek
+481,6947.9474,1,mid,1,mid,Electra,Electra
+481,6947.9474,1,mid,1,mid,Electra,Electra
+481,6947.9474,9,high,1,mid,Trek,Electra
+895,6929.1049,1,mid,1,mid,Electra,Electra
+895,6929.1049,9,high,1,mid,Trek,Electra
+895,6929.1049,8,high,1,mid,Surly,Electra
+895,6929.1049,1,mid,1,mid,Electra,Electra
+349,6912.1715,8,high,8,high,Surly,Surly
+349,6912.1715,9,high,8,high,Trek,Surly
+218,6902.4650,8,high,9,high,Surly,Trek
+218,6902.4650,4,low,9,high,"Pure Cycles",Trek
+218,6902.4650,9,high,9,high,Trek,Trek
+218,6902.4650,1,mid,9,high,Electra,Trek
+754,6887.1357,9,high,9,high,Trek,Trek
+754,6887.1357,1,mid,9,high,Electra,Trek
+754,6887.1357,9,high,9,high,Trek,Trek
+754,6887.1357,9,high,9,high,Trek,Trek
+754,6887.1357,8,high,9,high,Surly,Trek
+314,6872.9437,9,high,9,high,Trek,Trek
+314,6872.9437,1,mid,9,high,Electra,Trek
+314,6872.9437,9,high,9,high,Trek,Trek
+314,6872.9437,1,mid,9,high,Electra,Trek
+276,6866.9384,9,high,1,mid,Trek,Electra
+276,6866.9384,1,mid,1,mid,Electra,Electra
+276,6866.9384,1,mid,1,mid,Electra,Electra
+276,6866.9384,1,mid,1,mid,Electra,Electra
+151,6863.6268,2,mid,1,mid,Haro,Electra
+151,6863.6268,1,mid,1,mid,Electra,Electra
+866,6843.9442,1,mid,9,high,Electra,Trek
+866,6843.9442,9,high,9,high,Trek,Trek
+866,6843.9442,9,high,9,high,Trek,Trek
+866,6843.9442,9,high,9,high,Trek,Trek
+176,6829.7092,1,mid,1,mid,Electra,Electra
+176,6829.7092,9,high,1,mid,Trek,Electra
+176,6829.7092,1,mid,1,mid,Electra,Electra
+176,6829.7092,9,high,1,mid,Trek,Electra
+176,6829.7092,8,high,1,mid,Surly,Electra
+837,6829.5310,7,mid,1,mid,"Sun Bicycles",Electra
+837,6829.5310,8,high,1,mid,Surly,Electra
+837,6829.5310,1,mid,1,mid,Electra,Electra
+837,6829.5310,1,mid,1,mid,Electra,Electra
+837,6829.5310,9,high,1,mid,Trek,Electra
+1015,6824.9724,9,high,9,high,Trek,Trek
+1015,6824.9724,9,high,9,high,Trek,Trek
+316,6815.9474,1,mid,1,mid,Electra,Electra
+316,6815.9474,9,high,1,mid,Trek,Electra
+316,6815.9474,1,mid,1,mid,Electra,Electra
+505,6813.7535,7,mid,1,mid,"Sun Bicycles",Electra
+505,6813.7535,1,mid,1,mid,Electra,Electra
+505,6813.7535,1,mid,1,mid,Electra,Electra
+490,6804.9580,8,high,7,mid,Surly,"Sun Bicycles"
+490,6804.9580,9,high,7,mid,Trek,"Sun Bicycles"
+490,6804.9580,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+490,6804.9580,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+689,6803.9719,9,high,9,high,Trek,Trek
+689,6803.9719,9,high,9,high,Trek,Trek
+689,6803.9719,1,mid,9,high,Electra,Trek
+1248,6794.0820,9,high,9,high,Trek,Trek
+1248,6794.0820,8,high,9,high,Surly,Trek
+948,6793.9655,9,high,9,high,Trek,Trek
+948,6793.9655,1,mid,9,high,Electra,Trek
+948,6793.9655,9,high,9,high,Trek,Trek
+1089,6784.9567,9,high,9,high,Trek,Trek
+1089,6784.9567,9,high,9,high,Trek,Trek
+1089,6784.9567,1,mid,9,high,Electra,Trek
+1426,6782.3368,1,mid,1,mid,Electra,Electra
+1426,6782.3368,7,mid,1,mid,"Sun Bicycles",Electra
+1426,6782.3368,9,high,1,mid,Trek,Electra
+1426,6782.3368,1,mid,1,mid,Electra,Electra
+1426,6782.3368,2,mid,1,mid,Haro,Electra
+1159,6764.5727,9,high,9,high,Trek,Trek
+1159,6764.5727,4,low,9,high,"Pure Cycles",Trek
+1159,6764.5727,1,mid,9,high,Electra,Trek
+702,6762.1399,9,high,9,high,Trek,Trek
+702,6762.1399,2,mid,9,high,Haro,Trek
+702,6762.1399,1,mid,9,high,Electra,Trek
+702,6762.1399,9,high,9,high,Trek,Trek
+702,6762.1399,9,high,9,high,Trek,Trek
+1158,6754.9376,9,high,1,mid,Trek,Electra
+1158,6754.9376,1,mid,1,mid,Electra,Electra
+1158,6754.9376,7,mid,1,mid,"Sun Bicycles",Electra
+1158,6754.9376,1,mid,1,mid,Electra,Electra
+1158,6754.9376,9,high,1,mid,Trek,Electra
+631,6749.9734,9,high,9,high,Trek,Trek
+631,6749.9734,1,mid,9,high,Electra,Trek
+366,6744.7740,8,high,9,high,Surly,Trek
+366,6744.7740,9,high,9,high,Trek,Trek
+1006,6723.0765,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1006,6723.0765,2,mid,7,mid,Haro,"Sun Bicycles"
+1006,6723.0765,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1006,6723.0765,1,mid,7,mid,Electra,"Sun Bicycles"
+1006,6723.0765,9,high,7,mid,Trek,"Sun Bicycles"
+1126,6718.5542,9,high,9,high,Trek,Trek
+1126,6718.5542,9,high,9,high,Trek,Trek
+1126,6718.5542,9,high,9,high,Trek,Trek
+1126,6718.5542,1,mid,9,high,Electra,Trek
+896,6715.4340,8,high,3,high,Surly,Heller
+896,6715.4340,9,high,3,high,Trek,Heller
+896,6715.4340,1,mid,3,high,Electra,Heller
+896,6715.4340,3,high,3,high,Heller,Heller
+1012,6712.8464,8,high,9,high,Surly,Trek
+1012,6712.8464,9,high,9,high,Trek,Trek
+1012,6712.8464,3,high,9,high,Heller,Trek
+1012,6712.8464,1,mid,9,high,Electra,Trek
+1122,6701.4550,1,mid,1,mid,Electra,Electra
+1122,6701.4550,1,mid,1,mid,Electra,Electra
+1122,6701.4550,9,high,1,mid,Trek,Electra
+1122,6701.4550,1,mid,1,mid,Electra,Electra
+56,6680.4439,9,high,9,high,Trek,Trek
+56,6680.4439,9,high,9,high,Trek,Trek
+220,6672.2947,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+220,6672.2947,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+220,6672.2947,1,mid,7,mid,Electra,"Sun Bicycles"
+220,6672.2947,8,high,7,mid,Surly,"Sun Bicycles"
+220,6672.2947,3,high,7,mid,Heller,"Sun Bicycles"
+379,6671.6012,7,mid,9,high,"Sun Bicycles",Trek
+379,6671.6012,9,high,9,high,Trek,Trek
+717,6659.9627,9,high,9,high,Trek,Trek
+717,6659.9627,1,mid,9,high,Electra,Trek
+717,6659.9627,9,high,9,high,Trek,Trek
+1137,6654.4734,8,high,8,high,Surly,Surly
+1137,6654.4734,9,high,8,high,Trek,Surly
+1137,6654.4734,1,mid,8,high,Electra,Surly
+367,6602.9505,1,mid,9,high,Electra,Trek
+367,6602.9505,9,high,9,high,Trek,Trek
+367,6602.9505,9,high,9,high,Trek,Trek
+367,6602.9505,9,high,9,high,Trek,Trek
+367,6602.9505,2,mid,9,high,Haro,Trek
+1424,6591.9760,9,high,2,mid,Trek,Haro
+1424,6591.9760,2,mid,2,mid,Haro,Haro
+372,6578.9654,8,high,8,high,Surly,Surly
+372,6578.9654,9,high,8,high,Trek,Surly
+372,6578.9654,7,mid,8,high,"Sun Bicycles",Surly
+571,6578.9291,1,mid,1,mid,Electra,Electra
+571,6578.9291,9,high,1,mid,Trek,Electra
+571,6578.9291,1,mid,1,mid,Electra,Electra
+571,6578.9291,9,high,1,mid,Trek,Electra
+571,6578.9291,1,mid,1,mid,Electra,Electra
+1359,6543.0622,9,high,5,mid,Trek,Ritchey
+1359,6543.0622,5,mid,5,mid,Ritchey,Ritchey
+1359,6543.0622,8,high,5,mid,Surly,Ritchey
+1359,6543.0622,1,mid,5,mid,Electra,Ritchey
+999,6530.9119,1,mid,9,high,Electra,Trek
+999,6530.9119,9,high,9,high,Trek,Trek
+999,6530.9119,8,high,9,high,Surly,Trek
+768,6515.9550,1,mid,8,high,Electra,Surly
+768,6515.9550,9,high,8,high,Trek,Surly
+768,6515.9550,8,high,8,high,Surly,Surly
+1347,6495.9720,1,mid,9,high,Electra,Trek
+1347,6495.9720,9,high,9,high,Trek,Trek
+306,6489.5650,8,high,8,high,Surly,Surly
+306,6489.5650,8,high,8,high,Surly,Surly
+306,6489.5650,9,high,8,high,Trek,Surly
+568,6479.9440,9,high,1,mid,Trek,Electra
+568,6479.9440,1,mid,1,mid,Electra,Electra
+568,6479.9440,1,mid,1,mid,Electra,Electra
+568,6479.9440,1,mid,1,mid,Electra,Electra
+646,6468.2263,1,mid,1,mid,Electra,Electra
+646,6468.2263,1,mid,1,mid,Electra,Electra
+646,6468.2263,8,high,1,mid,Surly,Electra
+646,6468.2263,7,mid,1,mid,"Sun Bicycles",Electra
+646,6468.2263,9,high,1,mid,Trek,Electra
+52,6467.6551,1,mid,1,mid,Electra,Electra
+52,6467.6551,1,mid,1,mid,Electra,Electra
+52,6467.6551,1,mid,1,mid,Electra,Electra
+52,6467.6551,7,mid,1,mid,"Sun Bicycles",Electra
+52,6467.6551,8,high,1,mid,Surly,Electra
+574,6462.4635,9,high,5,mid,Trek,Ritchey
+574,6462.4635,1,mid,5,mid,Electra,Ritchey
+574,6462.4635,5,mid,5,mid,Ritchey,Ritchey
+97,6450.9529,1,mid,1,mid,Electra,Electra
+97,6450.9529,1,mid,1,mid,Electra,Electra
+360,6448.2907,4,low,9,high,"Pure Cycles",Trek
+360,6448.2907,9,high,9,high,Trek,Trek
+360,6448.2907,8,high,9,high,Surly,Trek
+963,6416.5944,8,high,1,mid,Surly,Electra
+963,6416.5944,1,mid,1,mid,Electra,Electra
+963,6416.5944,1,mid,1,mid,Electra,Electra
+963,6416.5944,1,mid,1,mid,Electra,Electra
+963,6416.5944,8,high,1,mid,Surly,Electra
+1024,6412.5547,1,mid,1,mid,Electra,Electra
+1024,6412.5547,9,high,1,mid,Trek,Electra
+1024,6412.5547,1,mid,1,mid,Electra,Electra
+1024,6412.5547,7,mid,1,mid,"Sun Bicycles",Electra
+579,6397.4717,5,mid,5,mid,Ritchey,Ritchey
+579,6397.4717,9,high,5,mid,Trek,Ritchey
+972,6396.9647,9,high,9,high,Trek,Trek
+972,6396.9647,9,high,9,high,Trek,Trek
+972,6396.9647,1,mid,9,high,Electra,Trek
+748,6382.9455,1,mid,1,mid,Electra,Electra
+748,6382.9455,2,mid,1,mid,Haro,Electra
+748,6382.9455,1,mid,1,mid,Electra,Electra
+748,6382.9455,9,high,1,mid,Trek,Electra
+1302,6349.3635,7,mid,8,high,"Sun Bicycles",Surly
+1302,6349.3635,9,high,8,high,Trek,Surly
+1302,6349.3635,8,high,8,high,Surly,Surly
+984,6335.6637,1,mid,1,mid,Electra,Electra
+984,6335.6637,1,mid,1,mid,Electra,Electra
+984,6335.6637,1,mid,1,mid,Electra,Electra
+984,6335.6637,9,high,1,mid,Trek,Electra
+984,6335.6637,8,high,1,mid,Surly,Electra
+484,6332.9424,4,low,9,high,"Pure Cycles",Trek
+484,6332.9424,1,mid,9,high,Electra,Trek
+484,6332.9424,9,high,9,high,Trek,Trek
+1291,6330.5747,9,high,9,high,Trek,Trek
+1291,6330.5747,8,high,9,high,Surly,Trek
+1048,6319.9460,9,high,1,mid,Trek,Electra
+1048,6319.9460,1,mid,1,mid,Electra,Electra
+1048,6319.9460,1,mid,1,mid,Electra,Electra
+1149,6265.9550,9,high,1,mid,Trek,Electra
+1149,6265.9550,1,mid,1,mid,Electra,Electra
+1149,6265.9550,1,mid,1,mid,Electra,Electra
+246,6261.9574,1,mid,1,mid,Electra,Electra
+246,6261.9574,1,mid,1,mid,Electra,Electra
+246,6261.9574,9,high,1,mid,Trek,Electra
+488,6259.2650,9,high,7,mid,Trek,"Sun Bicycles"
+488,6259.2650,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+696,6240.5540,8,high,9,high,Surly,Trek
+696,6240.5540,9,high,9,high,Trek,Trek
+1206,6239.2787,8,high,1,mid,Surly,Electra
+1206,6239.2787,1,mid,1,mid,Electra,Electra
+1206,6239.2787,3,high,1,mid,Heller,Electra
+1206,6239.2787,1,mid,1,mid,Electra,Electra
+1206,6239.2787,7,mid,1,mid,"Sun Bicycles",Electra
+1247,6239.0936,8,high,8,high,Surly,Surly
+1247,6239.0936,8,high,8,high,Surly,Surly
+1247,6239.0936,8,high,8,high,Surly,Surly
+1247,6239.0936,1,mid,8,high,Electra,Surly
+1247,6239.0936,1,mid,8,high,Electra,Surly
+124,6235.5381,8,high,1,mid,Surly,Electra
+882,6229.1214,4,low,9,high,"Pure Cycles",Trek
+882,6229.1214,9,high,9,high,Trek,Trek
+500,6196.6444,9,high,1,mid,Trek,Electra
+500,6196.6444,7,mid,1,mid,"Sun Bicycles",Electra
+500,6196.6444,1,mid,1,mid,Electra,Electra
+500,6196.6444,1,mid,1,mid,Electra,Electra
+1144,6187.1539,9,high,1,mid,Trek,Electra
+1144,6187.1539,1,mid,1,mid,Electra,Electra
+1144,6187.1539,1,mid,1,mid,Electra,Electra
+146,6183.5624,8,high,8,high,Surly,Surly
+146,6183.5624,1,mid,8,high,Electra,Surly
+146,6183.5624,8,high,8,high,Surly,Surly
+146,6183.5624,8,high,8,high,Surly,Surly
+111,6177.7725,9,high,3,high,Trek,Heller
+111,6177.7725,3,high,3,high,Heller,Heller
+758,6169.9630,1,mid,9,high,Electra,Trek
+758,6169.9630,9,high,9,high,Trek,Trek
+212,6155.9644,9,high,9,high,Trek,Trek
+212,6155.9644,9,high,9,high,Trek,Trek
+212,6155.9644,1,mid,9,high,Electra,Trek
+724,6152.6533,9,high,1,mid,Trek,Electra
+724,6152.6533,1,mid,1,mid,Electra,Electra
+724,6152.6533,1,mid,1,mid,Electra,Electra
+1135,6150.9367,1,mid,1,mid,Electra,Electra
+1135,6150.9367,1,mid,1,mid,Electra,Electra
+1135,6150.9367,9,high,1,mid,Trek,Electra
+1135,6150.9367,1,mid,1,mid,Electra,Electra
+293,6102.9630,9,high,9,high,Trek,Trek
+293,6102.9630,1,mid,9,high,Electra,Trek
+1276,6089.9830,9,high,9,high,Trek,Trek
+1276,6089.9830,1,mid,9,high,Electra,Trek
+1350,6089.9304,1,mid,1,mid,Electra,Electra
+1350,6089.9304,1,mid,1,mid,Electra,Electra
+1350,6089.9304,1,mid,1,mid,Electra,Electra
+1350,6089.9304,1,mid,1,mid,Electra,Electra
+1350,6089.9304,9,high,1,mid,Trek,Electra
+36,6079.9430,1,mid,1,mid,Electra,Electra
+723,6074.0482,2,mid,1,mid,Haro,Electra
+723,6074.0482,1,mid,1,mid,Electra,Electra
+723,6074.0482,1,mid,1,mid,Electra,Electra
+723,6074.0482,1,mid,1,mid,Electra,Electra
+723,6074.0482,9,high,1,mid,Trek,Electra
+1040,6068.9490,1,mid,1,mid,Electra,Electra
+1040,6068.9490,1,mid,1,mid,Electra,Electra
+1040,6068.9490,3,high,1,mid,Heller,Electra
+1040,6068.9490,8,high,1,mid,Surly,Electra
+127,6034.9654,9,high,5,mid,Trek,Ritchey
+127,6034.9654,5,mid,5,mid,Ritchey,Ritchey
+426,6023.9545,1,mid,1,mid,Electra,Electra
+426,6023.9545,8,high,1,mid,Surly,Electra
+426,6023.9545,1,mid,1,mid,Electra,Electra
+235,5989.9650,1,mid,9,high,Electra,Trek
+235,5989.9650,9,high,9,high,Trek,Trek
+919,5989.9367,1,mid,1,mid,Electra,Electra
+919,5989.9367,1,mid,1,mid,Electra,Electra
+919,5989.9367,8,high,1,mid,Surly,Electra
+919,5989.9367,9,high,1,mid,Trek,Electra
+919,5989.9367,1,mid,1,mid,Electra,Electra
+1396,5984.9810,9,high,8,high,Trek,Surly
+1396,5984.9810,8,high,8,high,Surly,Surly
+660,5959.0657,8,high,9,high,Surly,Trek
+660,5959.0657,9,high,9,high,Trek,Trek
+660,5959.0657,9,high,9,high,Trek,Trek
+1174,5927.5510,9,high,9,high,Trek,Trek
+1174,5927.5510,4,low,9,high,"Pure Cycles",Trek
+352,5925.5601,2,mid,1,mid,Haro,Electra
+352,5925.5601,1,mid,1,mid,Electra,Electra
+352,5925.5601,9,high,1,mid,Trek,Electra
+352,5925.5601,7,mid,1,mid,"Sun Bicycles",Electra
+1316,5925.4747,1,mid,9,high,Electra,Trek
+1316,5925.4747,9,high,9,high,Trek,Trek
+744,5923.9551,9,high,9,high,Trek,Trek
+744,5923.9551,9,high,9,high,Trek,Trek
+744,5923.9551,7,mid,9,high,"Sun Bicycles",Trek
+744,5923.9551,1,mid,9,high,Electra,Trek
+1392,5922.4725,1,mid,9,high,Electra,Trek
+1392,5922.4725,9,high,9,high,Trek,Trek
+577,5909.6148,4,low,8,high,"Pure Cycles",Surly
+577,5909.6148,9,high,8,high,Trek,Surly
+577,5909.6148,8,high,8,high,Surly,Surly
+577,5909.6148,8,high,8,high,Surly,Surly
+577,5909.6148,1,mid,8,high,Electra,Surly
+749,5893.5550,2,mid,9,high,Haro,Trek
+749,5893.5550,9,high,9,high,Trek,Trek
+749,5893.5550,7,mid,9,high,"Sun Bicycles",Trek
+1257,5893.5494,9,high,3,high,Trek,Heller
+1257,5893.5494,1,mid,3,high,Electra,Heller
+1257,5893.5494,3,high,3,high,Heller,Heller
+1330,5891.1624,9,high,9,high,Trek,Trek
+1330,5891.1624,9,high,9,high,Trek,Trek
+179,5887.3424,8,high,8,high,Surly,Surly
+179,5887.3424,9,high,8,high,Trek,Surly
+1021,5863.4454,7,mid,8,high,"Sun Bicycles",Surly
+1021,5863.4454,2,mid,8,high,Haro,Surly
+1021,5863.4454,8,high,8,high,Surly,Surly
+1021,5863.4454,9,high,8,high,Trek,Surly
+1057,5851.9257,7,mid,8,high,"Sun Bicycles",Surly
+1057,5851.9257,9,high,8,high,Trek,Surly
+1057,5851.9257,8,high,8,high,Surly,Surly
+1057,5851.9257,8,high,8,high,Surly,Surly
+1057,5851.9257,1,mid,8,high,Electra,Surly
+1085,5841.5215,8,high,8,high,Surly,Surly
+1085,5841.5215,8,high,8,high,Surly,Surly
+1085,5841.5215,9,high,8,high,Trek,Surly
+1152,5841.0992,8,high,1,mid,Surly,Electra
+1152,5841.0992,1,mid,1,mid,Electra,Electra
+1152,5841.0992,1,mid,1,mid,Electra,Electra
+1152,5841.0992,8,high,1,mid,Surly,Electra
+1152,5841.0992,7,mid,1,mid,"Sun Bicycles",Electra
+862,5835.8580,7,mid,8,high,"Sun Bicycles",Surly
+862,5835.8580,9,high,8,high,Trek,Surly
+862,5835.8580,1,mid,8,high,Electra,Surly
+862,5835.8580,8,high,8,high,Surly,Surly
+486,5834.1357,8,high,8,high,Surly,Surly
+486,5834.1357,7,mid,8,high,"Sun Bicycles",Surly
+486,5834.1357,9,high,8,high,Trek,Surly
+486,5834.1357,8,high,8,high,Surly,Surly
+1310,5833.9747,9,high,9,high,Trek,Trek
+1310,5833.9747,9,high,9,high,Trek,Trek
+640,5809.4774,8,high,1,mid,Surly,Electra
+640,5809.4774,1,mid,1,mid,Electra,Electra
+640,5809.4774,9,high,1,mid,Trek,Electra
+640,5809.4774,1,mid,1,mid,Electra,Electra
+640,5809.4774,4,low,1,mid,"Pure Cycles",Electra
+774,5806.0375,7,mid,9,high,"Sun Bicycles",Trek
+774,5806.0375,9,high,9,high,Trek,Trek
+774,5806.0375,9,high,9,high,Trek,Trek
+774,5806.0375,1,mid,9,high,Electra,Trek
+863,5801.9340,2,mid,4,low,Haro,"Pure Cycles"
+863,5801.9340,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+863,5801.9340,4,low,4,low,"Pure Cycles","Pure Cycles"
+863,5801.9340,8,high,4,low,Surly,"Pure Cycles"
+833,5779.8175,1,mid,1,mid,Electra,Electra
+833,5779.8175,1,mid,1,mid,Electra,Electra
+833,5779.8175,1,mid,1,mid,Electra,Electra
+833,5779.8175,1,mid,1,mid,Electra,Electra
+833,5779.8175,8,high,1,mid,Surly,Electra
+1172,5777.7667,1,mid,9,high,Electra,Trek
+1172,5777.7667,9,high,9,high,Trek,Trek
+1172,5777.7667,9,high,9,high,Trek,Trek
+1172,5777.7667,3,high,9,high,Heller,Trek
+1119,5775.5447,4,low,9,high,"Pure Cycles",Trek
+1119,5775.5447,9,high,9,high,Trek,Trek
+1119,5775.5447,1,mid,9,high,Electra,Trek
+461,5768.2144,3,high,3,high,Heller,Heller
+461,5768.2144,9,high,3,high,Trek,Heller
+461,5768.2144,7,mid,3,high,"Sun Bicycles",Heller
+1215,5745.9552,9,high,1,mid,Trek,Electra
+1215,5745.9552,2,mid,1,mid,Haro,Electra
+1215,5745.9552,8,high,1,mid,Surly,Electra
+1215,5745.9552,1,mid,1,mid,Electra,Electra
+1244,5732.4652,9,high,9,high,Trek,Trek
+1244,5732.4652,9,high,9,high,Trek,Trek
+1244,5732.4652,1,mid,9,high,Electra,Trek
+332,5728.9344,9,high,8,high,Trek,Surly
+332,5728.9344,8,high,8,high,Surly,Surly
+332,5728.9344,4,low,8,high,"Pure Cycles",Surly
+332,5728.9344,1,mid,8,high,Electra,Surly
+1134,5723.7441,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1134,5723.7441,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1134,5723.7441,9,high,7,mid,Trek,"Sun Bicycles"
+1134,5723.7441,2,mid,7,mid,Haro,"Sun Bicycles"
+1134,5723.7441,4,low,7,mid,"Pure Cycles","Sun Bicycles"
+327,5716.5960,1,mid,8,high,Electra,Surly
+327,5716.5960,8,high,8,high,Surly,Surly
+327,5716.5960,8,high,8,high,Surly,Surly
+327,5716.5960,4,low,8,high,"Pure Cycles",Surly
+327,5716.5960,1,mid,8,high,Electra,Surly
+1112,5709.9555,1,mid,8,high,Electra,Surly
+1112,5709.9555,9,high,8,high,Trek,Surly
+1112,5709.9555,8,high,8,high,Surly,Surly
+274,5701.1054,1,mid,1,mid,Electra,Electra
+274,5701.1054,9,high,1,mid,Trek,Electra
+274,5701.1054,1,mid,1,mid,Electra,Electra
+274,5701.1054,4,low,1,mid,"Pure Cycles",Electra
+274,5701.1054,1,mid,1,mid,Electra,Electra
+1014,5699.9810,9,high,9,high,Trek,Trek
+1365,5699.9810,9,high,9,high,Trek,Trek
+1260,5686.5815,1,mid,4,low,Electra,"Pure Cycles"
+1260,5686.5815,9,high,4,low,Trek,"Pure Cycles"
+1260,5686.5815,4,low,4,low,"Pure Cycles","Pure Cycles"
+281,5672.2810,8,high,8,high,Surly,Surly
+281,5672.2810,8,high,8,high,Surly,Surly
+923,5671.1307,9,high,9,high,Trek,Trek
+923,5671.1307,8,high,9,high,Surly,Trek
+81,5660.9369,9,high,1,mid,Trek,Electra
+81,5660.9369,1,mid,1,mid,Electra,Electra
+208,5651.0267,1,mid,1,mid,Electra,Electra
+208,5651.0267,1,mid,1,mid,Electra,Electra
+1321,5644.9152,9,high,8,high,Trek,Surly
+1321,5644.9152,3,high,8,high,Heller,Surly
+1321,5644.9152,8,high,8,high,Surly,Surly
+1041,5627.9570,2,mid,1,mid,Haro,Electra
+1041,5627.9570,9,high,1,mid,Trek,Electra
+1041,5627.9570,1,mid,1,mid,Electra,Electra
+1373,5600.0574,1,mid,1,mid,Electra,Electra
+1373,5600.0574,1,mid,1,mid,Electra,Electra
+1373,5600.0574,4,low,1,mid,"Pure Cycles",Electra
+1373,5600.0574,9,high,1,mid,Trek,Electra
+903,5588.5185,7,mid,1,mid,"Sun Bicycles",Electra
+903,5588.5185,1,mid,1,mid,Electra,Electra
+903,5588.5185,1,mid,1,mid,Electra,Electra
+903,5588.5185,1,mid,1,mid,Electra,Electra
+903,5588.5185,9,high,1,mid,Trek,Electra
+1042,5588.3444,1,mid,8,high,Electra,Surly
+1042,5588.3444,8,high,8,high,Surly,Surly
+1042,5588.3444,9,high,8,high,Trek,Surly
+1042,5588.3444,4,low,8,high,"Pure Cycles",Surly
+567,5579.9628,9,high,9,high,Trek,Trek
+567,5579.9628,9,high,9,high,Trek,Trek
+565,5578.1307,9,high,9,high,Trek,Trek
+565,5578.1307,8,high,9,high,Surly,Trek
+1200,5565.5645,1,mid,1,mid,Electra,Electra
+1200,5565.5645,1,mid,1,mid,Electra,Electra
+1200,5565.5645,9,high,1,mid,Trek,Electra
+1200,5565.5645,4,low,1,mid,"Pure Cycles",Electra
+958,5557.3307,7,mid,1,mid,"Sun Bicycles",Electra
+958,5557.3307,9,high,1,mid,Trek,Electra
+958,5557.3307,8,high,1,mid,Surly,Electra
+958,5557.3307,1,mid,1,mid,Electra,Electra
+958,5557.3307,1,mid,1,mid,Electra,Electra
+762,5537.9817,9,high,8,high,Trek,Surly
+762,5537.9817,8,high,8,high,Surly,Surly
+998,5528.9570,9,high,1,mid,Trek,Electra
+998,5528.9570,1,mid,1,mid,Electra,Electra
+998,5528.9570,1,mid,1,mid,Electra,Electra
+998,5528.9570,1,mid,1,mid,Electra,Electra
+1254,5515.9647,1,mid,9,high,Electra,Trek
+1254,5515.9647,9,high,9,high,Trek,Trek
+1254,5515.9647,1,mid,9,high,Electra,Trek
+1254,5515.9647,9,high,9,high,Trek,Trek
+751,5498.3680,9,high,9,high,Trek,Trek
+751,5498.3680,7,mid,9,high,"Sun Bicycles",Trek
+751,5498.3680,9,high,9,high,Trek,Trek
+410,5478.9485,1,mid,1,mid,Electra,Electra
+410,5478.9485,1,mid,1,mid,Electra,Electra
+410,5478.9485,9,high,1,mid,Trek,Electra
+410,5478.9485,1,mid,1,mid,Electra,Electra
+410,5478.9485,9,high,1,mid,Trek,Electra
+1240,5444.9560,9,high,9,high,Trek,Trek
+1240,5444.9560,1,mid,9,high,Electra,Trek
+1240,5444.9560,9,high,9,high,Trek,Trek
+605,5442.0740,9,high,8,high,Trek,Surly
+605,5442.0740,4,low,8,high,"Pure Cycles",Surly
+605,5442.0740,8,high,8,high,Surly,Surly
+460,5440.3624,9,high,9,high,Trek,Trek
+460,5440.3624,7,mid,9,high,"Sun Bicycles",Trek
+460,5440.3624,1,mid,9,high,Electra,Trek
+99,5431.8955,1,mid,8,high,Electra,Surly
+99,5431.8955,3,high,8,high,Heller,Surly
+99,5431.8955,8,high,8,high,Surly,Surly
+99,5431.8955,8,high,8,high,Surly,Surly
+99,5431.8955,1,mid,8,high,Electra,Surly
+312,5419.9730,9,high,9,high,Trek,Trek
+312,5419.9730,9,high,9,high,Trek,Trek
+1235,5417.9727,9,high,1,mid,Trek,Electra
+1235,5417.9727,1,mid,1,mid,Electra,Electra
+1220,5404.0557,9,high,1,mid,Trek,Electra
+1220,5404.0557,1,mid,1,mid,Electra,Electra
+1220,5404.0557,1,mid,1,mid,Electra,Electra
+100,5399.9820,9,high,9,high,Trek,Trek
+530,5382.0464,9,high,9,high,Trek,Trek
+530,5382.0464,1,mid,9,high,Electra,Trek
+530,5382.0464,3,high,9,high,Heller,Trek
+530,5382.0464,9,high,9,high,Trek,Trek
+110,5371.3380,1,mid,9,high,Electra,Trek
+110,5371.3380,9,high,9,high,Trek,Trek
+1280,5342.1559,9,high,1,mid,Trek,Electra
+1280,5342.1559,5,mid,1,mid,Ritchey,Electra
+1280,5342.1559,1,mid,1,mid,Electra,Electra
+1280,5342.1559,1,mid,1,mid,Electra,Electra
+961,5338.9555,1,mid,1,mid,Electra,Electra
+961,5338.9555,1,mid,1,mid,Electra,Electra
+961,5338.9555,3,high,1,mid,Heller,Electra
+961,5338.9555,8,high,1,mid,Surly,Electra
+1390,5333.3350,7,mid,9,high,"Sun Bicycles",Trek
+1390,5333.3350,8,high,9,high,Surly,Trek
+1390,5333.3350,9,high,9,high,Trek,Trek
+1390,5333.3350,9,high,9,high,Trek,Trek
+1303,5332.9467,1,mid,1,mid,Electra,Electra
+1303,5332.9467,1,mid,1,mid,Electra,Electra
+1303,5332.9467,1,mid,1,mid,Electra,Electra
+1303,5332.9467,9,high,1,mid,Trek,Electra
+1303,5332.9467,1,mid,1,mid,Electra,Electra
+257,5315.9042,2,mid,9,high,Haro,Trek
+257,5315.9042,9,high,9,high,Trek,Trek
+257,5315.9042,8,high,9,high,Surly,Trek
+257,5315.9042,9,high,9,high,Trek,Trek
+364,5291.9650,9,high,9,high,Trek,Trek
+364,5291.9650,1,mid,9,high,Electra,Trek
+17,5275.3270,9,high,1,mid,Trek,Electra
+17,5275.3270,9,high,1,mid,Trek,Electra
+17,5275.3270,1,mid,1,mid,Electra,Electra
+17,5275.3270,1,mid,1,mid,Electra,Electra
+1259,5270.9448,9,high,1,mid,Trek,Electra
+1259,5270.9448,1,mid,1,mid,Electra,Electra
+1259,5270.9448,1,mid,1,mid,Electra,Electra
+1213,5244.9550,8,high,9,high,Surly,Trek
+1213,5244.9550,9,high,9,high,Trek,Trek
+1213,5244.9550,9,high,9,high,Trek,Trek
+1319,5231.8529,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+1319,5231.8529,2,mid,4,low,Haro,"Pure Cycles"
+1319,5231.8529,4,low,4,low,"Pure Cycles","Pure Cycles"
+1319,5231.8529,9,high,4,low,Trek,"Pure Cycles"
+278,5226.6626,9,high,9,high,Trek,Trek
+278,5226.6626,9,high,9,high,Trek,Trek
+278,5226.6626,2,mid,9,high,Haro,Trek
+413,5225.9475,1,mid,5,mid,Electra,Ritchey
+413,5225.9475,8,high,5,mid,Surly,Ritchey
+413,5225.9475,5,mid,5,mid,Ritchey,Ritchey
+413,5225.9475,9,high,5,mid,Trek,Ritchey
+142,5224.9905,9,high,9,high,Trek,Trek
+643,5224.5464,5,mid,5,mid,Ritchey,Ritchey
+643,5224.5464,8,high,5,mid,Surly,Ritchey
+643,5224.5464,1,mid,5,mid,Electra,Ritchey
+1395,5220.4734,8,high,8,high,Surly,Surly
+1395,5220.4734,8,high,8,high,Surly,Surly
+1395,5220.4734,1,mid,8,high,Electra,Surly
+1395,5220.4734,7,mid,8,high,"Sun Bicycles",Surly
+611,5219.9820,9,high,9,high,Trek,Trek
+917,5219.9820,9,high,9,high,Trek,Trek
+361,5154.1467,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+361,5154.1467,8,high,7,mid,Surly,"Sun Bicycles"
+361,5154.1467,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+361,5154.1467,2,mid,7,mid,Haro,"Sun Bicycles"
+701,5126.9531,9,high,1,mid,Trek,Electra
+701,5126.9531,1,mid,1,mid,Electra,Electra
+701,5126.9531,1,mid,1,mid,Electra,Electra
+1273,5122.3480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1273,5122.3480,8,high,7,mid,Surly,"Sun Bicycles"
+1273,5122.3480,2,mid,7,mid,Haro,"Sun Bicycles"
+1273,5122.3480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1273,5122.3480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+337,5119.3540,9,high,1,mid,Trek,Electra
+337,5119.3540,1,mid,1,mid,Electra,Electra
+337,5119.3540,4,low,1,mid,"Pure Cycles",Electra
+337,5119.3540,1,mid,1,mid,Electra,Electra
+337,5119.3540,1,mid,1,mid,Electra,Electra
+1268,5115.9641,1,mid,1,mid,Electra,Electra
+1268,5115.9641,1,mid,1,mid,Electra,Electra
+1268,5115.9641,9,high,1,mid,Trek,Electra
+1313,5114.0907,8,high,9,high,Surly,Trek
+1313,5114.0907,9,high,9,high,Trek,Trek
+966,5107.8638,1,mid,7,mid,Electra,"Sun Bicycles"
+966,5107.8638,9,high,7,mid,Trek,"Sun Bicycles"
+966,5107.8638,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+966,5107.8638,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+989,5090.4175,4,low,8,high,"Pure Cycles",Surly
+989,5090.4175,1,mid,8,high,Electra,Surly
+989,5090.4175,8,high,8,high,Surly,Surly
+989,5090.4175,8,high,8,high,Surly,Surly
+989,5090.4175,1,mid,8,high,Electra,Surly
+447,5080.6230,9,high,4,low,Trek,"Pure Cycles"
+447,5080.6230,4,low,4,low,"Pure Cycles","Pure Cycles"
+447,5080.6230,1,mid,4,low,Electra,"Pure Cycles"
+447,5080.6230,4,low,4,low,"Pure Cycles","Pure Cycles"
+217,5073.0365,1,mid,1,mid,Electra,Electra
+217,5073.0365,1,mid,1,mid,Electra,Electra
+217,5073.0365,1,mid,1,mid,Electra,Electra
+428,5062.3384,1,mid,9,high,Electra,Trek
+428,5062.3384,9,high,9,high,Trek,Trek
+428,5062.3384,8,high,9,high,Surly,Trek
+428,5062.3384,9,high,9,high,Trek,Trek
+428,5062.3384,1,mid,9,high,Electra,Trek
+779,5055.1130,4,low,8,high,"Pure Cycles",Surly
+779,5055.1130,9,high,8,high,Trek,Surly
+779,5055.1130,8,high,8,high,Surly,Surly
+1334,5024.1645,9,high,1,mid,Trek,Electra
+1334,5024.1645,1,mid,1,mid,Electra,Electra
+1334,5024.1645,8,high,1,mid,Surly,Electra
+1334,5024.1645,1,mid,1,mid,Electra,Electra
+1295,5022.9574,1,mid,8,high,Electra,Surly
+1295,5022.9574,9,high,8,high,Trek,Surly
+1295,5022.9574,8,high,8,high,Surly,Surly
+524,5017.8551,2,mid,2,mid,Haro,Haro
+524,5017.8551,9,high,2,mid,Trek,Haro
+524,5017.8551,1,mid,2,mid,Electra,Haro
+524,5017.8551,7,mid,2,mid,"Sun Bicycles",Haro
+1233,5015.7377,7,mid,3,high,"Sun Bicycles",Heller
+1233,5015.7377,1,mid,3,high,Electra,Heller
+1233,5015.7377,3,high,3,high,Heller,Heller
+1233,5015.7377,8,high,3,high,Surly,Heller
+1322,5014.9637,9,high,5,mid,Trek,Ritchey
+1322,5014.9637,8,high,5,mid,Surly,Ritchey
+1322,5014.9637,5,mid,5,mid,Ritchey,Ritchey
+1147,5004.5978,8,high,8,high,Surly,Surly
+1147,5004.5978,8,high,8,high,Surly,Surly
+1147,5004.5978,1,mid,8,high,Electra,Surly
+1147,5004.5978,1,mid,8,high,Electra,Surly
+848,4991.9665,9,high,8,high,Trek,Surly
+848,4991.9665,1,mid,8,high,Electra,Surly
+848,4991.9665,8,high,8,high,Surly,Surly
+1411,4960.4587,9,high,9,high,Trek,Trek
+1411,4960.4587,7,mid,9,high,"Sun Bicycles",Trek
+1411,4960.4587,9,high,9,high,Trek,Trek
+1411,4960.4587,9,high,9,high,Trek,Trek
+912,4949.9910,9,high,9,high,Trek,Trek
+1190,4922.9485,9,high,1,mid,Trek,Electra
+1190,4922.9485,7,mid,1,mid,"Sun Bicycles",Electra
+1190,4922.9485,1,mid,1,mid,Electra,Electra
+1190,4922.9485,8,high,1,mid,Surly,Electra
+1397,4921.1544,9,high,5,mid,Trek,Ritchey
+1397,4921.1544,4,low,5,mid,"Pure Cycles",Ritchey
+1397,4921.1544,1,mid,5,mid,Electra,Ritchey
+1397,4921.1544,5,mid,5,mid,Ritchey,Ritchey
+313,4918.3660,1,mid,1,mid,Electra,Electra
+313,4918.3660,9,high,1,mid,Trek,Electra
+313,4918.3660,1,mid,1,mid,Electra,Electra
+313,4918.3660,4,low,1,mid,"Pure Cycles",Electra
+216,4912.1570,9,high,8,high,Trek,Surly
+216,4912.1570,7,mid,8,high,"Sun Bicycles",Surly
+216,4912.1570,8,high,8,high,Surly,Surly
+615,4911.4379,1,mid,1,mid,Electra,Electra
+615,4911.4379,5,mid,1,mid,Ritchey,Electra
+615,4911.4379,1,mid,1,mid,Electra,Electra
+615,4911.4379,9,high,1,mid,Trek,Electra
+615,4911.4379,1,mid,1,mid,Electra,Electra
+603,4890.3654,8,high,8,high,Surly,Surly
+603,4890.3654,8,high,8,high,Surly,Surly
+603,4890.3654,1,mid,8,high,Electra,Surly
+459,4877.4060,8,high,8,high,Surly,Surly
+459,4877.4060,8,high,8,high,Surly,Surly
+459,4877.4060,1,mid,8,high,Electra,Surly
+459,4877.4060,1,mid,8,high,Electra,Surly
+773,4873.9557,5,mid,5,mid,Ritchey,Ritchey
+773,4873.9557,9,high,5,mid,Trek,Ritchey
+773,4873.9557,8,high,5,mid,Surly,Ritchey
+440,4863.9680,9,high,9,high,Trek,Trek
+440,4863.9680,7,mid,9,high,"Sun Bicycles",Trek
+440,4863.9680,9,high,9,high,Trek,Trek
+163,4851.1372,1,mid,1,mid,Electra,Electra
+163,4851.1372,8,high,1,mid,Surly,Electra
+163,4851.1372,1,mid,1,mid,Electra,Electra
+163,4851.1372,8,high,1,mid,Surly,Electra
+163,4851.1372,1,mid,1,mid,Electra,Electra
+973,4835.3760,4,low,1,mid,"Pure Cycles",Electra
+973,4835.3760,3,high,1,mid,Heller,Electra
+973,4835.3760,1,mid,1,mid,Electra,Electra
+973,4835.3760,1,mid,1,mid,Electra,Electra
+973,4835.3760,8,high,1,mid,Surly,Electra
+1408,4829.1825,2,mid,4,low,Haro,"Pure Cycles"
+1408,4829.1825,9,high,4,low,Trek,"Pure Cycles"
+1408,4829.1825,4,low,4,low,"Pure Cycles","Pure Cycles"
+945,4814.6255,1,mid,1,mid,Electra,Electra
+945,4814.6255,1,mid,1,mid,Electra,Electra
+945,4814.6255,1,mid,1,mid,Electra,Electra
+945,4814.6255,1,mid,1,mid,Electra,Electra
+945,4814.6255,9,high,1,mid,Trek,Electra
+1078,4803.6301,1,mid,1,mid,Electra,Electra
+1078,4803.6301,1,mid,1,mid,Electra,Electra
+1078,4803.6301,8,high,1,mid,Surly,Electra
+1078,4803.6301,1,mid,1,mid,Electra,Electra
+1078,4803.6301,3,high,1,mid,Heller,Electra
+682,4799.9840,9,high,9,high,Trek,Trek
+213,4789.7348,1,mid,2,mid,Electra,Haro
+213,4789.7348,2,mid,2,mid,Haro,Haro
+213,4789.7348,9,high,2,mid,Trek,Haro
+213,4789.7348,7,mid,2,mid,"Sun Bicycles",Haro
+819,4784.1587,1,mid,1,mid,Electra,Electra
+819,4784.1587,1,mid,1,mid,Electra,Electra
+819,4784.1587,4,low,1,mid,"Pure Cycles",Electra
+819,4784.1587,9,high,1,mid,Trek,Electra
+965,4781.9310,9,high,1,mid,Trek,Electra
+965,4781.9310,1,mid,1,mid,Electra,Electra
+965,4781.9310,1,mid,1,mid,Electra,Electra
+965,4781.9310,1,mid,1,mid,Electra,Electra
+1209,4778.0236,4,low,1,mid,"Pure Cycles",Electra
+1209,4778.0236,1,mid,1,mid,Electra,Electra
+1209,4778.0236,1,mid,1,mid,Electra,Electra
+1209,4778.0236,1,mid,1,mid,Electra,Electra
+1209,4778.0236,9,high,1,mid,Trek,Electra
+1378,4776.0444,8,high,1,mid,Surly,Electra
+1378,4776.0444,1,mid,1,mid,Electra,Electra
+1378,4776.0444,1,mid,1,mid,Electra,Electra
+23,4775.9635,1,mid,1,mid,Electra,Electra
+23,4775.9635,1,mid,1,mid,Electra,Electra
+400,4766.8345,8,high,8,high,Surly,Surly
+400,4766.8345,7,mid,8,high,"Sun Bicycles",Surly
+400,4766.8345,8,high,8,high,Surly,Surly
+400,4766.8345,7,mid,8,high,"Sun Bicycles",Surly
+288,4765.4287,8,high,8,high,Surly,Surly
+288,4765.4287,1,mid,8,high,Electra,Surly
+288,4765.4287,1,mid,8,high,Electra,Surly
+288,4765.4287,8,high,8,high,Surly,Surly
+288,4765.4287,5,mid,8,high,Ritchey,Surly
+1242,4762.4631,9,high,9,high,Trek,Trek
+1242,4762.4631,9,high,9,high,Trek,Trek
+1242,4762.4631,2,mid,9,high,Haro,Trek
+906,4749.9810,9,high,9,high,Trek,Trek
+739,4746.6324,9,high,9,high,Trek,Trek
+739,4746.6324,8,high,9,high,Surly,Trek
+765,4737.2644,7,mid,9,high,"Sun Bicycles",Trek
+765,4737.2644,9,high,9,high,Trek,Trek
+765,4737.2644,9,high,9,high,Trek,Trek
+478,4700.0627,9,high,9,high,Trek,Trek
+478,4700.0627,1,mid,9,high,Electra,Trek
+478,4700.0627,9,high,9,high,Trek,Trek
+396,4699.9557,9,high,1,mid,Trek,Electra
+396,4699.9557,1,mid,1,mid,Electra,Electra
+396,4699.9557,1,mid,1,mid,Electra,Electra
+1301,4692.8641,1,mid,1,mid,Electra,Electra
+1301,4692.8641,4,low,1,mid,"Pure Cycles",Electra
+1301,4692.8641,1,mid,1,mid,Electra,Electra
+1301,4692.8641,8,high,1,mid,Surly,Electra
+929,4689.4559,1,mid,1,mid,Electra,Electra
+929,4689.4559,9,high,1,mid,Trek,Electra
+929,4689.4559,8,high,1,mid,Surly,Electra
+929,4689.4559,1,mid,1,mid,Electra,Electra
+443,4685.0969,9,high,1,mid,Trek,Electra
+443,4685.0969,7,mid,1,mid,"Sun Bicycles",Electra
+443,4685.0969,9,high,1,mid,Trek,Electra
+443,4685.0969,1,mid,1,mid,Electra,Electra
+443,4685.0969,1,mid,1,mid,Electra,Electra
+1169,4665.5492,1,mid,1,mid,Electra,Electra
+1169,4665.5492,1,mid,1,mid,Electra,Electra
+1169,4665.5492,8,high,1,mid,Surly,Electra
+1169,4665.5492,1,mid,1,mid,Electra,Electra
+197,4655.0404,5,mid,8,high,Ritchey,Surly
+197,4655.0404,1,mid,8,high,Electra,Surly
+197,4655.0404,8,high,8,high,Surly,Surly
+197,4655.0404,1,mid,8,high,Electra,Surly
+197,4655.0404,8,high,8,high,Surly,Surly
+555,4654.9530,4,low,8,high,"Pure Cycles",Surly
+555,4654.9530,8,high,8,high,Surly,Surly
+555,4654.9530,1,mid,8,high,Electra,Surly
+555,4654.9530,4,low,8,high,"Pure Cycles",Surly
+555,4654.9530,8,high,8,high,Surly,Surly
+952,4644.9130,3,high,3,high,Heller,Heller
+952,4644.9130,1,mid,3,high,Electra,Heller
+952,4644.9130,9,high,3,high,Trek,Heller
+1425,4639.9840,9,high,9,high,Trek,Trek
+1328,4633.8544,1,mid,1,mid,Electra,Electra
+1328,4633.8544,4,low,1,mid,"Pure Cycles",Electra
+1328,4633.8544,1,mid,1,mid,Electra,Electra
+1328,4633.8544,5,mid,1,mid,Ritchey,Electra
+1328,4633.8544,8,high,1,mid,Surly,Electra
+885,4624.9377,1,mid,1,mid,Electra,Electra
+885,4624.9377,8,high,1,mid,Surly,Electra
+885,4624.9377,1,mid,1,mid,Electra,Electra
+885,4624.9377,9,high,1,mid,Trek,Electra
+885,4624.9377,1,mid,1,mid,Electra,Electra
+742,4617.7580,1,mid,3,high,Electra,Heller
+742,4617.7580,3,high,3,high,Heller,Heller
+742,4617.7580,9,high,3,high,Trek,Heller
+280,4616.0145,1,mid,1,mid,Electra,Electra
+280,4616.0145,9,high,1,mid,Trek,Electra
+280,4616.0145,1,mid,1,mid,Electra,Electra
+280,4616.0145,4,low,1,mid,"Pure Cycles",Electra
+199,4571.0727,9,high,9,high,Trek,Trek
+199,4571.0727,9,high,9,high,Trek,Trek
+199,4571.0727,1,mid,9,high,Electra,Trek
+223,4563.0910,8,high,9,high,Surly,Trek
+223,4563.0910,9,high,9,high,Trek,Trek
+986,4544.8471,9,high,3,high,Trek,Heller
+986,4544.8471,3,high,3,high,Heller,Heller
+986,4544.8471,1,mid,3,high,Electra,Heller
+986,4544.8471,8,high,3,high,Surly,Heller
+1164,4539.9740,1,mid,9,high,Electra,Trek
+1164,4539.9740,9,high,9,high,Trek,Trek
+156,4534.3830,9,high,9,high,Trek,Trek
+156,4534.3830,4,low,9,high,"Pure Cycles",Trek
+156,4534.3830,1,mid,9,high,Electra,Trek
+839,4521.8839,8,high,4,low,Surly,"Pure Cycles"
+839,4521.8839,4,low,4,low,"Pure Cycles","Pure Cycles"
+839,4521.8839,6,low,4,low,Strider,"Pure Cycles"
+839,4521.8839,1,mid,4,low,Electra,"Pure Cycles"
+736,4507.6134,1,mid,1,mid,Electra,Electra
+736,4507.6134,1,mid,1,mid,Electra,Electra
+736,4507.6134,8,high,1,mid,Surly,Electra
+1056,4503.7459,1,mid,1,mid,Electra,Electra
+1056,4503.7459,1,mid,1,mid,Electra,Electra
+1056,4503.7459,3,high,1,mid,Heller,Electra
+1056,4503.7459,1,mid,1,mid,Electra,Electra
+970,4499.9910,9,high,9,high,Trek,Trek
+1196,4499.9910,9,high,9,high,Trek,Trek
+1202,4497.5817,9,high,9,high,Trek,Trek
+1202,4497.5817,1,mid,9,high,Electra,Trek
+1202,4497.5817,4,low,9,high,"Pure Cycles",Trek
+1129,4497.0048,9,high,1,mid,Trek,Electra
+1129,4497.0048,1,mid,1,mid,Electra,Electra
+1129,4497.0048,7,mid,1,mid,"Sun Bicycles",Electra
+1129,4497.0048,1,mid,1,mid,Electra,Electra
+894,4495.2725,4,low,4,low,"Pure Cycles","Pure Cycles"
+894,4495.2725,1,mid,4,low,Electra,"Pure Cycles"
+894,4495.2725,9,high,4,low,Trek,"Pure Cycles"
+894,4495.2725,4,low,4,low,"Pure Cycles","Pure Cycles"
+1062,4477.1740,8,high,8,high,Surly,Surly
+1062,4477.1740,8,high,8,high,Surly,Surly
+1062,4477.1740,1,mid,8,high,Electra,Surly
+1062,4477.1740,9,high,8,high,Trek,Surly
+1354,4475.4635,3,high,5,mid,Heller,Ritchey
+1354,4475.4635,4,low,5,mid,"Pure Cycles",Ritchey
+1354,4475.4635,1,mid,5,mid,Electra,Ritchey
+1354,4475.4635,5,mid,5,mid,Ritchey,Ritchey
+1153,4466.6452,1,mid,8,high,Electra,Surly
+1153,4466.6452,9,high,8,high,Trek,Surly
+1153,4466.6452,8,high,8,high,Surly,Surly
+1153,4466.6452,7,mid,8,high,"Sun Bicycles",Surly
+344,4464.6642,2,mid,2,mid,Haro,Haro
+344,4464.6642,4,low,2,mid,"Pure Cycles",Haro
+344,4464.6642,2,mid,2,mid,Haro,Haro
+344,4464.6642,7,mid,2,mid,"Sun Bicycles",Haro
+344,4464.6642,7,mid,2,mid,"Sun Bicycles",Haro
+554,4459.2184,1,mid,1,mid,Electra,Electra
+554,4459.2184,8,high,1,mid,Surly,Electra
+554,4459.2184,7,mid,1,mid,"Sun Bicycles",Electra
+554,4459.2184,7,mid,1,mid,"Sun Bicycles",Electra
+554,4459.2184,1,mid,1,mid,Electra,Electra
+566,4458.9550,9,high,2,mid,Trek,Haro
+566,4458.9550,1,mid,2,mid,Electra,Haro
+566,4458.9550,2,mid,2,mid,Haro,Haro
+995,4447.7240,3,high,3,high,Heller,Heller
+995,4447.7240,8,high,3,high,Surly,Heller
+995,4447.7240,1,mid,3,high,Electra,Heller
+995,4447.7240,4,low,3,high,"Pure Cycles",Heller
+1091,4445.0609,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1091,4445.0609,2,mid,7,mid,Haro,"Sun Bicycles"
+1091,4445.0609,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1091,4445.0609,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1091,4445.0609,2,mid,7,mid,Haro,"Sun Bicycles"
+711,4436.6034,1,mid,1,mid,Electra,Electra
+711,4436.6034,1,mid,1,mid,Electra,Electra
+711,4436.6034,4,low,1,mid,"Pure Cycles",Electra
+711,4436.6034,8,high,1,mid,Surly,Electra
+711,4436.6034,9,high,1,mid,Trek,Electra
+526,4422.9400,1,mid,1,mid,Electra,Electra
+526,4422.9400,1,mid,1,mid,Electra,Electra
+526,4422.9400,1,mid,1,mid,Electra,Electra
+526,4422.9400,3,high,1,mid,Heller,Electra
+526,4422.9400,4,low,1,mid,"Pure Cycles",Electra
+1419,4399.9920,9,high,9,high,Trek,Trek
+215,4397.9639,1,mid,9,high,Electra,Trek
+215,4397.9639,9,high,9,high,Trek,Trek
+215,4397.9639,9,high,9,high,Trek,Trek
+215,4397.9639,5,mid,9,high,Ritchey,Trek
+606,4387.9660,1,mid,9,high,Electra,Trek
+606,4387.9660,9,high,9,high,Trek,Trek
+887,4369.3445,7,mid,9,high,"Sun Bicycles",Trek
+887,4369.3445,7,mid,9,high,"Sun Bicycles",Trek
+887,4369.3445,9,high,9,high,Trek,Trek
+887,4369.3445,9,high,9,high,Trek,Trek
+910,4334.0585,9,high,9,high,Trek,Trek
+910,4334.0585,9,high,9,high,Trek,Trek
+910,4334.0585,7,mid,9,high,"Sun Bicycles",Trek
+910,4334.0585,9,high,9,high,Trek,Trek
+730,4327.0254,1,mid,7,mid,Electra,"Sun Bicycles"
+730,4327.0254,8,high,7,mid,Surly,"Sun Bicycles"
+730,4327.0254,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+730,4327.0254,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+730,4327.0254,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+756,4318.4515,8,high,8,high,Surly,Surly
+756,4318.4515,1,mid,8,high,Electra,Surly
+756,4318.4515,8,high,8,high,Surly,Surly
+756,4318.4515,4,low,8,high,"Pure Cycles",Surly
+537,4318.0054,1,mid,7,mid,Electra,"Sun Bicycles"
+537,4318.0054,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+537,4318.0054,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+537,4318.0054,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+537,4318.0054,1,mid,7,mid,Electra,"Sun Bicycles"
+931,4305.9576,7,mid,1,mid,"Sun Bicycles",Electra
+931,4305.9576,2,mid,1,mid,Haro,Electra
+931,4305.9576,1,mid,1,mid,Electra,Electra
+931,4305.9576,1,mid,1,mid,Electra,Electra
+931,4305.9576,1,mid,1,mid,Electra,Electra
+1362,4299.9570,9,high,8,high,Trek,Surly
+1362,4299.9570,8,high,8,high,Surly,Surly
+1362,4299.9570,1,mid,8,high,Electra,Surly
+900,4298.4537,9,high,9,high,Trek,Trek
+900,4298.4537,1,mid,9,high,Electra,Trek
+900,4298.4537,7,mid,9,high,"Sun Bicycles",Trek
+161,4296.1815,8,high,8,high,Surly,Surly
+161,4296.1815,8,high,8,high,Surly,Surly
+161,4296.1815,7,mid,8,high,"Sun Bicycles",Surly
+527,4279.5725,1,mid,1,mid,Electra,Electra
+527,4279.5725,1,mid,1,mid,Electra,Electra
+527,4279.5725,8,high,1,mid,Surly,Electra
+955,4274.9810,9,high,9,high,Trek,Trek
+624,4271.1134,1,mid,9,high,Electra,Trek
+624,4271.1134,9,high,9,high,Trek,Trek
+624,4271.1134,4,low,9,high,"Pure Cycles",Trek
+975,4269.9572,1,mid,1,mid,Electra,Electra
+975,4269.9572,9,high,1,mid,Trek,Electra
+975,4269.9572,1,mid,1,mid,Electra,Electra
+975,4269.9572,1,mid,1,mid,Electra,Electra
+113,4236.3466,1,mid,1,mid,Electra,Electra
+113,4236.3466,1,mid,1,mid,Electra,Electra
+113,4236.3466,9,high,1,mid,Trek,Electra
+113,4236.3466,8,high,1,mid,Surly,Electra
+807,4231.1220,7,mid,8,high,"Sun Bicycles",Surly
+807,4231.1220,8,high,8,high,Surly,Surly
+1433,4226.2305,9,high,9,high,Trek,Trek
+1433,4226.2305,8,high,9,high,Surly,Trek
+1433,4226.2305,1,mid,9,high,Electra,Trek
+1433,4226.2305,9,high,9,high,Trek,Trek
+1433,4226.2305,1,mid,9,high,Electra,Trek
+155,4214.9734,9,high,1,mid,Trek,Electra
+155,4214.9734,1,mid,1,mid,Electra,Electra
+155,4214.9734,1,mid,1,mid,Electra,Electra
+1298,4214.9468,1,mid,1,mid,Electra,Electra
+1298,4214.9468,9,high,1,mid,Trek,Electra
+1298,4214.9468,1,mid,1,mid,Electra,Electra
+1298,4214.9468,1,mid,1,mid,Electra,Electra
+781,4205.9817,9,high,9,high,Trek,Trek
+781,4205.9817,2,mid,9,high,Haro,Trek
+1269,4204.5258,2,mid,2,mid,Haro,Haro
+1269,4204.5258,8,high,2,mid,Surly,Haro
+1269,4204.5258,8,high,2,mid,Surly,Haro
+1269,4204.5258,2,mid,2,mid,Haro,Haro
+1269,4204.5258,2,mid,2,mid,Haro,Haro
+1101,4196.9552,6,low,1,mid,Strider,Electra
+1101,4196.9552,1,mid,1,mid,Electra,Electra
+1101,4196.9552,1,mid,1,mid,Electra,Electra
+1101,4196.9552,1,mid,1,mid,Electra,Electra
+1101,4196.9552,1,mid,1,mid,Electra,Electra
+612,4196.0278,1,mid,1,mid,Electra,Electra
+612,4196.0278,1,mid,1,mid,Electra,Electra
+612,4196.0278,8,high,1,mid,Surly,Electra
+612,4196.0278,1,mid,1,mid,Electra,Electra
+612,4196.0278,1,mid,1,mid,Electra,Electra
+1097,4195.3079,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1097,4195.3079,8,high,7,mid,Surly,"Sun Bicycles"
+1097,4195.3079,2,mid,7,mid,Haro,"Sun Bicycles"
+1097,4195.3079,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1163,4186.5267,4,low,1,mid,"Pure Cycles",Electra
+1163,4186.5267,8,high,1,mid,Surly,Electra
+1163,4186.5267,1,mid,1,mid,Electra,Electra
+1163,4186.5267,1,mid,1,mid,Electra,Electra
+55,4183.6207,7,mid,1,mid,"Sun Bicycles",Electra
+55,4183.6207,2,mid,1,mid,Haro,Electra
+55,4183.6207,9,high,1,mid,Trek,Electra
+55,4183.6207,1,mid,1,mid,Electra,Electra
+1113,4171.9479,1,mid,1,mid,Electra,Electra
+1113,4171.9479,2,mid,1,mid,Haro,Electra
+1113,4171.9479,8,high,1,mid,Surly,Electra
+1113,4171.9479,4,low,1,mid,"Pure Cycles",Electra
+1113,4171.9479,1,mid,1,mid,Electra,Electra
+831,4169.9817,1,mid,9,high,Electra,Trek
+831,4169.9817,9,high,9,high,Trek,Trek
+861,4169.9815,9,high,9,high,Trek,Trek
+861,4169.9815,1,mid,9,high,Electra,Trek
+1096,4169.3542,8,high,1,mid,Surly,Electra
+1096,4169.3542,9,high,1,mid,Trek,Electra
+1096,4169.3542,1,mid,1,mid,Electra,Electra
+1096,4169.3542,1,mid,1,mid,Electra,Electra
+1246,4167.8460,3,high,3,high,Heller,Heller
+1246,4167.8460,1,mid,3,high,Electra,Heller
+1246,4167.8460,7,mid,3,high,"Sun Bicycles",Heller
+1418,4162.8555,1,mid,9,high,Electra,Trek
+1418,4162.8555,9,high,9,high,Trek,Trek
+1418,4162.8555,9,high,9,high,Trek,Trek
+1418,4162.8555,7,mid,9,high,"Sun Bicycles",Trek
+236,4157.9724,1,mid,9,high,Electra,Trek
+236,4157.9724,9,high,9,high,Trek,Trek
+301,4156.6929,2,mid,9,high,Haro,Trek
+301,4156.6929,7,mid,9,high,"Sun Bicycles",Trek
+301,4156.6929,9,high,9,high,Trek,Trek
+335,4147.6620,1,mid,1,mid,Electra,Electra
+335,4147.6620,8,high,1,mid,Surly,Electra
+1141,4135.9565,1,mid,1,mid,Electra,Electra
+1141,4135.9565,1,mid,1,mid,Electra,Electra
+1141,4135.9565,9,high,1,mid,Trek,Electra
+338,4132.9920,8,high,8,high,Surly,Surly
+338,4132.9920,8,high,8,high,Surly,Surly
+1067,4130.3445,9,high,7,mid,Trek,"Sun Bicycles"
+1067,4130.3445,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1067,4130.3445,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1067,4130.3445,2,mid,7,mid,Haro,"Sun Bicycles"
+178,4125.5565,8,high,8,high,Surly,Surly
+178,4125.5565,1,mid,8,high,Electra,Surly
+178,4125.5565,8,high,8,high,Surly,Surly
+62,4122.1454,8,high,1,mid,Surly,Electra
+62,4122.1454,9,high,1,mid,Trek,Electra
+1133,4115.9724,1,mid,9,high,Electra,Trek
+1133,4115.9724,9,high,9,high,Trek,Trek
+1376,4109.0650,1,mid,1,mid,Electra,Electra
+1376,4109.0650,1,mid,1,mid,Electra,Electra
+1376,4109.0650,4,low,1,mid,"Pure Cycles",Electra
+1376,4109.0650,9,high,1,mid,Trek,Electra
+760,4105.1130,1,mid,9,high,Electra,Trek
+760,4105.1130,4,low,9,high,"Pure Cycles",Trek
+760,4105.1130,9,high,9,high,Trek,Trek
+619,4100.4359,1,mid,9,high,Electra,Trek
+619,4100.4359,9,high,9,high,Trek,Trek
+619,4100.4359,9,high,9,high,Trek,Trek
+619,4100.4359,9,high,9,high,Trek,Trek
+619,4100.4359,1,mid,9,high,Electra,Trek
+202,4095.0138,5,mid,5,mid,Ritchey,Ritchey
+202,4095.0138,3,high,5,mid,Heller,Ritchey
+202,4095.0138,1,mid,5,mid,Electra,Ritchey
+162,4094.8481,2,mid,3,high,Haro,Heller
+162,4094.8481,3,high,3,high,Heller,Heller
+162,4094.8481,1,mid,3,high,Electra,Heller
+162,4094.8481,7,mid,3,high,"Sun Bicycles",Heller
+1175,4092.8567,9,high,1,mid,Trek,Electra
+1175,4092.8567,1,mid,1,mid,Electra,Electra
+1175,4092.8567,3,high,1,mid,Heller,Electra
+1175,4092.8567,1,mid,1,mid,Electra,Electra
+691,4067.6640,4,low,4,low,"Pure Cycles","Pure Cycles"
+691,4067.6640,4,low,4,low,"Pure Cycles","Pure Cycles"
+691,4067.6640,9,high,4,low,Trek,"Pure Cycles"
+691,4067.6640,1,mid,4,low,Electra,"Pure Cycles"
+1072,4064.8377,1,mid,1,mid,Electra,Electra
+1072,4064.8377,9,high,1,mid,Trek,Electra
+1072,4064.8377,2,mid,1,mid,Haro,Electra
+1072,4064.8377,7,mid,1,mid,"Sun Bicycles",Electra
+946,4062.3334,9,high,8,high,Trek,Surly
+946,4062.3334,8,high,8,high,Surly,Surly
+946,4062.3334,8,high,8,high,Surly,Surly
+801,4044.8487,3,high,1,mid,Heller,Electra
+801,4044.8487,1,mid,1,mid,Electra,Electra
+801,4044.8487,5,mid,1,mid,Ritchey,Electra
+801,4044.8487,1,mid,1,mid,Electra,Electra
+1263,4044.7830,8,high,9,high,Surly,Trek
+1263,4044.7830,9,high,9,high,Trek,Trek
+395,4041.1537,1,mid,7,mid,Electra,"Sun Bicycles"
+395,4041.1537,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+395,4041.1537,8,high,7,mid,Surly,"Sun Bicycles"
+395,4041.1537,2,mid,7,mid,Haro,"Sun Bicycles"
+600,4038.5027,9,high,1,mid,Trek,Electra
+600,4038.5027,4,low,1,mid,"Pure Cycles",Electra
+600,4038.5027,1,mid,1,mid,Electra,Electra
+600,4038.5027,1,mid,1,mid,Electra,Electra
+806,4037.9647,1,mid,1,mid,Electra,Electra
+806,4037.9647,9,high,1,mid,Trek,Electra
+806,4037.9647,1,mid,1,mid,Electra,Electra
+74,4036.9720,9,high,9,high,Trek,Trek
+1066,4030.9570,1,mid,1,mid,Electra,Electra
+1066,4030.9570,2,mid,1,mid,Haro,Electra
+1066,4030.9570,1,mid,1,mid,Electra,Electra
+450,4030.0561,1,mid,1,mid,Electra,Electra
+450,4030.0561,9,high,1,mid,Trek,Electra
+450,4030.0561,4,low,1,mid,"Pure Cycles",Electra
+450,4030.0561,1,mid,1,mid,Electra,Electra
+597,4017.4401,2,mid,2,mid,Haro,Haro
+597,4017.4401,1,mid,2,mid,Electra,Haro
+597,4017.4401,9,high,2,mid,Trek,Haro
+597,4017.4401,2,mid,2,mid,Haro,Haro
+386,4012.6457,3,high,1,mid,Heller,Electra
+386,4012.6457,1,mid,1,mid,Electra,Electra
+386,4012.6457,1,mid,1,mid,Electra,Electra
+386,4012.6457,7,mid,1,mid,"Sun Bicycles",Electra
+644,4001.9184,2,mid,1,mid,Haro,Electra
+644,4001.9184,1,mid,1,mid,Electra,Electra
+644,4001.9184,1,mid,1,mid,Electra,Electra
+644,4001.9184,7,mid,1,mid,"Sun Bicycles",Electra
+644,4001.9184,8,high,1,mid,Surly,Electra
+521,3998.3620,8,high,1,mid,Surly,Electra
+521,3998.3620,1,mid,1,mid,Electra,Electra
+521,3998.3620,1,mid,1,mid,Electra,Electra
+362,3997.9747,9,high,1,mid,Trek,Electra
+362,3997.9747,1,mid,1,mid,Electra,Electra
+362,3997.9747,1,mid,1,mid,Electra,Electra
+865,3995.6247,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+865,3995.6247,8,high,7,mid,Surly,"Sun Bicycles"
+865,3995.6247,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+865,3995.6247,1,mid,7,mid,Electra,"Sun Bicycles"
+1329,3994.4559,7,mid,2,mid,"Sun Bicycles",Haro
+1329,3994.4559,2,mid,2,mid,Haro,Haro
+1329,3994.4559,2,mid,2,mid,Haro,Haro
+1311,3975.2343,1,mid,7,mid,Electra,"Sun Bicycles"
+1311,3975.2343,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1311,3975.2343,1,mid,7,mid,Electra,"Sun Bicycles"
+1311,3975.2343,4,low,7,mid,"Pure Cycles","Sun Bicycles"
+1311,3975.2343,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+118,3974.6254,1,mid,8,high,Electra,Surly
+118,3974.6254,8,high,8,high,Surly,Surly
+41,3962.0287,2,mid,2,mid,Haro,Haro
+662,3960.4315,1,mid,1,mid,Electra,Electra
+662,3960.4315,1,mid,1,mid,Electra,Electra
+662,3960.4315,1,mid,1,mid,Electra,Electra
+662,3960.4315,7,mid,1,mid,"Sun Bicycles",Electra
+662,3960.4315,9,high,1,mid,Trek,Electra
+1178,3950.3624,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1178,3950.3624,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+614,3935.9680,9,high,9,high,Trek,Trek
+614,3935.9680,7,mid,9,high,"Sun Bicycles",Trek
+614,3935.9680,1,mid,9,high,Electra,Trek
+143,3920.6630,8,high,8,high,Surly,Surly
+143,3920.6630,7,mid,8,high,"Sun Bicycles",Surly
+1001,3911.8625,1,mid,1,mid,Electra,Electra
+1001,3911.8625,8,high,1,mid,Surly,Electra
+1001,3911.8625,1,mid,1,mid,Electra,Electra
+309,3900.6587,8,high,1,mid,Surly,Electra
+309,3900.6587,1,mid,1,mid,Electra,Electra
+309,3900.6587,1,mid,1,mid,Electra,Electra
+1324,3900.0607,8,high,8,high,Surly,Surly
+1324,3900.0607,4,low,8,high,"Pure Cycles",Surly
+1324,3900.0607,1,mid,8,high,Electra,Surly
+1054,3899.9657,1,mid,1,mid,Electra,Electra
+1054,3899.9657,9,high,1,mid,Trek,Electra
+1054,3899.9657,1,mid,1,mid,Electra,Electra
+1102,3891.5125,1,mid,4,low,Electra,"Pure Cycles"
+1102,3891.5125,8,high,4,low,Surly,"Pure Cycles"
+1102,3891.5125,4,low,4,low,"Pure Cycles","Pure Cycles"
+1102,3891.5125,4,low,4,low,"Pure Cycles","Pure Cycles"
+1083,3866.0454,1,mid,1,mid,Electra,Electra
+1083,3866.0454,9,high,1,mid,Trek,Electra
+1083,3866.0454,1,mid,1,mid,Electra,Electra
+1083,3866.0454,1,mid,1,mid,Electra,Electra
+1083,3866.0454,1,mid,1,mid,Electra,Electra
+937,3865.7654,1,mid,9,high,Electra,Trek
+937,3865.7654,9,high,9,high,Trek,Trek
+625,3860.1454,2,mid,8,high,Haro,Surly
+625,3860.1454,1,mid,8,high,Electra,Surly
+625,3860.1454,7,mid,8,high,"Sun Bicycles",Surly
+625,3860.1454,8,high,8,high,Surly,Surly
+437,3859.9280,1,mid,1,mid,Electra,Electra
+437,3859.9280,8,high,1,mid,Surly,Electra
+437,3859.9280,1,mid,1,mid,Electra,Electra
+437,3859.9280,9,high,1,mid,Trek,Electra
+437,3859.9280,1,mid,1,mid,Electra,Electra
+150,3840.8820,4,low,8,high,"Pure Cycles",Surly
+150,3840.8820,8,high,8,high,Surly,Surly
+645,3818.2930,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+645,3818.2930,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+645,3818.2930,4,low,7,mid,"Pure Cycles","Sun Bicycles"
+645,3818.2930,9,high,7,mid,Trek,"Sun Bicycles"
+1203,3818.2124,1,mid,1,mid,Electra,Electra
+1203,3818.2124,2,mid,1,mid,Haro,Electra
+1203,3818.2124,8,high,1,mid,Surly,Electra
+1203,3818.2124,1,mid,1,mid,Electra,Electra
+1203,3818.2124,7,mid,1,mid,"Sun Bicycles",Electra
+686,3816.4624,9,high,1,mid,Trek,Electra
+686,3816.4624,1,mid,1,mid,Electra,Electra
+686,3816.4624,1,mid,1,mid,Electra,Electra
+133,3810.8230,3,high,5,mid,Heller,Ritchey
+133,3810.8230,8,high,5,mid,Surly,Ritchey
+133,3810.8230,5,mid,5,mid,Ritchey,Ritchey
+133,3810.8230,1,mid,5,mid,Electra,Ritchey
+234,3804.9214,2,mid,1,mid,Haro,Electra
+234,3804.9214,1,mid,1,mid,Electra,Electra
+234,3804.9214,1,mid,1,mid,Electra,Electra
+234,3804.9214,1,mid,1,mid,Electra,Electra
+234,3804.9214,9,high,1,mid,Trek,Electra
+168,3801.6487,9,high,1,mid,Trek,Electra
+168,3801.6487,1,mid,1,mid,Electra,Electra
+168,3801.6487,1,mid,1,mid,Electra,Electra
+168,3801.6487,4,low,1,mid,"Pure Cycles",Electra
+168,3801.6487,1,mid,1,mid,Electra,Electra
+1437,3799.9905,9,high,9,high,Trek,Trek
+950,3799.1634,2,mid,2,mid,Haro,Haro
+950,3799.1634,7,mid,2,mid,"Sun Bicycles",Haro
+1088,3793.1580,2,mid,9,high,Haro,Trek
+1088,3793.1580,7,mid,9,high,"Sun Bicycles",Trek
+1088,3793.1580,9,high,9,high,Trek,Trek
+1296,3768.9400,1,mid,1,mid,Electra,Electra
+1296,3768.9400,1,mid,1,mid,Electra,Electra
+1296,3768.9400,8,high,1,mid,Surly,Electra
+1296,3768.9400,1,mid,1,mid,Electra,Electra
+515,3766.6347,1,mid,8,high,Electra,Surly
+515,3766.6347,8,high,8,high,Surly,Surly
+515,3766.6347,9,high,8,high,Trek,Surly
+1156,3763.8715,1,mid,8,high,Electra,Surly
+1156,3763.8715,8,high,8,high,Surly,Surly
+134,3751.8740,9,high,9,high,Trek,Trek
+134,3751.8740,3,high,9,high,Heller,Trek
+134,3751.8740,1,mid,9,high,Electra,Trek
+890,3750.8732,9,high,1,mid,Trek,Electra
+890,3750.8732,1,mid,1,mid,Electra,Electra
+890,3750.8732,7,mid,1,mid,"Sun Bicycles",Electra
+171,3723.8275,1,mid,7,mid,Electra,"Sun Bicycles"
+171,3723.8275,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+171,3723.8275,8,high,7,mid,Surly,"Sun Bicycles"
+171,3723.8275,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+171,3723.8275,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1262,3722.9830,2,mid,9,high,Haro,Trek
+1262,3722.9830,9,high,9,high,Trek,Trek
+1115,3720.8885,1,mid,1,mid,Electra,Electra
+1115,3720.8885,8,high,1,mid,Surly,Electra
+1115,3720.8885,2,mid,1,mid,Haro,Electra
+1115,3720.8885,1,mid,1,mid,Electra,Electra
+1115,3720.8885,7,mid,1,mid,"Sun Bicycles",Electra
+673,3695.4745,1,mid,1,mid,Electra,Electra
+673,3695.4745,9,high,1,mid,Trek,Electra
+673,3695.4745,1,mid,1,mid,Electra,Electra
+11,3690.2361,2,mid,9,high,Haro,Trek
+826,3671.7054,2,mid,2,mid,Haro,Haro
+826,3671.7054,2,mid,2,mid,Haro,Haro
+826,3671.7054,8,high,2,mid,Surly,Haro
+1188,3668.9260,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1188,3668.9260,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1188,3668.9260,1,mid,7,mid,Electra,"Sun Bicycles"
+1188,3668.9260,8,high,7,mid,Surly,"Sun Bicycles"
+856,3659.9825,9,high,9,high,Trek,Trek
+856,3659.9825,9,high,9,high,Trek,Trek
+297,3658.1810,9,high,4,low,Trek,"Pure Cycles"
+297,3658.1810,4,low,4,low,"Pure Cycles","Pure Cycles"
+270,3646.9827,1,mid,9,high,Electra,Trek
+270,3646.9827,9,high,9,high,Trek,Trek
+474,3644.0450,8,high,1,mid,Surly,Electra
+474,3644.0450,1,mid,1,mid,Electra,Electra
+474,3644.0450,1,mid,1,mid,Electra,Electra
+152,3643.5440,4,low,9,high,"Pure Cycles",Trek
+152,3643.5440,9,high,9,high,Trek,Trek
+152,3643.5440,9,high,9,high,Trek,Trek
+205,3642.0126,1,mid,1,mid,Electra,Electra
+205,3642.0126,1,mid,1,mid,Electra,Electra
+205,3642.0126,4,low,1,mid,"Pure Cycles",Electra
+205,3642.0126,8,high,1,mid,Surly,Electra
+657,3633.3590,1,mid,1,mid,Electra,Electra
+657,3633.3590,8,high,1,mid,Surly,Electra
+657,3633.3590,1,mid,1,mid,Electra,Electra
+657,3633.3590,1,mid,1,mid,Electra,Electra
+657,3633.3590,1,mid,1,mid,Electra,Electra
+1430,3628.5127,9,high,3,high,Trek,Heller
+1430,3628.5127,3,high,3,high,Heller,Heller
+1353,3613.7245,8,high,1,mid,Surly,Electra
+1353,3613.7245,1,mid,1,mid,Electra,Electra
+1353,3613.7245,4,low,1,mid,"Pure Cycles",Electra
+1353,3613.7245,1,mid,1,mid,Electra,Electra
+210,3599.9910,9,high,9,high,Trek,Trek
+1003,3594.8630,9,high,9,high,Trek,Trek
+1003,3594.8630,7,mid,9,high,"Sun Bicycles",Trek
+716,3591.2700,4,low,4,low,"Pure Cycles","Pure Cycles"
+716,3591.2700,8,high,4,low,Surly,"Pure Cycles"
+716,3591.2700,4,low,4,low,"Pure Cycles","Pure Cycles"
+1223,3589.5660,1,mid,8,high,Electra,Surly
+1223,3589.5660,8,high,8,high,Surly,Surly
+121,3589.1220,8,high,1,mid,Surly,Electra
+670,3586.7070,5,mid,1,mid,Ritchey,Electra
+670,3586.7070,1,mid,1,mid,Electra,Electra
+670,3586.7070,1,mid,1,mid,Electra,Electra
+670,3586.7070,4,low,1,mid,"Pure Cycles",Electra
+670,3586.7070,4,low,1,mid,"Pure Cycles",Electra
+1189,3581.4620,1,mid,1,mid,Electra,Electra
+1189,3581.4620,9,high,1,mid,Trek,Electra
+1189,3581.4620,1,mid,1,mid,Electra,Electra
+277,3570.5560,1,mid,1,mid,Electra,Electra
+277,3570.5560,1,mid,1,mid,Electra,Electra
+277,3570.5560,3,high,1,mid,Heller,Electra
+898,3567.5610,4,low,4,low,"Pure Cycles","Pure Cycles"
+898,3567.5610,9,high,4,low,Trek,"Pure Cycles"
+1028,3564.9665,1,mid,1,mid,Electra,Electra
+1028,3564.9665,1,mid,1,mid,Electra,Electra
+1028,3564.9665,9,high,1,mid,Trek,Electra
+641,3563.0245,4,low,9,high,"Pure Cycles",Trek
+641,3563.0245,1,mid,9,high,Electra,Trek
+641,3563.0245,9,high,9,high,Trek,Trek
+761,3546.9290,1,mid,1,mid,Electra,Electra
+761,3546.9290,1,mid,1,mid,Electra,Electra
+761,3546.9290,1,mid,1,mid,Electra,Electra
+761,3546.9290,1,mid,1,mid,Electra,Electra
+761,3546.9290,1,mid,1,mid,Electra,Electra
+599,3535.2759,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+599,3535.2759,9,high,7,mid,Trek,"Sun Bicycles"
+599,3535.2759,1,mid,7,mid,Electra,"Sun Bicycles"
+694,3531.3039,8,high,4,low,Surly,"Pure Cycles"
+694,3531.3039,4,low,4,low,"Pure Cycles","Pure Cycles"
+694,3531.3039,1,mid,4,low,Electra,"Pure Cycles"
+694,3531.3039,9,high,4,low,Trek,"Pure Cycles"
+469,3511.7384,1,mid,1,mid,Electra,Electra
+469,3511.7384,1,mid,1,mid,Electra,Electra
+469,3511.7384,1,mid,1,mid,Electra,Electra
+469,3511.7384,3,high,1,mid,Heller,Electra
+512,3509.9730,9,high,9,high,Trek,Trek
+512,3509.9730,7,mid,9,high,"Sun Bicycles",Trek
+1306,3505.7660,8,high,8,high,Surly,Surly
+1306,3505.7660,1,mid,8,high,Electra,Surly
+560,3502.4932,8,high,8,high,Surly,Surly
+560,3502.4932,1,mid,8,high,Electra,Surly
+560,3502.4932,8,high,8,high,Surly,Surly
+560,3502.4932,4,low,8,high,"Pure Cycles",Surly
+907,3495.6624,3,high,3,high,Heller,Heller
+907,3495.6624,1,mid,3,high,Electra,Heller
+432,3489.9734,9,high,1,mid,Trek,Electra
+432,3489.9734,1,mid,1,mid,Electra,Electra
+1219,3484.0719,8,high,1,mid,Surly,Electra
+1219,3484.0719,4,low,1,mid,"Pure Cycles",Electra
+1219,3484.0719,1,mid,1,mid,Electra,Electra
+1219,3484.0719,1,mid,1,mid,Electra,Electra
+648,3475.8443,8,high,1,mid,Surly,Electra
+648,3475.8443,1,mid,1,mid,Electra,Electra
+648,3475.8443,1,mid,1,mid,Electra,Electra
+648,3475.8443,1,mid,1,mid,Electra,Electra
+823,3464.0224,1,mid,3,high,Electra,Heller
+823,3464.0224,3,high,3,high,Heller,Heller
+705,3463.5450,8,high,8,high,Surly,Surly
+705,3463.5450,8,high,8,high,Surly,Surly
+705,3463.5450,8,high,8,high,Surly,Surly
+1093,3447.2278,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1093,3447.2278,9,high,7,mid,Trek,"Sun Bicycles"
+1093,3447.2278,8,high,7,mid,Surly,"Sun Bicycles"
+1093,3447.2278,1,mid,7,mid,Electra,"Sun Bicycles"
+1093,3447.2278,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1358,3443.9377,8,high,8,high,Surly,Surly
+1358,3443.9377,1,mid,8,high,Electra,Surly
+1358,3443.9377,1,mid,8,high,Electra,Surly
+1358,3443.9377,8,high,8,high,Surly,Surly
+1346,3442.8135,1,mid,3,high,Electra,Heller
+1346,3442.8135,3,high,3,high,Heller,Heller
+1346,3442.8135,2,mid,3,high,Haro,Heller
+78,3441.2631,1,mid,1,mid,Electra,Electra
+78,3441.2631,9,high,1,mid,Trek,Electra
+78,3441.2631,9,high,1,mid,Trek,Electra
+1211,3439.9440,1,mid,1,mid,Electra,Electra
+1211,3439.9440,1,mid,1,mid,Electra,Electra
+1211,3439.9440,5,mid,1,mid,Ritchey,Electra
+435,3439.4575,7,mid,9,high,"Sun Bicycles",Trek
+435,3439.4575,9,high,9,high,Trek,Trek
+435,3439.4575,1,mid,9,high,Electra,Trek
+435,3439.4575,9,high,9,high,Trek,Trek
+1191,3439.1719,8,high,8,high,Surly,Surly
+1191,3439.1719,9,high,8,high,Trek,Surly
+1080,3430.9631,4,low,5,mid,"Pure Cycles",Ritchey
+1080,3430.9631,1,mid,5,mid,Electra,Ritchey
+1080,3430.9631,5,mid,5,mid,Ritchey,Ritchey
+1080,3430.9631,8,high,5,mid,Surly,Ritchey
+1124,3419.9810,9,high,9,high,Trek,Trek
+994,3403.8540,1,mid,8,high,Electra,Surly
+994,3403.8540,8,high,8,high,Surly,Surly
+994,3403.8540,8,high,8,high,Surly,Surly
+864,3390.4650,1,mid,1,mid,Electra,Electra
+864,3390.4650,1,mid,1,mid,Electra,Electra
+864,3390.4650,1,mid,1,mid,Electra,Electra
+864,3390.4650,9,high,1,mid,Trek,Electra
+1344,3377.9730,1,mid,9,high,Electra,Trek
+1344,3377.9730,9,high,9,high,Trek,Trek
+813,3376.5951,4,low,1,mid,"Pure Cycles",Electra
+813,3376.5951,1,mid,1,mid,Electra,Electra
+813,3376.5951,3,high,1,mid,Heller,Electra
+813,3376.5951,1,mid,1,mid,Electra,Electra
+813,3376.5951,1,mid,1,mid,Electra,Electra
+616,3372.1380,1,mid,1,mid,Electra,Electra
+616,3372.1380,1,mid,1,mid,Electra,Electra
+616,3372.1380,4,low,1,mid,"Pure Cycles",Electra
+616,3372.1380,1,mid,1,mid,Electra,Electra
+616,3372.1380,1,mid,1,mid,Electra,Electra
+1071,3370.5721,4,low,4,low,"Pure Cycles","Pure Cycles"
+1071,3370.5721,8,high,4,low,Surly,"Pure Cycles"
+1071,3370.5721,5,mid,4,low,Ritchey,"Pure Cycles"
+1071,3370.5721,4,low,4,low,"Pure Cycles","Pure Cycles"
+709,3359.9717,9,high,9,high,Trek,Trek
+709,3359.9717,1,mid,9,high,Electra,Trek
+1265,3359.7477,8,high,8,high,Surly,Surly
+1265,3359.7477,1,mid,8,high,Electra,Surly
+1265,3359.7477,3,high,8,high,Heller,Surly
+1265,3359.7477,8,high,8,high,Surly,Surly
+260,3349.6487,8,high,1,mid,Surly,Electra
+260,3349.6487,1,mid,1,mid,Electra,Electra
+260,3349.6487,1,mid,1,mid,Electra,Electra
+260,3349.6487,1,mid,1,mid,Electra,Electra
+688,3347.9814,9,high,9,high,Trek,Trek
+45,3347.6480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+45,3347.6480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+533,3346.0319,9,high,9,high,Trek,Trek
+533,3346.0319,7,mid,9,high,"Sun Bicycles",Trek
+977,3328.0631,4,low,1,mid,"Pure Cycles",Electra
+977,3328.0631,9,high,1,mid,Trek,Electra
+977,3328.0631,1,mid,1,mid,Electra,Electra
+977,3328.0631,1,mid,1,mid,Electra,Electra
+1177,3302.1734,1,mid,1,mid,Electra,Electra
+1177,3302.1734,9,high,1,mid,Trek,Electra
+951,3292.4270,3,high,5,mid,Heller,Ritchey
+951,3292.4270,5,mid,5,mid,Ritchey,Ritchey
+951,3292.4270,1,mid,5,mid,Electra,Ritchey
+951,3292.4270,4,low,5,mid,"Pure Cycles",Ritchey
+722,3292.0046,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+722,3292.0046,1,mid,7,mid,Electra,"Sun Bicycles"
+722,3292.0046,1,mid,7,mid,Electra,"Sun Bicycles"
+722,3292.0046,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+722,3292.0046,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+185,3290.7715,8,high,8,high,Surly,Surly
+185,3290.7715,7,mid,8,high,"Sun Bicycles",Surly
+1184,3287.3220,1,mid,1,mid,Electra,Electra
+1184,3287.3220,1,mid,1,mid,Electra,Electra
+1184,3287.3220,7,mid,1,mid,"Sun Bicycles",Electra
+1184,3287.3220,1,mid,1,mid,Electra,Electra
+1184,3287.3220,7,mid,1,mid,"Sun Bicycles",Electra
+873,3278.0540,1,mid,1,mid,Electra,Electra
+873,3278.0540,4,low,1,mid,"Pure Cycles",Electra
+873,3278.0540,1,mid,1,mid,Electra,Electra
+873,3278.0540,1,mid,1,mid,Electra,Electra
+132,3271.8135,8,high,3,high,Surly,Heller
+132,3271.8135,1,mid,3,high,Electra,Heller
+132,3271.8135,3,high,3,high,Heller,Heller
+470,3270.2310,4,low,4,low,"Pure Cycles","Pure Cycles"
+470,3270.2310,9,high,4,low,Trek,"Pure Cycles"
+470,3270.2310,4,low,4,low,"Pure Cycles","Pure Cycles"
+954,3269.9827,9,high,9,high,Trek,Trek
+954,3269.9827,1,mid,9,high,Electra,Trek
+1416,3254.9907,9,high,9,high,Trek,Trek
+358,3247.2480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+358,3247.2480,2,mid,7,mid,Haro,"Sun Bicycles"
+358,3247.2480,8,high,7,mid,Surly,"Sun Bicycles"
+358,3247.2480,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1352,3243.7534,1,mid,8,high,Electra,Surly
+1352,3243.7534,7,mid,8,high,"Sun Bicycles",Surly
+1352,3243.7534,8,high,8,high,Surly,Surly
+899,3239.9820,9,high,9,high,Trek,Trek
+498,3238.9624,1,mid,1,mid,Electra,Electra
+498,3238.9624,9,high,1,mid,Trek,Electra
+498,3238.9624,1,mid,1,mid,Electra,Electra
+820,3229.9525,1,mid,1,mid,Electra,Electra
+820,3229.9525,1,mid,1,mid,Electra,Electra
+820,3229.9525,1,mid,1,mid,Electra,Electra
+1154,3227.3910,9,high,9,high,Trek,Trek
+1154,3227.3910,8,high,9,high,Surly,Trek
+348,3223.1840,4,low,9,high,"Pure Cycles",Trek
+348,3223.1840,9,high,9,high,Trek,Trek
+1082,3199.9920,9,high,9,high,Trek,Trek
+353,3196.2044,8,high,3,high,Surly,Heller
+353,3196.2044,2,mid,3,high,Haro,Heller
+353,3196.2044,7,mid,3,high,"Sun Bicycles",Heller
+353,3196.2044,3,high,3,high,Heller,Heller
+429,3194.0820,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+429,3194.0820,4,low,4,low,"Pure Cycles","Pure Cycles"
+653,3191.9525,7,mid,1,mid,"Sun Bicycles",Electra
+653,3191.9525,1,mid,1,mid,Electra,Electra
+653,3191.9525,1,mid,1,mid,Electra,Electra
+1059,3185.9454,7,mid,1,mid,"Sun Bicycles",Electra
+1059,3185.9454,1,mid,1,mid,Electra,Electra
+1059,3185.9454,1,mid,1,mid,Electra,Electra
+1059,3185.9454,1,mid,1,mid,Electra,Electra
+1252,3181.5405,4,low,9,high,"Pure Cycles",Trek
+1252,3181.5405,9,high,9,high,Trek,Trek
+1145,3172.4449,1,mid,1,mid,Electra,Electra
+1145,3172.4449,8,high,1,mid,Surly,Electra
+1145,3172.4449,1,mid,1,mid,Electra,Electra
+1145,3172.4449,7,mid,1,mid,"Sun Bicycles",Electra
+1145,3172.4449,3,high,1,mid,Heller,Electra
+582,3168.5541,1,mid,1,mid,Electra,Electra
+582,3168.5541,7,mid,1,mid,"Sun Bicycles",Electra
+582,3168.5541,8,high,1,mid,Surly,Electra
+1068,3167.9562,2,mid,2,mid,Haro,Haro
+1068,3167.9562,1,mid,2,mid,Electra,Haro
+1068,3167.9562,7,mid,2,mid,"Sun Bicycles",Haro
+1068,3167.9562,2,mid,2,mid,Haro,Haro
+764,3163.0426,3,high,8,high,Heller,Surly
+764,3163.0426,1,mid,8,high,Electra,Surly
+764,3163.0426,4,low,8,high,"Pure Cycles",Surly
+764,3163.0426,8,high,8,high,Surly,Surly
+618,3159.9260,1,mid,1,mid,Electra,Electra
+618,3159.9260,1,mid,1,mid,Electra,Electra
+618,3159.9260,1,mid,1,mid,Electra,Electra
+618,3159.9260,2,mid,1,mid,Haro,Electra
+618,3159.9260,7,mid,1,mid,"Sun Bicycles",Electra
+1326,3155.9565,9,high,1,mid,Trek,Electra
+1326,3155.9565,1,mid,1,mid,Electra,Electra
+1326,3155.9565,1,mid,1,mid,Electra,Electra
+427,3149.9910,9,high,9,high,Trek,Trek
+832,3146.4645,7,mid,9,high,"Sun Bicycles",Trek
+832,3146.4645,9,high,9,high,Trek,Trek
+832,3146.4645,1,mid,9,high,Electra,Trek
+1208,3144.3270,4,low,1,mid,"Pure Cycles",Electra
+1208,3144.3270,1,mid,1,mid,Electra,Electra
+1208,3144.3270,1,mid,1,mid,Electra,Electra
+1208,3144.3270,8,high,1,mid,Surly,Electra
+303,3136.0432,2,mid,8,high,Haro,Surly
+303,3136.0432,8,high,8,high,Surly,Surly
+303,3136.0432,8,high,8,high,Surly,Surly
+303,3136.0432,1,mid,8,high,Electra,Surly
+1167,3126.6414,8,high,8,high,Surly,Surly
+1218,3126.6414,8,high,8,high,Surly,Surly
+1267,3126.6414,8,high,8,high,Surly,Surly
+1032,3121.4817,1,mid,9,high,Electra,Trek
+1032,3121.4817,9,high,9,high,Trek,Trek
+102,3121.1320,8,high,8,high,Surly,Surly
+102,3121.1320,1,mid,8,high,Electra,Surly
+1160,3110.8567,1,mid,8,high,Electra,Surly
+1160,3110.8567,8,high,8,high,Surly,Surly
+1160,3110.8567,8,high,8,high,Surly,Surly
+1160,3110.8567,8,high,8,high,Surly,Surly
+628,3105.9644,1,mid,1,mid,Electra,Electra
+628,3105.9644,1,mid,1,mid,Electra,Electra
+628,3105.9644,9,high,1,mid,Trek,Electra
+434,3092.9448,1,mid,1,mid,Electra,Electra
+434,3092.9448,1,mid,1,mid,Electra,Electra
+434,3092.9448,1,mid,1,mid,Electra,Electra
+480,3074.2065,5,mid,1,mid,Ritchey,Electra
+480,3074.2065,4,low,1,mid,"Pure Cycles",Electra
+480,3074.2065,1,mid,1,mid,Electra,Electra
+480,3074.2065,4,low,1,mid,"Pure Cycles",Electra
+480,3074.2065,1,mid,1,mid,Electra,Electra
+712,3065.9825,1,mid,9,high,Electra,Trek
+712,3065.9825,9,high,9,high,Trek,Trek
+273,3056.9624,8,high,1,mid,Surly,Electra
+273,3056.9624,1,mid,1,mid,Electra,Electra
+273,3056.9624,1,mid,1,mid,Electra,Electra
+1030,3049.9830,9,high,9,high,Trek,Trek
+1030,3049.9830,1,mid,9,high,Electra,Trek
+518,3039.9810,9,high,9,high,Trek,Trek
+679,3038.3214,4,low,4,low,"Pure Cycles","Pure Cycles"
+679,3038.3214,5,mid,4,low,Ritchey,"Pure Cycles"
+679,3038.3214,4,low,4,low,"Pure Cycles","Pure Cycles"
+92,3037.1355,2,mid,2,mid,Haro,Haro
+92,3037.1355,7,mid,2,mid,"Sun Bicycles",Haro
+92,3037.1355,8,high,2,mid,Surly,Haro
+92,3037.1355,9,high,2,mid,Trek,Haro
+1127,3032.9820,9,high,9,high,Trek,Trek
+1127,3032.9820,8,high,9,high,Surly,Trek
+214,3032.7401,1,mid,1,mid,Electra,Electra
+214,3032.7401,5,mid,1,mid,Ritchey,Electra
+214,3032.7401,9,high,1,mid,Trek,Electra
+214,3032.7401,1,mid,1,mid,Electra,Electra
+1049,3027.0319,1,mid,3,high,Electra,Heller
+1049,3027.0319,3,high,3,high,Heller,Heller
+507,3022.8715,2,mid,3,high,Haro,Heller
+507,3022.8715,3,high,3,high,Heller,Heller
+941,3018.2852,8,high,1,mid,Surly,Electra
+941,3018.2852,1,mid,1,mid,Electra,Electra
+941,3018.2852,1,mid,1,mid,Electra,Electra
+941,3018.2852,1,mid,1,mid,Electra,Electra
+355,3015.9719,1,mid,1,mid,Electra,Electra
+355,3015.9719,9,high,1,mid,Trek,Electra
+1404,3015.3129,3,high,1,mid,Heller,Electra
+1404,3015.3129,1,mid,1,mid,Electra,Electra
+1404,3015.3129,4,low,1,mid,"Pure Cycles",Electra
+1404,3015.3129,1,mid,1,mid,Electra,Electra
+1413,3014.3240,1,mid,3,high,Electra,Heller
+1413,3014.3240,3,high,3,high,Heller,Heller
+1413,3014.3240,8,high,3,high,Surly,Heller
+129,3011.4810,9,high,9,high,Trek,Trek
+129,3011.4810,1,mid,9,high,Electra,Trek
+1287,2991.7590,7,mid,1,mid,"Sun Bicycles",Electra
+1287,2991.7590,1,mid,1,mid,Electra,Electra
+1287,2991.7590,1,mid,1,mid,Electra,Electra
+1287,2991.7590,7,mid,1,mid,"Sun Bicycles",Electra
+580,2975.9907,9,high,9,high,Trek,Trek
+1304,2966.6442,9,high,1,mid,Trek,Electra
+1304,2966.6442,1,mid,1,mid,Electra,Electra
+1304,2966.6442,9,high,1,mid,Trek,Electra
+1304,2966.6442,1,mid,1,mid,Electra,Electra
+1304,2966.6442,7,mid,1,mid,"Sun Bicycles",Electra
+174,2963.9810,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+412,2963.9810,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+497,2958.3021,5,mid,5,mid,Ritchey,Ritchey
+497,2958.3021,8,high,5,mid,Surly,Ritchey
+307,2942.9820,1,mid,9,high,Electra,Trek
+307,2942.9820,9,high,9,high,Trek,Trek
+1281,2932.4812,9,high,9,high,Trek,Trek
+1281,2932.4812,9,high,9,high,Trek,Trek
+1400,2928.6840,4,low,3,high,"Pure Cycles",Heller
+1400,2928.6840,3,high,3,high,Heller,Heller
+1375,2915.1080,1,mid,5,mid,Electra,Ritchey
+1375,2915.1080,4,low,5,mid,"Pure Cycles",Ritchey
+1375,2915.1080,5,mid,5,mid,Ritchey,Ritchey
+669,2899.4846,1,mid,1,mid,Electra,Electra
+669,2899.4846,7,mid,1,mid,"Sun Bicycles",Electra
+669,2899.4846,1,mid,1,mid,Electra,Electra
+669,2899.4846,1,mid,1,mid,Electra,Electra
+771,2891.7542,2,mid,1,mid,Haro,Electra
+771,2891.7542,1,mid,1,mid,Electra,Electra
+771,2891.7542,7,mid,1,mid,"Sun Bicycles",Electra
+771,2891.7542,1,mid,1,mid,Electra,Electra
+1033,2889.8561,7,mid,1,mid,"Sun Bicycles",Electra
+1033,2889.8561,1,mid,1,mid,Electra,Electra
+1033,2889.8561,9,high,1,mid,Trek,Electra
+1285,2881.1400,8,high,8,high,Surly,Surly
+982,2877.7652,8,high,8,high,Surly,Surly
+982,2877.7652,1,mid,8,high,Electra,Surly
+982,2877.7652,2,mid,8,high,Haro,Surly
+799,2873.9400,8,high,1,mid,Surly,Electra
+799,2873.9400,7,mid,1,mid,"Sun Bicycles",Electra
+799,2873.9400,1,mid,1,mid,Electra,Electra
+799,2873.9400,1,mid,1,mid,Electra,Electra
+979,2867.2750,3,high,3,high,Heller,Heller
+979,2867.2750,4,low,3,high,"Pure Cycles",Heller
+979,2867.2750,1,mid,3,high,Electra,Heller
+489,2853.9630,8,high,8,high,Surly,Surly
+489,2853.9630,1,mid,8,high,Electra,Surly
+1055,2849.9905,9,high,9,high,Trek,Trek
+1105,2843.0734,7,mid,8,high,"Sun Bicycles",Surly
+1105,2843.0734,8,high,8,high,Surly,Surly
+1105,2843.0734,1,mid,8,high,Electra,Surly
+1105,2843.0734,9,high,8,high,Trek,Surly
+333,2840.0461,2,mid,2,mid,Haro,Haro
+333,2840.0461,2,mid,2,mid,Haro,Haro
+333,2840.0461,8,high,2,mid,Surly,Haro
+333,2840.0461,2,mid,2,mid,Haro,Haro
+1140,2835.5514,8,high,5,mid,Surly,Ritchey
+1140,2835.5514,5,mid,5,mid,Ritchey,Ritchey
+1379,2834.8444,1,mid,1,mid,Electra,Electra
+1379,2834.8444,1,mid,1,mid,Electra,Electra
+1379,2834.8444,1,mid,1,mid,Electra,Electra
+1379,2834.8444,2,mid,1,mid,Haro,Electra
+667,2827.9494,1,mid,1,mid,Electra,Electra
+667,2827.9494,1,mid,1,mid,Electra,Electra
+667,2827.9494,8,high,1,mid,Surly,Electra
+204,2813.5587,1,mid,5,mid,Electra,Ritchey
+204,2813.5587,5,mid,5,mid,Ritchey,Ritchey
+204,2813.5587,8,high,5,mid,Surly,Ritchey
+204,2813.5587,4,low,5,mid,"Pure Cycles",Ritchey
+1029,2804.1440,1,mid,1,mid,Electra,Electra
+1029,2804.1440,7,mid,1,mid,"Sun Bicycles",Electra
+1029,2804.1440,1,mid,1,mid,Electra,Electra
+1029,2804.1440,7,mid,1,mid,"Sun Bicycles",Electra
+1185,2801.9320,1,mid,1,mid,Electra,Electra
+1185,2801.9320,1,mid,1,mid,Electra,Electra
+1185,2801.9320,1,mid,1,mid,Electra,Electra
+1185,2801.9320,1,mid,1,mid,Electra,Electra
+1197,2800.2975,1,mid,9,high,Electra,Trek
+1197,2800.2975,9,high,9,high,Trek,Trek
+1197,2800.2975,9,high,9,high,Trek,Trek
+1197,2800.2975,8,high,9,high,Surly,Trek
+1108,2793.0481,1,mid,1,mid,Electra,Electra
+1108,2793.0481,8,high,1,mid,Surly,Electra
+1108,2793.0481,1,mid,1,mid,Electra,Electra
+1108,2793.0481,1,mid,1,mid,Electra,Electra
+439,2789.9907,9,high,9,high,Trek,Trek
+380,2787.9590,1,mid,1,mid,Electra,Electra
+380,2787.9590,8,high,1,mid,Surly,Electra
+380,2787.9590,9,high,1,mid,Trek,Electra
+380,2787.9590,4,low,1,mid,"Pure Cycles",Electra
+380,2787.9590,7,mid,1,mid,"Sun Bicycles",Electra
+1216,2780.5470,1,mid,1,mid,Electra,Electra
+1216,2780.5470,1,mid,1,mid,Electra,Electra
+1216,2780.5470,1,mid,1,mid,Electra,Electra
+1216,2780.5470,8,high,1,mid,Surly,Electra
+106,2770.9630,1,mid,1,mid,Electra,Electra
+106,2770.9630,2,mid,1,mid,Haro,Electra
+106,2770.9630,1,mid,1,mid,Electra,Electra
+326,2768.3634,2,mid,4,low,Haro,"Pure Cycles"
+326,2768.3634,4,low,4,low,"Pure Cycles","Pure Cycles"
+326,2768.3634,9,high,4,low,Trek,"Pure Cycles"
+520,2754.9905,9,high,9,high,Trek,Trek
+892,2754.9905,9,high,9,high,Trek,Trek
+198,2749.3474,8,high,8,high,Surly,Surly
+198,2749.3474,1,mid,8,high,Electra,Surly
+198,2749.3474,7,mid,8,high,"Sun Bicycles",Surly
+737,2748.7464,1,mid,1,mid,Electra,Electra
+737,2748.7464,1,mid,1,mid,Electra,Electra
+737,2748.7464,1,mid,1,mid,Electra,Electra
+737,2748.7464,1,mid,1,mid,Electra,Electra
+519,2747.2395,1,mid,1,mid,Electra,Electra
+519,2747.2395,7,mid,1,mid,"Sun Bicycles",Electra
+519,2747.2395,1,mid,1,mid,Electra,Electra
+519,2747.2395,5,mid,1,mid,Ritchey,Electra
+1058,2743.9840,9,high,9,high,Trek,Trek
+1058,2743.9840,1,mid,9,high,Electra,Trek
+987,2738.2497,1,mid,1,mid,Electra,Electra
+987,2738.2497,1,mid,1,mid,Electra,Electra
+987,2738.2497,9,high,1,mid,Trek,Electra
+987,2738.2497,9,high,1,mid,Trek,Electra
+1275,2726.4905,3,high,3,high,Heller,Heller
+1275,2726.4905,8,high,3,high,Surly,Heller
+790,2719.4764,1,mid,1,mid,Electra,Electra
+790,2719.4764,7,mid,1,mid,"Sun Bicycles",Electra
+790,2719.4764,1,mid,1,mid,Electra,Electra
+790,2719.4764,9,high,1,mid,Trek,Electra
+103,2718.3920,1,mid,8,high,Electra,Surly
+103,2718.3920,8,high,8,high,Surly,Surly
+1271,2717.9640,8,high,1,mid,Surly,Electra
+1271,2717.9640,1,mid,1,mid,Electra,Electra
+1271,2717.9640,7,mid,1,mid,"Sun Bicycles",Electra
+828,2716.7650,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+828,2716.7650,8,high,7,mid,Surly,"Sun Bicycles"
+828,2716.7650,1,mid,7,mid,Electra,"Sun Bicycles"
+828,2716.7650,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1229,2707.8278,1,mid,7,mid,Electra,"Sun Bicycles"
+1229,2707.8278,8,high,7,mid,Surly,"Sun Bicycles"
+1229,2707.8278,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1229,2707.8278,2,mid,7,mid,Haro,"Sun Bicycles"
+1229,2707.8278,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1210,2705.0070,1,mid,1,mid,Electra,Electra
+1210,2705.0070,7,mid,1,mid,"Sun Bicycles",Electra
+1210,2705.0070,3,high,1,mid,Heller,Electra
+1210,2705.0070,1,mid,1,mid,Electra,Electra
+650,2701.1742,1,mid,7,mid,Electra,"Sun Bicycles"
+650,2701.1742,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+650,2701.1742,2,mid,7,mid,Haro,"Sun Bicycles"
+650,2701.1742,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+323,2699.9910,1,mid,1,mid,Electra,Electra
+1272,2699.9910,9,high,9,high,Trek,Trek
+1432,2696.9907,9,high,9,high,Trek,Trek
+299,2687.1434,1,mid,1,mid,Electra,Electra
+299,2687.1434,1,mid,1,mid,Electra,Electra
+299,2687.1434,1,mid,1,mid,Electra,Electra
+266,2681.9570,1,mid,1,mid,Electra,Electra
+266,2681.9570,1,mid,1,mid,Electra,Electra
+266,2681.9570,1,mid,1,mid,Electra,Electra
+953,2681.1565,1,mid,1,mid,Electra,Electra
+953,2681.1565,1,mid,1,mid,Electra,Electra
+953,2681.1565,8,high,1,mid,Surly,Electra
+953,2681.1565,7,mid,1,mid,"Sun Bicycles",Electra
+953,2681.1565,7,mid,1,mid,"Sun Bicycles",Electra
+1335,2672.6926,8,high,3,high,Surly,Heller
+1335,2672.6926,3,high,3,high,Heller,Heller
+1335,2672.6926,1,mid,3,high,Electra,Heller
+1183,2664.9644,9,high,9,high,Trek,Trek
+1183,2664.9644,9,high,9,high,Trek,Trek
+1183,2664.9644,7,mid,9,high,"Sun Bicycles",Trek
+1183,2664.9644,1,mid,9,high,Electra,Trek
+243,2658.7627,7,mid,9,high,"Sun Bicycles",Trek
+243,2658.7627,9,high,9,high,Trek,Trek
+243,2658.7627,9,high,9,high,Trek,Trek
+256,2658.1454,1,mid,1,mid,Electra,Electra
+256,2658.1454,2,mid,1,mid,Haro,Electra
+256,2658.1454,9,high,1,mid,Trek,Electra
+256,2658.1454,1,mid,1,mid,Electra,Electra
+1075,2653.0730,1,mid,8,high,Electra,Surly
+1075,2653.0730,4,low,8,high,"Pure Cycles",Surly
+1075,2653.0730,8,high,8,high,Surly,Surly
+1128,2643.2447,1,mid,1,mid,Electra,Electra
+1128,2643.2447,1,mid,1,mid,Electra,Electra
+1128,2643.2447,2,mid,1,mid,Haro,Electra
+1128,2643.2447,9,high,1,mid,Trek,Electra
+636,2635.1220,8,high,8,high,Surly,Surly
+636,2635.1220,4,low,8,high,"Pure Cycles",Surly
+1394,2615.9760,7,mid,2,mid,"Sun Bicycles",Haro
+1394,2615.9760,2,mid,2,mid,Haro,Haro
+735,2605.2824,2,mid,2,mid,Haro,Haro
+735,2605.2824,1,mid,2,mid,Electra,Haro
+735,2605.2824,7,mid,2,mid,"Sun Bicycles",Haro
+632,2599.1680,1,mid,1,mid,Electra,Electra
+632,2599.1680,8,high,1,mid,Surly,Electra
+632,2599.1680,1,mid,1,mid,Electra,Electra
+191,2593.1289,9,high,1,mid,Trek,Electra
+191,2593.1289,9,high,1,mid,Trek,Electra
+1388,2559.9920,9,high,9,high,Trek,Trek
+201,2548.9732,1,mid,1,mid,Electra,Electra
+201,2548.9732,1,mid,1,mid,Electra,Electra
+201,2548.9732,1,mid,1,mid,Electra,Electra
+201,2548.9732,4,low,1,mid,"Pure Cycles",Electra
+201,2548.9732,4,low,1,mid,"Pure Cycles",Electra
+98,2546.4665,1,mid,1,mid,Electra,Electra
+98,2546.4665,1,mid,1,mid,Electra,Electra
+98,2546.4665,8,high,1,mid,Surly,Electra
+1384,2518.1494,1,mid,8,high,Electra,Surly
+1384,2518.1494,8,high,8,high,Surly,Surly
+1384,2518.1494,7,mid,8,high,"Sun Bicycles",Surly
+757,2511.4647,8,high,8,high,Surly,Surly
+757,2511.4647,1,mid,8,high,Electra,Surly
+757,2511.4647,8,high,8,high,Surly,Surly
+1123,2509.9460,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1123,2509.9460,1,mid,7,mid,Electra,"Sun Bicycles"
+1123,2509.9460,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+562,2509.8810,3,high,3,high,Heller,Heller
+542,2501.7640,1,mid,1,mid,Electra,Electra
+542,2501.7640,1,mid,1,mid,Electra,Electra
+542,2501.7640,3,high,1,mid,Heller,Electra
+207,2500.4381,2,mid,8,high,Haro,Surly
+207,2500.4381,1,mid,8,high,Electra,Surly
+207,2500.4381,8,high,8,high,Surly,Surly
+207,2500.4381,7,mid,8,high,"Sun Bicycles",Surly
+872,2497.9559,8,high,1,mid,Surly,Electra
+872,2497.9559,1,mid,1,mid,Electra,Electra
+872,2497.9559,1,mid,1,mid,Electra,Electra
+262,2484.4274,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+262,2484.4274,2,mid,7,mid,Haro,"Sun Bicycles"
+262,2484.4274,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+262,2484.4274,8,high,7,mid,Surly,"Sun Bicycles"
+180,2478.4000,8,high,8,high,Surly,Surly
+1266,2474.9727,1,mid,1,mid,Electra,Electra
+1266,2474.9727,9,high,1,mid,Trek,Electra
+1264,2469.9585,1,mid,1,mid,Electra,Electra
+1264,2469.9585,1,mid,1,mid,Electra,Electra
+1264,2469.9585,1,mid,1,mid,Electra,Electra
+1264,2469.9585,8,high,1,mid,Surly,Electra
+1351,2465.4572,1,mid,1,mid,Electra,Electra
+1351,2465.4572,1,mid,1,mid,Electra,Electra
+1351,2465.4572,1,mid,1,mid,Electra,Electra
+1351,2465.4572,1,mid,1,mid,Electra,Electra
+706,2452.9480,8,high,9,high,Surly,Trek
+706,2452.9480,9,high,9,high,Trek,Trek
+706,2452.9480,9,high,9,high,Trek,Trek
+706,2452.9480,1,mid,9,high,Electra,Trek
+552,2449.7546,9,high,1,mid,Trek,Electra
+552,2449.7546,1,mid,1,mid,Electra,Electra
+552,2449.7546,1,mid,1,mid,Electra,Electra
+552,2449.7546,1,mid,1,mid,Electra,Electra
+495,2446.9410,9,high,1,mid,Trek,Electra
+495,2446.9410,1,mid,1,mid,Electra,Electra
+495,2446.9410,1,mid,1,mid,Electra,Electra
+495,2446.9410,7,mid,1,mid,"Sun Bicycles",Electra
+988,2432.9444,1,mid,1,mid,Electra,Electra
+988,2432.9444,1,mid,1,mid,Electra,Electra
+988,2432.9444,1,mid,1,mid,Electra,Electra
+795,2431.1650,8,high,1,mid,Surly,Electra
+795,2431.1650,1,mid,1,mid,Electra,Electra
+795,2431.1650,1,mid,1,mid,Electra,Electra
+795,2431.1650,1,mid,1,mid,Electra,Electra
+385,2427.9567,1,mid,1,mid,Electra,Electra
+385,2427.9567,1,mid,1,mid,Electra,Electra
+385,2427.9567,1,mid,1,mid,Electra,Electra
+385,2427.9567,1,mid,1,mid,Electra,Electra
+639,2420.5530,1,mid,1,mid,Electra,Electra
+639,2420.5530,1,mid,1,mid,Electra,Electra
+639,2420.5530,8,high,1,mid,Surly,Electra
+818,2419.7634,1,mid,1,mid,Electra,Electra
+818,2419.7634,1,mid,1,mid,Electra,Electra
+1381,2414.9630,1,mid,5,mid,Electra,Ritchey
+1381,2414.9630,5,mid,5,mid,Ritchey,Ritchey
+936,2411.4715,2,mid,8,high,Haro,Surly
+936,2411.4715,8,high,8,high,Surly,Surly
+936,2411.4715,7,mid,8,high,"Sun Bicycles",Surly
+1282,2402.4760,1,mid,4,low,Electra,"Pure Cycles"
+1282,2402.4760,5,mid,4,low,Ritchey,"Pure Cycles"
+1282,2402.4760,1,mid,4,low,Electra,"Pure Cycles"
+1282,2402.4760,4,low,4,low,"Pure Cycles","Pure Cycles"
+1282,2402.4760,4,low,4,low,"Pure Cycles","Pure Cycles"
+393,2379.9730,1,mid,8,high,Electra,Surly
+393,2379.9730,8,high,8,high,Surly,Surly
+777,2379.4635,8,high,2,mid,Surly,Haro
+777,2379.4635,2,mid,2,mid,Haro,Haro
+777,2379.4635,2,mid,2,mid,Haro,Haro
+117,2371.4545,1,mid,1,mid,Electra,Electra
+117,2371.4545,1,mid,1,mid,Electra,Electra
+117,2371.4545,1,mid,1,mid,Electra,Electra
+250,2371.1624,8,high,2,mid,Surly,Haro
+250,2371.1624,2,mid,2,mid,Haro,Haro
+1104,2362.1628,1,mid,1,mid,Electra,Electra
+1104,2362.1628,9,high,1,mid,Trek,Electra
+1121,2360.3907,4,low,9,high,"Pure Cycles",Trek
+1121,2360.3907,9,high,9,high,Trek,Trek
+467,2357.9642,2,mid,8,high,Haro,Surly
+467,2357.9642,8,high,8,high,Surly,Surly
+467,2357.9642,7,mid,8,high,"Sun Bicycles",Surly
+467,2357.9642,1,mid,8,high,Electra,Surly
+510,2346.6624,8,high,8,high,Surly,Surly
+510,2346.6624,8,high,8,high,Surly,Surly
+510,2346.6624,1,mid,8,high,Electra,Surly
+319,2337.4625,1,mid,1,mid,Electra,Electra
+319,2337.4625,1,mid,1,mid,Electra,Electra
+319,2337.4625,5,mid,1,mid,Ritchey,Electra
+131,2335.5207,4,low,8,high,"Pure Cycles",Surly
+131,2335.5207,8,high,8,high,Surly,Surly
+1323,2333.3560,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1323,2333.3560,1,mid,7,mid,Electra,"Sun Bicycles"
+1323,2333.3560,9,high,7,mid,Trek,"Sun Bicycles"
+1323,2333.3560,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1039,2329.5760,3,high,3,high,Heller,Heller
+1039,2329.5760,1,mid,3,high,Electra,Heller
+287,2320.5564,1,mid,1,mid,Electra,Electra
+287,2320.5564,1,mid,1,mid,Electra,Electra
+287,2320.5564,9,high,1,mid,Trek,Electra
+287,2320.5564,7,mid,1,mid,"Sun Bicycles",Electra
+1380,2319.9920,9,high,9,high,Trek,Trek
+139,2319.9760,9,high,9,high,Trek,Trek
+139,2319.9760,1,mid,9,high,Electra,Trek
+1308,2319.9680,8,high,8,high,Surly,Surly
+1308,2319.9680,7,mid,8,high,"Sun Bicycles",Surly
+1399,2319.7539,1,mid,8,high,Electra,Surly
+1399,2319.7539,8,high,8,high,Surly,Surly
+1399,2319.7539,7,mid,8,high,"Sun Bicycles",Surly
+233,2317.0840,8,high,2,mid,Surly,Haro
+502,2312.4447,7,mid,1,mid,"Sun Bicycles",Electra
+502,2312.4447,1,mid,1,mid,Electra,Electra
+502,2312.4447,1,mid,1,mid,Electra,Electra
+502,2312.4447,9,high,1,mid,Trek,Electra
+967,2309.3035,1,mid,8,high,Electra,Surly
+967,2309.3035,8,high,8,high,Surly,Surly
+967,2309.3035,2,mid,8,high,Haro,Surly
+408,2297.7575,8,high,8,high,Surly,Surly
+408,2297.7575,8,high,8,high,Surly,Surly
+408,2297.7575,2,mid,8,high,Haro,Surly
+408,2297.7575,2,mid,8,high,Haro,Surly
+1181,2283.8072,1,mid,1,mid,Electra,Electra
+1181,2283.8072,1,mid,1,mid,Electra,Electra
+1181,2283.8072,8,high,1,mid,Surly,Electra
+1181,2283.8072,7,mid,1,mid,"Sun Bicycles",Electra
+402,2282.9650,2,mid,2,mid,Haro,Haro
+402,2282.9650,2,mid,2,mid,Haro,Haro
+402,2282.9650,1,mid,2,mid,Electra,Haro
+44,2270.5392,1,mid,1,mid,Electra,Electra
+44,2270.5392,6,low,1,mid,Strider,Electra
+1251,2259.3407,7,mid,1,mid,"Sun Bicycles",Electra
+1251,2259.3407,1,mid,1,mid,Electra,Electra
+1251,2259.3407,9,high,1,mid,Trek,Electra
+1251,2259.3407,1,mid,1,mid,Electra,Electra
+315,2258.1215,1,mid,4,low,Electra,"Pure Cycles"
+315,2258.1215,4,low,4,low,"Pure Cycles","Pure Cycles"
+315,2258.1215,2,mid,4,low,Haro,"Pure Cycles"
+315,2258.1215,4,low,4,low,"Pure Cycles","Pure Cycles"
+817,2252.9150,4,low,1,mid,"Pure Cycles",Electra
+817,2252.9150,1,mid,1,mid,Electra,Electra
+817,2252.9150,1,mid,1,mid,Electra,Electra
+939,2230.5485,1,mid,7,mid,Electra,"Sun Bicycles"
+939,2230.5485,8,high,7,mid,Surly,"Sun Bicycles"
+939,2230.5485,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+939,2230.5485,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1278,2228.2451,2,mid,1,mid,Haro,Electra
+1278,2228.2451,2,mid,1,mid,Haro,Electra
+1278,2228.2451,1,mid,1,mid,Electra,Electra
+1278,2228.2451,1,mid,1,mid,Electra,Electra
+575,2222.8722,1,mid,1,mid,Electra,Electra
+575,2222.8722,1,mid,1,mid,Electra,Electra
+575,2222.8722,3,high,1,mid,Heller,Electra
+1027,2217.6427,8,high,8,high,Surly,Surly
+1027,2217.6427,7,mid,8,high,"Sun Bicycles",Surly
+1027,2217.6427,2,mid,8,high,Haro,Surly
+759,2214.0537,1,mid,1,mid,Electra,Electra
+759,2214.0537,5,mid,1,mid,Ritchey,Electra
+759,2214.0537,1,mid,1,mid,Electra,Electra
+759,2214.0537,1,mid,1,mid,Electra,Electra
+770,2208.9745,1,mid,9,high,Electra,Trek
+770,2208.9745,9,high,9,high,Trek,Trek
+1046,2205.7557,4,low,7,mid,"Pure Cycles","Sun Bicycles"
+1046,2205.7557,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1046,2205.7557,1,mid,7,mid,Electra,"Sun Bicycles"
+1046,2205.7557,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+8,2201.6567,1,mid,1,mid,Electra,Electra
+1401,2200.9444,9,high,2,mid,Trek,Haro
+1401,2200.9444,1,mid,2,mid,Electra,Haro
+1401,2200.9444,2,mid,2,mid,Haro,Haro
+436,2200.8641,7,mid,1,mid,"Sun Bicycles",Electra
+436,2200.8641,2,mid,1,mid,Haro,Electra
+436,2200.8641,1,mid,1,mid,Electra,Electra
+546,2197.9500,1,mid,1,mid,Electra,Electra
+546,2197.9500,8,high,1,mid,Surly,Electra
+546,2197.9500,1,mid,1,mid,Electra,Electra
+553,2197.8920,4,low,8,high,"Pure Cycles",Surly
+553,2197.8920,8,high,8,high,Surly,Surly
+789,2195.5747,4,low,7,mid,"Pure Cycles","Sun Bicycles"
+789,2195.5747,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+789,2195.5747,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1331,2195.0517,1,mid,1,mid,Electra,Electra
+1331,2195.0517,1,mid,1,mid,Electra,Electra
+1331,2195.0517,8,high,1,mid,Surly,Electra
+1087,2190.5660,1,mid,9,high,Electra,Trek
+1087,2190.5660,9,high,9,high,Trek,Trek
+1087,2190.5660,7,mid,9,high,"Sun Bicycles",Trek
+324,2165.0817,1,mid,8,high,Electra,Surly
+324,2165.0817,8,high,8,high,Surly,Surly
+324,2165.0817,4,low,8,high,"Pure Cycles",Surly
+241,2157.9160,4,low,1,mid,"Pure Cycles",Electra
+241,2157.9160,1,mid,1,mid,Electra,Electra
+241,2157.9160,1,mid,1,mid,Electra,Electra
+1045,2155.1720,1,mid,1,mid,Electra,Electra
+1045,2155.1720,1,mid,1,mid,Electra,Electra
+1045,2155.1720,4,low,1,mid,"Pure Cycles",Electra
+376,2136.5310,9,high,8,high,Trek,Surly
+376,2136.5310,8,high,8,high,Surly,Surly
+938,2135.0624,1,mid,1,mid,Electra,Electra
+938,2135.0624,1,mid,1,mid,Electra,Electra
+938,2135.0624,1,mid,1,mid,Electra,Electra
+1217,2133.9264,1,mid,1,mid,Electra,Electra
+1217,2133.9264,8,high,1,mid,Surly,Electra
+1217,2133.9264,4,low,1,mid,"Pure Cycles",Electra
+1217,2133.9264,1,mid,1,mid,Electra,Electra
+1217,2133.9264,4,low,1,mid,"Pure Cycles",Electra
+1179,2123.5632,5,mid,1,mid,Ritchey,Electra
+1179,2123.5632,1,mid,1,mid,Electra,Electra
+1179,2123.5632,1,mid,1,mid,Electra,Electra
+1231,2119.2590,1,mid,1,mid,Electra,Electra
+1231,2119.2590,7,mid,1,mid,"Sun Bicycles",Electra
+1231,2119.2590,1,mid,1,mid,Electra,Electra
+1231,2119.2590,9,high,1,mid,Trek,Electra
+466,2113.5840,3,high,3,high,Heller,Heller
+668,2100.9225,3,high,3,high,Heller,Heller
+668,2100.9225,8,high,3,high,Surly,Heller
+909,2099.9637,1,mid,1,mid,Electra,Electra
+909,2099.9637,1,mid,1,mid,Electra,Electra
+909,2099.9637,1,mid,1,mid,Electra,Electra
+1409,2093.4135,7,mid,1,mid,"Sun Bicycles",Electra
+1409,2093.4135,1,mid,1,mid,Electra,Electra
+1409,2093.4135,1,mid,1,mid,Electra,Electra
+1409,2093.4135,4,low,1,mid,"Pure Cycles",Electra
+584,2090.6642,1,mid,1,mid,Electra,Electra
+584,2090.6642,1,mid,1,mid,Electra,Electra
+584,2090.6642,1,mid,1,mid,Electra,Electra
+584,2090.6642,1,mid,1,mid,Electra,Electra
+584,2090.6642,4,low,1,mid,"Pure Cycles",Electra
+1250,2083.1605,1,mid,8,high,Electra,Surly
+1250,2083.1605,4,low,8,high,"Pure Cycles",Surly
+1250,2083.1605,8,high,8,high,Surly,Surly
+190,2082.1435,7,mid,2,mid,"Sun Bicycles",Haro
+190,2082.1435,2,mid,2,mid,Haro,Haro
+190,2082.1435,1,mid,2,mid,Electra,Haro
+190,2082.1435,2,mid,2,mid,Haro,Haro
+1234,2069.4549,8,high,1,mid,Surly,Electra
+1234,2069.4549,1,mid,1,mid,Electra,Electra
+1234,2069.4549,1,mid,1,mid,Electra,Electra
+1234,2069.4549,1,mid,1,mid,Electra,Electra
+189,2069.3725,8,high,1,mid,Surly,Electra
+189,2069.3725,1,mid,1,mid,Electra,Electra
+620,2065.9827,9,high,9,high,Trek,Trek
+620,2065.9827,1,mid,9,high,Electra,Trek
+1182,2052.3520,4,low,4,low,"Pure Cycles","Pure Cycles"
+1182,2052.3520,4,low,4,low,"Pure Cycles","Pure Cycles"
+1182,2052.3520,4,low,4,low,"Pure Cycles","Pure Cycles"
+1182,2052.3520,1,mid,4,low,Electra,"Pure Cycles"
+1429,2042.0634,4,low,1,mid,"Pure Cycles",Electra
+1429,2042.0634,1,mid,1,mid,Electra,Electra
+1429,2042.0634,1,mid,1,mid,Electra,Electra
+1367,2032.4445,2,mid,2,mid,Haro,Haro
+1367,2032.4445,8,high,2,mid,Surly,Haro
+1367,2032.4445,2,mid,2,mid,Haro,Haro
+1367,2032.4445,1,mid,2,mid,Electra,Haro
+1193,2024.0637,8,high,5,mid,Surly,Ritchey
+1193,2024.0637,5,mid,5,mid,Ritchey,Ritchey
+1193,2024.0637,1,mid,5,mid,Electra,Ritchey
+1187,2013.9650,9,high,9,high,Trek,Trek
+1187,2013.9650,1,mid,9,high,Electra,Trek
+845,2011.4626,1,mid,1,mid,Electra,Electra
+845,2011.4626,1,mid,1,mid,Electra,Electra
+845,2011.4626,7,mid,1,mid,"Sun Bicycles",Electra
+855,2008.7628,1,mid,1,mid,Electra,Electra
+855,2008.7628,1,mid,1,mid,Electra,Electra
+237,2007.5812,9,high,9,high,Trek,Trek
+1385,2006.0629,2,mid,1,mid,Haro,Electra
+1385,2006.0629,1,mid,1,mid,Electra,Electra
+1385,2006.0629,4,low,1,mid,"Pure Cycles",Electra
+1385,2006.0629,8,high,1,mid,Surly,Electra
+431,1999.3494,2,mid,1,mid,Haro,Electra
+431,1999.3494,1,mid,1,mid,Electra,Electra
+431,1999.3494,1,mid,1,mid,Electra,Electra
+359,1990.1628,1,mid,8,high,Electra,Surly
+359,1990.1628,8,high,8,high,Surly,Surly
+1226,1988.0501,1,mid,1,mid,Electra,Electra
+1226,1988.0501,7,mid,1,mid,"Sun Bicycles",Electra
+1226,1988.0501,9,high,1,mid,Trek,Electra
+1226,1988.0501,1,mid,1,mid,Electra,Electra
+1226,1988.0501,9,high,1,mid,Trek,Electra
+680,1987.9660,9,high,1,mid,Trek,Electra
+680,1987.9660,1,mid,1,mid,Electra,Electra
+797,1984.0730,1,mid,1,mid,Electra,Electra
+797,1984.0730,1,mid,1,mid,Electra,Electra
+797,1984.0730,4,low,1,mid,"Pure Cycles",Electra
+932,1973.7314,1,mid,8,high,Electra,Surly
+932,1973.7314,8,high,8,high,Surly,Surly
+854,1972.9624,1,mid,1,mid,Electra,Electra
+854,1972.9624,1,mid,1,mid,Electra,Electra
+357,1970.5907,4,low,4,low,"Pure Cycles","Pure Cycles"
+357,1970.5907,4,low,4,low,"Pure Cycles","Pure Cycles"
+357,1970.5907,8,high,4,low,Surly,"Pure Cycles"
+944,1964.0810,8,high,8,high,Surly,Surly
+944,1964.0810,1,mid,8,high,Electra,Surly
+1355,1961.0812,9,high,9,high,Trek,Trek
+1355,1961.0812,1,mid,9,high,Electra,Trek
+1114,1951.3474,1,mid,1,mid,Electra,Electra
+1114,1951.3474,9,high,1,mid,Trek,Electra
+1114,1951.3474,2,mid,1,mid,Haro,Electra
+1000,1950.5750,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1000,1950.5750,8,high,7,mid,Surly,"Sun Bicycles"
+1000,1950.5750,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+548,1949.6365,1,mid,7,mid,Electra,"Sun Bicycles"
+548,1949.6365,4,low,7,mid,"Pure Cycles","Sun Bicycles"
+548,1949.6365,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+548,1949.6365,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+825,1934.9634,5,mid,5,mid,Ritchey,Ritchey
+825,1934.9634,1,mid,5,mid,Electra,Ritchey
+331,1929.5140,4,low,1,mid,"Pure Cycles",Electra
+331,1929.5140,1,mid,1,mid,Electra,Electra
+331,1929.5140,1,mid,1,mid,Electra,Electra
+331,1929.5140,1,mid,1,mid,Electra,Electra
+331,1929.5140,1,mid,1,mid,Electra,Electra
+796,1926.5810,1,mid,1,mid,Electra,Electra
+796,1926.5810,4,low,1,mid,"Pure Cycles",Electra
+796,1926.5810,1,mid,1,mid,Electra,Electra
+1173,1904.4585,1,mid,1,mid,Electra,Electra
+1173,1904.4585,1,mid,1,mid,Electra,Electra
+1173,1904.4585,1,mid,1,mid,Electra,Electra
+556,1902.5629,9,high,1,mid,Trek,Electra
+556,1902.5629,7,mid,1,mid,"Sun Bicycles",Electra
+556,1902.5629,1,mid,1,mid,Electra,Electra
+708,1899.9810,8,high,8,high,Surly,Surly
+449,1894.5410,8,high,8,high,Surly,Surly
+449,1894.5410,8,high,8,high,Surly,Surly
+1232,1891.1125,1,mid,1,mid,Electra,Electra
+1232,1891.1125,1,mid,1,mid,Electra,Electra
+1232,1891.1125,4,low,1,mid,"Pure Cycles",Electra
+940,1885.8839,7,mid,5,mid,"Sun Bicycles",Ritchey
+940,1885.8839,1,mid,5,mid,Electra,Ritchey
+940,1885.8839,5,mid,5,mid,Ritchey,Ritchey
+1107,1868.9634,9,high,9,high,Trek,Trek
+1107,1868.9634,2,mid,9,high,Haro,Trek
+811,1863.9660,1,mid,1,mid,Electra,Electra
+811,1863.9660,1,mid,1,mid,Electra,Electra
+1363,1860.5825,9,high,1,mid,Trek,Electra
+1363,1860.5825,4,low,1,mid,"Pure Cycles",Electra
+1363,1860.5825,1,mid,1,mid,Electra,Electra
+962,1856.6117,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+962,1856.6117,1,mid,7,mid,Electra,"Sun Bicycles"
+1407,1856.0750,3,high,3,high,Heller,Heller
+1407,1856.0750,7,mid,3,high,"Sun Bicycles",Heller
+71,1855.3325,9,high,8,high,Trek,Surly
+935,1850.0567,1,mid,1,mid,Electra,Electra
+935,1850.0567,7,mid,1,mid,"Sun Bicycles",Electra
+935,1850.0567,9,high,1,mid,Trek,Electra
+430,1847.0647,1,mid,1,mid,Electra,Electra
+430,1847.0647,7,mid,1,mid,"Sun Bicycles",Electra
+430,1847.0647,1,mid,1,mid,Electra,Electra
+1117,1845.8820,9,high,9,high,Trek,Trek
+1117,1845.8820,7,mid,9,high,"Sun Bicycles",Trek
+913,1841.6217,1,mid,1,mid,Electra,Electra
+913,1841.6217,4,low,1,mid,"Pure Cycles",Electra
+913,1841.6217,1,mid,1,mid,Electra,Electra
+261,1837.4717,5,mid,5,mid,Ritchey,Ritchey
+261,1837.4717,1,mid,5,mid,Electra,Ritchey
+638,1832.0628,1,mid,1,mid,Electra,Electra
+638,1832.0628,1,mid,1,mid,Electra,Electra
+638,1832.0628,1,mid,1,mid,Electra,Electra
+1299,1831.1814,4,low,4,low,"Pure Cycles","Pure Cycles"
+1299,1831.1814,1,mid,4,low,Electra,"Pure Cycles"
+1410,1829.6655,9,high,7,mid,Trek,"Sun Bicycles"
+1410,1829.6655,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1410,1829.6655,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1410,1829.6655,1,mid,7,mid,Electra,"Sun Bicycles"
+1343,1818.4545,2,mid,2,mid,Haro,Haro
+1343,1818.4545,1,mid,2,mid,Electra,Haro
+1343,1818.4545,2,mid,2,mid,Haro,Haro
+1343,1818.4545,9,high,2,mid,Trek,Haro
+1386,1806.4125,4,low,1,mid,"Pure Cycles",Electra
+1386,1806.4125,1,mid,1,mid,Electra,Electra
+1386,1806.4125,1,mid,1,mid,Electra,Electra
+1038,1805.9660,8,high,1,mid,Surly,Electra
+1038,1805.9660,1,mid,1,mid,Electra,Electra
+858,1804.8565,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+858,1804.8565,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+858,1804.8565,8,high,7,mid,Surly,"Sun Bicycles"
+858,1804.8565,1,mid,7,mid,Electra,"Sun Bicycles"
+858,1804.8565,2,mid,7,mid,Haro,"Sun Bicycles"
+343,1800.4815,9,high,9,high,Trek,Trek
+343,1800.4815,9,high,9,high,Trek,Trek
+1016,1797.9750,1,mid,9,high,Electra,Trek
+1016,1797.9750,9,high,9,high,Trek,Trek
+914,1793.7574,1,mid,1,mid,Electra,Electra
+914,1793.7574,1,mid,1,mid,Electra,Electra
+914,1793.7574,9,high,1,mid,Trek,Electra
+1047,1786.4650,1,mid,1,mid,Electra,Electra
+1047,1786.4650,1,mid,1,mid,Electra,Electra
+1047,1786.4650,1,mid,1,mid,Electra,Electra
+710,1765.1307,4,low,8,high,"Pure Cycles",Surly
+710,1765.1307,8,high,8,high,Surly,Surly
+535,1759.9760,1,mid,8,high,Electra,Surly
+535,1759.9760,8,high,8,high,Surly,Surly
+365,1758.5140,8,high,8,high,Surly,Surly
+365,1758.5140,4,low,8,high,"Pure Cycles",Surly
+365,1758.5140,1,mid,8,high,Electra,Surly
+232,1755.3725,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+232,1755.3725,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+629,1754.1460,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+629,1754.1460,1,mid,7,mid,Electra,"Sun Bicycles"
+629,1754.1460,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+629,1754.1460,9,high,7,mid,Trek,"Sun Bicycles"
+814,1754.0464,1,mid,1,mid,Electra,Electra
+814,1754.0464,1,mid,1,mid,Electra,Electra
+814,1754.0464,1,mid,1,mid,Electra,Electra
+814,1754.0464,1,mid,1,mid,Electra,Electra
+1180,1753.7717,1,mid,1,mid,Electra,Electra
+1180,1753.7717,1,mid,1,mid,Electra,Electra
+1198,1745.9640,8,high,8,high,Surly,Surly
+1198,1745.9640,1,mid,8,high,Electra,Surly
+1371,1734.9325,3,high,3,high,Heller,Heller
+1371,1734.9325,1,mid,3,high,Electra,Heller
+188,1729.7750,1,mid,3,high,Electra,Heller
+188,1729.7750,9,high,3,high,Trek,Heller
+254,1716.5530,1,mid,1,mid,Electra,Electra
+254,1716.5530,7,mid,1,mid,"Sun Bicycles",Electra
+254,1716.5530,2,mid,1,mid,Haro,Electra
+416,1709.3652,1,mid,1,mid,Electra,Electra
+416,1709.3652,1,mid,1,mid,Electra,Electra
+416,1709.3652,1,mid,1,mid,Electra,Electra
+933,1708.3719,8,high,8,high,Surly,Surly
+933,1708.3719,4,low,8,high,"Pure Cycles",Surly
+933,1708.3719,1,mid,8,high,Electra,Surly
+1431,1705.9632,1,mid,1,mid,Electra,Electra
+1431,1705.9632,5,mid,1,mid,Ritchey,Electra
+1431,1705.9632,1,mid,1,mid,Electra,Electra
+563,1703.6815,1,mid,5,mid,Electra,Ritchey
+563,1703.6815,5,mid,5,mid,Ritchey,Ritchey
+563,1703.6815,4,low,5,mid,"Pure Cycles",Ritchey
+1212,1697.9717,1,mid,1,mid,Electra,Electra
+1212,1697.9717,1,mid,1,mid,Electra,Electra
+834,1694.0557,1,mid,1,mid,Electra,Electra
+834,1694.0557,1,mid,1,mid,Electra,Electra
+834,1694.0557,1,mid,1,mid,Electra,Electra
+834,1694.0557,1,mid,1,mid,Electra,Electra
+745,1692.5721,1,mid,1,mid,Electra,Electra
+745,1692.5721,7,mid,1,mid,"Sun Bicycles",Electra
+1194,1692.5370,4,low,1,mid,"Pure Cycles",Electra
+1194,1692.5370,1,mid,1,mid,Electra,Electra
+1194,1692.5370,5,mid,1,mid,Ritchey,Electra
+1194,1692.5370,1,mid,1,mid,Electra,Electra
+456,1690.6635,7,mid,1,mid,"Sun Bicycles",Electra
+456,1690.6635,1,mid,1,mid,Electra,Electra
+456,1690.6635,1,mid,1,mid,Electra,Electra
+392,1681.9740,1,mid,1,mid,Electra,Electra
+392,1681.9740,9,high,1,mid,Trek,Electra
+1393,1681.4810,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1393,1681.4810,9,high,7,mid,Trek,"Sun Bicycles"
+678,1673.9907,9,high,9,high,Trek,Trek
+816,1669.9825,1,mid,9,high,Electra,Trek
+816,1669.9825,9,high,9,high,Trek,Trek
+318,1662.0539,9,high,9,high,Trek,Trek
+318,1662.0539,2,mid,9,high,Haro,Trek
+318,1662.0539,7,mid,9,high,"Sun Bicycles",Trek
+590,1655.0719,1,mid,1,mid,Electra,Electra
+590,1655.0719,7,mid,1,mid,"Sun Bicycles",Electra
+731,1652.9810,2,mid,2,mid,Haro,Haro
+1405,1649.9725,1,mid,1,mid,Electra,Electra
+1405,1649.9725,1,mid,1,mid,Electra,Electra
+591,1646.3814,8,high,8,high,Surly,Surly
+591,1646.3814,4,low,8,high,"Pure Cycles",Surly
+740,1644.5165,1,mid,1,mid,Electra,Electra
+740,1644.5165,1,mid,1,mid,Electra,Electra
+740,1644.5165,1,mid,1,mid,Electra,Electra
+740,1644.5165,4,low,1,mid,"Pure Cycles",Electra
+485,1635.5468,9,high,1,mid,Trek,Electra
+485,1635.5468,7,mid,1,mid,"Sun Bicycles",Electra
+485,1635.5468,1,mid,1,mid,Electra,Electra
+1338,1626.7825,1,mid,3,high,Electra,Heller
+1338,1626.7825,3,high,3,high,Heller,Heller
+267,1625.9630,1,mid,1,mid,Electra,Electra
+267,1625.9630,1,mid,1,mid,Electra,Electra
+371,1619.9910,9,high,9,high,Trek,Trek
+1076,1619.9910,9,high,9,high,Trek,Trek
+1309,1619.9910,9,high,9,high,Trek,Trek
+419,1613.3947,2,mid,2,mid,Haro,Haro
+419,1613.3947,2,mid,2,mid,Haro,Haro
+419,1613.3947,7,mid,2,mid,"Sun Bicycles",Haro
+911,1611.0747,1,mid,1,mid,Electra,Electra
+911,1611.0747,1,mid,1,mid,Electra,Electra
+911,1611.0747,1,mid,1,mid,Electra,Electra
+433,1601.3717,7,mid,2,mid,"Sun Bicycles",Haro
+433,1601.3717,2,mid,2,mid,Haro,Haro
+291,1600.0930,4,low,4,low,"Pure Cycles","Pure Cycles"
+291,1600.0930,9,high,4,low,Trek,"Pure Cycles"
+291,1600.0930,4,low,4,low,"Pure Cycles","Pure Cycles"
+291,1600.0930,9,high,4,low,Trek,"Pure Cycles"
+445,1599.9840,8,high,8,high,Surly,Surly
+1327,1599.9840,9,high,9,high,Trek,Trek
+1109,1595.6657,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1109,1595.6657,8,high,7,mid,Surly,"Sun Bicycles"
+1109,1595.6657,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1339,1590.8534,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1339,1590.8534,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+698,1585.1560,1,mid,1,mid,Electra,Electra
+698,1585.1560,1,mid,1,mid,Electra,Electra
+698,1585.1560,7,mid,1,mid,"Sun Bicycles",Electra
+1243,1582.1634,1,mid,1,mid,Electra,Electra
+1243,1582.1634,1,mid,1,mid,Electra,Electra
+264,1577.0717,1,mid,8,high,Electra,Surly
+264,1577.0717,8,high,8,high,Surly,Surly
+1106,1576.7820,8,high,8,high,Surly,Surly
+49,1571.1760,7,mid,8,high,"Sun Bicycles",Surly
+1155,1567.4715,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1155,1567.4715,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+219,1567.1730,1,mid,1,mid,Electra,Electra
+219,1567.1730,7,mid,1,mid,"Sun Bicycles",Electra
+707,1559.9725,1,mid,1,mid,Electra,Electra
+707,1559.9725,1,mid,1,mid,Electra,Electra
+570,1556.7828,7,mid,1,mid,"Sun Bicycles",Electra
+570,1556.7828,1,mid,1,mid,Electra,Electra
+621,1553.9650,1,mid,1,mid,Electra,Electra
+621,1553.9650,9,high,1,mid,Trek,Electra
+621,1553.9650,1,mid,1,mid,Electra,Electra
+841,1546.3840,8,high,8,high,Surly,Surly
+841,1546.3840,1,mid,8,high,Electra,Surly
+317,1543.7628,1,mid,1,mid,Electra,Electra
+317,1543.7628,1,mid,1,mid,Electra,Electra
+1256,1538.9640,1,mid,1,mid,Electra,Electra
+1256,1538.9640,9,high,1,mid,Trek,Electra
+1256,1538.9640,6,low,1,mid,Strider,Electra
+369,1536.1215,1,mid,1,mid,Electra,Electra
+369,1536.1215,7,mid,1,mid,"Sun Bicycles",Electra
+1434,1530.9630,1,mid,1,mid,Electra,Electra
+1434,1530.9630,1,mid,1,mid,Electra,Electra
+763,1525.1628,1,mid,1,mid,Electra,Electra
+763,1525.1628,1,mid,1,mid,Electra,Electra
+876,1525.1539,1,mid,1,mid,Electra,Electra
+876,1525.1539,1,mid,1,mid,Electra,Electra
+876,1525.1539,1,mid,1,mid,Electra,Electra
+876,1525.1539,1,mid,1,mid,Electra,Electra
+523,1519.9810,8,high,8,high,Surly,Surly
+523,1519.9810,1,mid,8,high,Electra,Surly
+483,1519.2000,8,high,8,high,Surly,Surly
+927,1516.3400,4,low,4,low,"Pure Cycles","Pure Cycles"
+927,1516.3400,4,low,4,low,"Pure Cycles","Pure Cycles"
+589,1512.8910,8,high,8,high,Surly,Surly
+1305,1509.4727,1,mid,1,mid,Electra,Electra
+1305,1509.4727,4,low,1,mid,"Pure Cycles",Electra
+1305,1509.4727,1,mid,1,mid,Electra,Electra
+635,1502.9630,1,mid,1,mid,Electra,Electra
+635,1502.9630,1,mid,1,mid,Electra,Electra
+942,1499.9719,1,mid,1,mid,Electra,Electra
+942,1499.9719,1,mid,1,mid,Electra,Electra
+516,1499.9660,1,mid,1,mid,Electra,Electra
+516,1499.9660,1,mid,1,mid,Electra,Electra
+1389,1499.3820,8,high,8,high,Surly,Surly
+222,1497.4827,7,mid,9,high,"Sun Bicycles",Trek
+222,1497.4827,9,high,9,high,Trek,Trek
+494,1494.9554,1,mid,1,mid,Electra,Electra
+494,1494.9554,1,mid,1,mid,Electra,Electra
+494,1494.9554,2,mid,1,mid,Haro,Electra
+424,1490.2907,8,high,8,high,Surly,Surly
+424,1490.2907,1,mid,8,high,Electra,Surly
+835,1485.4635,1,mid,1,mid,Electra,Electra
+835,1485.4635,1,mid,1,mid,Electra,Electra
+835,1485.4635,1,mid,1,mid,Electra,Electra
+211,1472.4810,8,high,8,high,Surly,Surly
+211,1472.4810,1,mid,8,high,Electra,Surly
+67,1472.4725,2,mid,8,high,Haro,Surly
+290,1467.9554,1,mid,1,mid,Electra,Electra
+290,1467.9554,1,mid,1,mid,Electra,Electra
+290,1467.9554,9,high,1,mid,Trek,Electra
+930,1464.2552,1,mid,1,mid,Electra,Electra
+930,1464.2552,7,mid,1,mid,"Sun Bicycles",Electra
+930,1464.2552,1,mid,1,mid,Electra,Electra
+930,1464.2552,1,mid,1,mid,Electra,Electra
+438,1455.9740,1,mid,8,high,Electra,Surly
+438,1455.9740,8,high,8,high,Surly,Surly
+487,1450.0230,1,mid,1,mid,Electra,Electra
+487,1450.0230,1,mid,1,mid,Electra,Electra
+487,1450.0230,4,low,1,mid,"Pure Cycles",Electra
+487,1450.0230,1,mid,1,mid,Electra,Electra
+1222,1441.1650,7,mid,1,mid,"Sun Bicycles",Electra
+1222,1441.1650,1,mid,1,mid,Electra,Electra
+1222,1441.1650,2,mid,1,mid,Haro,Electra
+253,1439.9840,1,mid,1,mid,Electra,Electra
+699,1422.9630,9,high,1,mid,Trek,Electra
+699,1422.9630,1,mid,1,mid,Electra,Electra
+596,1422.4825,7,mid,4,low,"Sun Bicycles","Pure Cycles"
+596,1422.4825,4,low,4,low,"Pure Cycles","Pure Cycles"
+596,1422.4825,2,mid,4,low,Haro,"Pure Cycles"
+980,1416.5730,7,mid,9,high,"Sun Bicycles",Trek
+980,1416.5730,9,high,9,high,Trek,Trek
+1420,1407.5520,4,low,1,mid,"Pure Cycles",Electra
+1420,1407.5520,1,mid,1,mid,Electra,Electra
+101,1405.9620,1,mid,8,high,Electra,Surly
+101,1405.9620,8,high,8,high,Surly,Surly
+674,1402.7740,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+674,1402.7740,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1444,1399.9760,1,mid,1,mid,Electra,Electra
+1444,1399.9760,1,mid,1,mid,Electra,Electra
+822,1396.4905,9,high,9,high,Trek,Trek
+158,1395.1624,8,high,8,high,Surly,Surly
+158,1395.1624,1,mid,8,high,Electra,Surly
+968,1394.9907,9,high,9,high,Trek,Trek
+476,1394.9814,9,high,9,high,Trek,Trek
+1383,1392.2730,7,mid,8,high,"Sun Bicycles",Surly
+1383,1392.2730,8,high,8,high,Surly,Surly
+1253,1390.4734,5,mid,1,mid,Ritchey,Electra
+1253,1390.4734,1,mid,1,mid,Electra,Electra
+1253,1390.4734,1,mid,1,mid,Electra,Electra
+720,1389.7720,7,mid,8,high,"Sun Bicycles",Surly
+720,1389.7720,8,high,8,high,Surly,Surly
+465,1382.9720,1,mid,1,mid,Electra,Electra
+465,1382.9720,1,mid,1,mid,Electra,Electra
+397,1378.1820,1,mid,1,mid,Electra,Electra
+397,1378.1820,1,mid,1,mid,Electra,Electra
+397,1378.1820,4,low,1,mid,"Pure Cycles",Electra
+1204,1372.4719,1,mid,1,mid,Electra,Electra
+1204,1372.4719,1,mid,1,mid,Electra,Electra
+1017,1368.0717,9,high,9,high,Trek,Trek
+1017,1368.0717,1,mid,9,high,Electra,Trek
+387,1367.9840,9,high,9,high,Trek,Trek
+387,1367.9840,9,high,9,high,Trek,Trek
+881,1367.0907,2,mid,2,mid,Haro,Haro
+634,1364.9440,1,mid,1,mid,Electra,Electra
+634,1364.9440,1,mid,1,mid,Electra,Electra
+634,1364.9440,4,low,1,mid,"Pure Cycles",Electra
+634,1364.9440,1,mid,1,mid,Electra,Electra
+1356,1359.9760,1,mid,1,mid,Electra,Electra
+1356,1359.9760,1,mid,1,mid,Electra,Electra
+647,1353.7480,7,mid,9,high,"Sun Bicycles",Trek
+647,1353.7480,9,high,9,high,Trek,Trek
+647,1353.7480,9,high,9,high,Trek,Trek
+843,1351.7224,8,high,8,high,Surly,Surly
+843,1351.7224,1,mid,8,high,Electra,Surly
+843,1351.7224,4,low,8,high,"Pure Cycles",Surly
+741,1349.9820,5,mid,5,mid,Ritchey,Ritchey
+874,1344.7920,8,high,8,high,Surly,Surly
+414,1337.0817,8,high,8,high,Surly,Surly
+414,1337.0817,8,high,8,high,Surly,Surly
+399,1331.9734,1,mid,1,mid,Electra,Electra
+399,1331.9734,1,mid,1,mid,Electra,Electra
+921,1328.6529,1,mid,1,mid,Electra,Electra
+921,1328.6529,1,mid,1,mid,Electra,Electra
+921,1328.6529,1,mid,1,mid,Electra,Electra
+868,1311.2907,2,mid,2,mid,Haro,Haro
+750,1307.6225,1,mid,1,mid,Electra,Electra
+750,1307.6225,4,low,1,mid,"Pure Cycles",Electra
+750,1307.6225,1,mid,1,mid,Electra,Electra
+458,1304.9750,2,mid,2,mid,Haro,Haro
+458,1304.9750,1,mid,2,mid,Electra,Haro
+915,1301.4715,7,mid,9,high,"Sun Bicycles",Trek
+915,1301.4715,9,high,9,high,Trek,Trek
+1345,1287.5737,7,mid,5,mid,"Sun Bicycles",Ritchey
+1345,1287.5737,5,mid,5,mid,Ritchey,Ritchey
+1345,1287.5737,1,mid,5,mid,Electra,Ritchey
+1293,1285.9717,7,mid,2,mid,"Sun Bicycles",Haro
+1293,1285.9717,2,mid,2,mid,Haro,Haro
+949,1279.0627,9,high,1,mid,Trek,Electra
+949,1279.0627,1,mid,1,mid,Electra,Electra
+949,1279.0627,8,high,1,mid,Surly,Electra
+511,1277.9660,8,high,1,mid,Surly,Electra
+511,1277.9660,1,mid,1,mid,Electra,Electra
+879,1276.9750,1,mid,1,mid,Electra,Electra
+879,1276.9750,1,mid,1,mid,Electra,Electra
+664,1272.7840,3,high,3,high,Heller,Heller
+664,1272.7840,1,mid,3,high,Electra,Heller
+630,1265.9724,1,mid,1,mid,Electra,Electra
+630,1265.9724,1,mid,1,mid,Electra,Electra
+928,1264.9827,1,mid,8,high,Electra,Surly
+928,1264.9827,8,high,8,high,Surly,Surly
+148,1260.9730,1,mid,1,mid,Electra,Electra
+148,1260.9730,1,mid,1,mid,Electra,Electra
+769,1258.9720,1,mid,8,high,Electra,Surly
+769,1258.9720,8,high,8,high,Surly,Surly
+1053,1257.9720,1,mid,9,high,Electra,Trek
+1053,1257.9720,9,high,9,high,Trek,Trek
+1143,1256.0910,1,mid,4,low,Electra,"Pure Cycles"
+1143,1256.0910,4,low,4,low,"Pure Cycles","Pure Cycles"
+183,1254.9405,3,high,3,high,Heller,Heller
+623,1253.9810,1,mid,1,mid,Electra,Electra
+311,1250.8637,7,mid,1,mid,"Sun Bicycles",Electra
+311,1250.8637,1,mid,1,mid,Electra,Electra
+311,1250.8637,1,mid,1,mid,Electra,Electra
+1110,1249.9720,1,mid,1,mid,Electra,Electra
+1110,1249.9720,1,mid,1,mid,Electra,Electra
+405,1245.9730,1,mid,1,mid,Electra,Electra
+405,1245.9730,1,mid,1,mid,Electra,Electra
+1294,1243.7847,1,mid,8,high,Electra,Surly
+1294,1243.7847,8,high,8,high,Surly,Surly
+1294,1243.7847,7,mid,8,high,"Sun Bicycles",Surly
+1361,1240.1840,1,mid,4,low,Electra,"Pure Cycles"
+1361,1240.1840,4,low,4,low,"Pure Cycles","Pure Cycles"
+305,1238.5660,7,mid,1,mid,"Sun Bicycles",Electra
+305,1238.5660,1,mid,1,mid,Electra,Electra
+305,1238.5660,1,mid,1,mid,Electra,Electra
+1412,1234.9715,9,high,8,high,Trek,Surly
+1412,1234.9715,8,high,8,high,Surly,Surly
+1002,1233.6722,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1002,1233.6722,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1002,1233.6722,1,mid,7,mid,Electra,"Sun Bicycles"
+573,1229.0920,4,low,8,high,"Pure Cycles",Surly
+573,1229.0920,8,high,8,high,Surly,Surly
+1186,1228.5207,3,high,3,high,Heller,Heller
+812,1227.5814,1,mid,1,mid,Electra,Electra
+902,1217.2640,2,mid,1,mid,Haro,Electra
+902,1217.2640,7,mid,1,mid,"Sun Bicycles",Electra
+902,1217.2640,1,mid,1,mid,Electra,Electra
+1170,1210.2715,1,mid,7,mid,Electra,"Sun Bicycles"
+1170,1210.2715,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1013,1209.4747,1,mid,1,mid,Electra,Electra
+1013,1209.4747,1,mid,1,mid,Electra,Electra
+294,1208.4825,8,high,8,high,Surly,Surly
+294,1208.4825,7,mid,8,high,"Sun Bicycles",Surly
+504,1200.5420,1,mid,1,mid,Electra,Electra
+504,1200.5420,4,low,1,mid,"Pure Cycles",Electra
+504,1200.5420,1,mid,1,mid,Electra,Electra
+341,1199.9840,5,mid,5,mid,Ritchey,Ritchey
+1387,1199.9840,5,mid,5,mid,Ritchey,Ritchey
+974,1197.0725,7,mid,9,high,"Sun Bicycles",Trek
+974,1197.0725,9,high,9,high,Trek,Trek
+522,1196.9665,1,mid,1,mid,Electra,Electra
+522,1196.9665,1,mid,1,mid,Electra,Electra
+522,1196.9665,1,mid,1,mid,Electra,Electra
+784,1194.2817,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+784,1194.2817,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+791,1189.9825,8,high,8,high,Surly,Surly
+791,1189.9825,1,mid,8,high,Electra,Surly
+772,1174.5654,1,mid,2,mid,Electra,Haro
+772,1174.5654,2,mid,2,mid,Haro,Haro
+283,1172.9724,1,mid,1,mid,Electra,Electra
+283,1172.9724,1,mid,1,mid,Electra,Electra
+321,1165.0810,1,mid,1,mid,Electra,Electra
+321,1165.0810,4,low,1,mid,"Pure Cycles",Electra
+321,1165.0810,1,mid,1,mid,Electra,Electra
+164,1139.9810,1,mid,1,mid,Electra,Electra
+398,1139.9810,1,mid,1,mid,Electra,Electra
+406,1139.9810,1,mid,1,mid,Electra,Electra
+475,1139.9810,1,mid,1,mid,Electra,Electra
+992,1139.9620,1,mid,1,mid,Electra,Electra
+992,1139.9620,1,mid,1,mid,Electra,Electra
+209,1127.9920,2,mid,2,mid,Haro,Haro
+1073,1115.9814,1,mid,1,mid,Electra,Electra
+1241,1115.9814,1,mid,1,mid,Electra,Electra
+244,1113.2655,7,mid,2,mid,"Sun Bicycles",Haro
+244,1113.2655,2,mid,2,mid,Haro,Haro
+244,1113.2655,1,mid,2,mid,Electra,Haro
+1035,1104.4745,1,mid,1,mid,Electra,Electra
+1035,1104.4745,1,mid,1,mid,Electra,Electra
+248,1101.6830,1,mid,8,high,Electra,Surly
+248,1101.6830,8,high,8,high,Surly,Surly
+1292,1099.4815,9,high,8,high,Trek,Surly
+1292,1099.4815,8,high,8,high,Surly,Surly
+265,1096.1817,1,mid,2,mid,Electra,Haro
+265,1096.1817,2,mid,2,mid,Haro,Haro
+656,1094.9750,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+656,1094.9750,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+656,1094.9750,9,high,7,mid,Trek,"Sun Bicycles"
+947,1082.9715,1,mid,2,mid,Electra,Haro
+947,1082.9715,2,mid,2,mid,Haro,Haro
+1061,1076.9307,4,low,4,low,"Pure Cycles","Pure Cycles"
+1061,1076.9307,1,mid,4,low,Electra,"Pure Cycles"
+1074,1072.1624,1,mid,1,mid,Electra,Electra
+1074,1072.1624,1,mid,1,mid,Electra,Electra
+978,1064.6820,1,mid,8,high,Electra,Surly
+978,1064.6820,8,high,8,high,Surly,Surly
+652,1063.8921,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+652,1063.8921,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+956,1060.5530,4,low,1,mid,"Pure Cycles",Electra
+956,1060.5530,1,mid,1,mid,Electra,Electra
+956,1060.5530,1,mid,1,mid,Electra,Electra
+1064,1060.1721,1,mid,2,mid,Electra,Haro
+1064,1060.1721,2,mid,2,mid,Haro,Haro
+1116,1055.9840,1,mid,1,mid,Electra,Electra
+1318,1052.9720,1,mid,1,mid,Electra,Electra
+1318,1052.9720,1,mid,1,mid,Electra,Electra
+588,1052.9630,1,mid,1,mid,Electra,Electra
+588,1052.9630,1,mid,1,mid,Electra,Electra
+477,1044.9810,2,mid,2,mid,Haro,Haro
+1011,1042.1724,1,mid,1,mid,Electra,Electra
+1011,1042.1724,1,mid,1,mid,Electra,Electra
+1044,1041.5814,1,mid,1,mid,Electra,Electra
+869,1037.3715,7,mid,9,high,"Sun Bicycles",Trek
+869,1037.3715,9,high,9,high,Trek,Trek
+849,1034.2827,1,mid,1,mid,Electra,Electra
+849,1034.2827,1,mid,1,mid,Electra,Electra
+849,1034.2827,4,low,1,mid,"Pure Cycles",Electra
+286,1026.7014,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+300,1023.9840,1,mid,1,mid,Electra,Electra
+753,1022.9814,1,mid,1,mid,Electra,Electra
+981,1022.9814,1,mid,1,mid,Electra,Electra
+1099,1019.9630,2,mid,2,mid,Haro,Haro
+1099,1019.9630,1,mid,2,mid,Electra,Haro
+695,1006.9810,1,mid,1,mid,Electra,Electra
+719,1006.9810,1,mid,1,mid,Electra,Electra
+284,1001.6117,2,mid,7,mid,Haro,"Sun Bicycles"
+284,1001.6117,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1139,999.4825,8,high,8,high,Surly,Surly
+1139,999.4825,2,mid,8,high,Haro,Surly
+1377,997.1724,1,mid,1,mid,Electra,Electra
+1377,997.1724,1,mid,1,mid,Electra,Electra
+1377,997.1724,1,mid,1,mid,Electra,Electra
+617,993.2214,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+851,992.9650,1,mid,1,mid,Electra,Electra
+851,992.9650,1,mid,1,mid,Electra,Electra
+1364,989.9910,1,mid,1,mid,Electra,Electra
+766,989.9820,1,mid,1,mid,Electra,Electra
+830,989.9820,1,mid,1,mid,Electra,Electra
+852,989.9820,1,mid,1,mid,Electra,Electra
+1221,989.9820,1,mid,1,mid,Electra,Electra
+1366,989.9820,1,mid,1,mid,Electra,Electra
+704,988.4817,1,mid,1,mid,Electra,Electra
+704,988.4817,1,mid,1,mid,Electra,Electra
+468,962.9730,1,mid,1,mid,Electra,Electra
+468,962.9730,1,mid,1,mid,Electra,Electra
+585,959.9840,1,mid,1,mid,Electra,Electra
+733,959.9840,1,mid,1,mid,Electra,Electra
+1288,959.9840,1,mid,1,mid,Electra,Electra
+743,954.9825,1,mid,1,mid,Electra,Electra
+743,954.9825,1,mid,1,mid,Electra,Electra
+561,953.9820,1,mid,1,mid,Electra,Electra
+325,949.9905,8,high,8,high,Surly,Surly
+373,949.9810,1,mid,1,mid,Electra,Electra
+889,949.1727,1,mid,1,mid,Electra,Electra
+889,949.1727,1,mid,1,mid,Electra,Electra
+572,930.9810,1,mid,1,mid,Electra,Electra
+785,929.9814,1,mid,1,mid,Electra,Electra
+1025,927.9840,1,mid,1,mid,Electra,Electra
+1025,927.9840,1,mid,1,mid,Electra,Electra
+926,926.0910,4,low,4,low,"Pure Cycles","Pure Cycles"
+926,926.0910,1,mid,4,low,Electra,"Pure Cycles"
+1255,923.0727,1,mid,8,high,Electra,Surly
+1255,923.0727,8,high,8,high,Surly,Surly
+193,914.9670,1,mid,1,mid,Electra,Electra
+193,914.9670,1,mid,1,mid,Electra,Electra
+193,914.9670,1,mid,1,mid,Electra,Electra
+957,912.2730,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+957,912.2730,9,high,7,mid,Trek,"Sun Bicycles"
+775,908.0760,4,low,4,low,"Pure Cycles","Pure Cycles"
+775,908.0760,2,mid,4,low,Haro,"Pure Cycles"
+775,908.0760,9,high,4,low,Trek,"Pure Cycles"
+1008,892.9810,1,mid,1,mid,Electra,Electra
+1008,892.9810,1,mid,1,mid,Electra,Electra
+1098,889.5840,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1098,889.5840,9,high,7,mid,Trek,"Sun Bicycles"
+381,888.2814,1,mid,1,mid,Electra,Electra
+381,888.2814,4,low,1,mid,"Pure Cycles",Electra
+271,879.9840,1,mid,1,mid,Electra,Electra
+683,879.9840,1,mid,1,mid,Electra,Electra
+389,877.9812,9,high,7,mid,Trek,"Sun Bicycles"
+389,877.9812,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+422,872.0820,4,low,1,mid,"Pure Cycles",Electra
+422,872.0820,1,mid,1,mid,Electra,Electra
+382,861.0117,7,mid,8,high,"Sun Bicycles",Surly
+382,861.0117,8,high,8,high,Surly,Surly
+1325,854.1910,1,mid,1,mid,Electra,Electra
+1325,854.1910,4,low,1,mid,"Pure Cycles",Electra
+659,853.1000,4,low,4,low,"Pure Cycles","Pure Cycles"
+792,847.9840,1,mid,1,mid,Electra,Electra
+528,845.9820,8,high,8,high,Surly,Surly
+829,845.9820,9,high,9,high,Trek,Trek
+884,845.9820,8,high,8,high,Surly,Surly
+633,845.1820,4,low,1,mid,"Pure Cycles",Electra
+633,845.1820,1,mid,1,mid,Electra,Electra
+604,837.9827,1,mid,1,mid,Electra,Electra
+604,837.9827,9,high,1,mid,Trek,Electra
+847,836.9814,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1094,824.9815,1,mid,1,mid,Electra,Electra
+1094,824.9815,1,mid,1,mid,Electra,Electra
+229,814.6707,8,high,8,high,Surly,Surly
+729,799.9920,8,high,8,high,Surly,Surly
+1168,799.9920,8,high,8,high,Surly,Surly
+1402,799.9920,9,high,9,high,Trek,Trek
+602,799.9840,1,mid,1,mid,Electra,Electra
+1157,797.9400,4,low,4,low,"Pure Cycles","Pure Cycles"
+1337,773.9817,1,mid,1,mid,Electra,Electra
+1337,773.9817,1,mid,1,mid,Electra,Electra
+642,772.2000,4,low,4,low,"Pure Cycles","Pure Cycles"
+1079,758.9827,1,mid,1,mid,Electra,Electra
+1079,758.9827,1,mid,1,mid,Electra,Electra
+377,755.9720,1,mid,1,mid,Electra,Electra
+377,755.9720,1,mid,1,mid,Electra,Electra
+336,754.5812,1,mid,1,mid,Electra,Electra
+336,754.5812,1,mid,1,mid,Electra,Electra
+1092,753.5840,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+154,751.9840,8,high,8,high,Surly,Surly
+166,751.9840,8,high,8,high,Surly,Surly
+368,751.9840,8,high,8,high,Surly,Surly
+409,728.9730,1,mid,1,mid,Electra,Electra
+409,728.9730,1,mid,1,mid,Electra,Electra
+697,728.9730,1,mid,1,mid,Electra,Electra
+697,728.9730,1,mid,1,mid,Electra,Electra
+846,728.9730,1,mid,1,mid,Electra,Electra
+846,728.9730,9,high,1,mid,Trek,Electra
+114,727.9840,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+114,727.9840,1,mid,7,mid,Electra,"Sun Bicycles"
+137,723.8905,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+249,723.8905,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+455,719.9840,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1077,718.4000,4,low,4,low,"Pure Cycles","Pure Cycles"
+501,712.4905,5,mid,5,mid,Ritchey,Ritchey
+901,712.4905,8,high,8,high,Surly,Surly
+1277,706.7814,2,mid,2,mid,Haro,Haro
+1036,700.7920,8,high,8,high,Surly,Surly
+508,697.4907,8,high,8,high,Surly,Surly
+842,692.0817,9,high,9,high,Trek,Trek
+842,692.0817,7,mid,9,high,"Sun Bicycles",Trek
+924,683.0747,1,mid,1,mid,Electra,Electra
+924,683.0747,1,mid,1,mid,Electra,Electra
+943,683.0747,1,mid,1,mid,Electra,Electra
+943,683.0747,1,mid,1,mid,Electra,Electra
+228,674.9910,1,mid,1,mid,Electra,Electra
+1428,674.9910,5,mid,5,mid,Ritchey,Ritchey
+654,660.5905,4,low,4,low,"Pure Cycles","Pure Cycles"
+654,660.5905,1,mid,4,low,Electra,"Pure Cycles"
+891,655.9840,1,mid,1,mid,Electra,Electra
+891,655.9840,1,mid,1,mid,Electra,Electra
+655,655.1907,1,mid,1,mid,Electra,Electra
+655,655.1907,4,low,1,mid,"Pure Cycles",Electra
+551,642.5420,1,mid,4,low,Electra,"Pure Cycles"
+551,642.5420,4,low,4,low,"Pure Cycles","Pure Cycles"
+821,633.6245,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+821,633.6245,9,high,7,mid,Trek,"Sun Bicycles"
+302,631.6747,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+302,631.6747,1,mid,7,mid,Electra,"Sun Bicycles"
+1270,629.9820,1,mid,1,mid,Electra,Electra
+1369,620.0920,1,mid,4,low,Electra,"Pure Cycles"
+1369,620.0920,4,low,4,low,"Pure Cycles","Pure Cycles"
+285,613.7907,1,mid,1,mid,Electra,Electra
+897,611.9820,1,mid,1,mid,Electra,Electra
+1239,601.5812,1,mid,1,mid,Electra,Electra
+1239,601.5812,1,mid,1,mid,Electra,Electra
+423,599.9920,5,mid,5,mid,Ritchey,Ritchey
+418,593.9910,1,mid,1,mid,Electra,Electra
+671,583.9760,1,mid,1,mid,Electra,Electra
+671,583.9760,9,high,1,mid,Trek,Electra
+493,576.7917,7,mid,2,mid,"Sun Bicycles",Haro
+493,576.7917,2,mid,2,mid,Haro,Haro
+471,569.9905,1,mid,1,mid,Electra,Electra
+1357,569.9810,1,mid,1,mid,Electra,Electra
+549,557.9907,1,mid,1,mid,Electra,Electra
+918,557.9907,1,mid,1,mid,Electra,Electra
+658,557.9814,1,mid,1,mid,Electra,Electra
+1417,557.9814,1,mid,1,mid,Electra,Electra
+1320,543.9840,1,mid,1,mid,Electra,Electra
+786,539.9910,1,mid,1,mid,Electra,Electra
+1176,531.9810,1,mid,1,mid,Electra,Electra
+532,527.9840,2,mid,2,mid,Haro,Haro
+1342,527.7812,9,high,9,high,Trek,Trek
+1342,527.7812,1,mid,9,high,Electra,Trek
+1207,524.3905,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+370,521.9817,1,mid,1,mid,Electra,Electra
+370,521.9817,1,mid,1,mid,Electra,Electra
+404,519.9840,9,high,1,mid,Trek,Electra
+404,519.9840,1,mid,1,mid,Electra,Electra
+448,513.3507,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+622,512.9810,1,mid,1,mid,Electra,Electra
+676,512.9810,1,mid,1,mid,Electra,Electra
+1146,512.9810,1,mid,1,mid,Electra,Electra
+1228,512.9810,1,mid,1,mid,Electra,Electra
+684,511.4907,1,mid,1,mid,Electra,Electra
+1289,507.2905,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+346,502.1907,2,mid,2,mid,Haro,Haro
+304,502.1814,1,mid,1,mid,Electra,Electra
+608,502.1814,1,mid,1,mid,Electra,Electra
+613,502.1814,1,mid,1,mid,Electra,Electra
+964,502.1814,1,mid,1,mid,Electra,Electra
+1130,502.1814,1,mid,1,mid,Electra,Electra
+1297,502.1814,1,mid,1,mid,Electra,Electra
+996,494.9910,1,mid,1,mid,Electra,Electra
+1286,494.9910,1,mid,1,mid,Electra,Electra
+1050,480.5910,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+721,479.9920,1,mid,1,mid,Electra,Electra
+925,474.9905,1,mid,1,mid,Electra,Electra
+1065,466.8414,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+378,464.9907,1,mid,1,mid,Electra,Electra
+454,464.9907,1,mid,1,mid,Electra,Electra
+767,464.9907,1,mid,1,mid,Electra,Electra
+513,458.9830,1,mid,1,mid,Electra,Electra
+513,458.9830,1,mid,1,mid,Electra,Electra
+860,451.7820,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1022,440.9910,1,mid,1,mid,Electra,Electra
+258,437.0907,8,high,8,high,Surly,Surly
+558,431.9840,1,mid,1,mid,Electra,Electra
+1095,426.5500,4,low,4,low,"Pure Cycles","Pure Cycles"
+130,423.9920,1,mid,1,mid,Electra,Electra
+592,422.9910,9,high,9,high,Trek,Trek
+388,418.4907,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+857,418.4907,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+804,417.9905,1,mid,1,mid,Electra,Electra
+703,398.9700,4,low,4,low,"Pure Cycles","Pure Cycles"
+725,396.1405,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+200,391.9920,1,mid,1,mid,Electra,Electra
+969,391.9920,1,mid,1,mid,Electra,Electra
+586,386.1000,4,low,4,low,"Pure Cycles","Pure Cycles"
+685,386.1000,4,low,4,low,"Pure Cycles","Pure Cycles"
+746,386.1000,4,low,4,low,"Pure Cycles","Pure Cycles"
+446,377.9820,2,mid,2,mid,Haro,Haro
+452,377.9820,2,mid,2,mid,Haro,Haro
+457,377.9820,9,high,9,high,Trek,Trek
+601,377.9820,9,high,9,high,Trek,Trek
+993,377.9820,2,mid,2,mid,Haro,Haro
+141,376.7920,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+693,375.9920,8,high,8,high,Surly,Surly
+827,375.9920,8,high,8,high,Surly,Surly
+451,359.2000,4,low,4,low,"Pure Cycles","Pure Cycles"
+557,359.2000,4,low,4,low,"Pure Cycles","Pure Cycles"
+1427,351.9920,1,mid,1,mid,Electra,Electra
+805,335.9840,2,mid,2,mid,Haro,Haro
+776,333.5920,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+1317,325.4907,9,high,9,high,Trek,Trek
+1009,314.9910,1,mid,1,mid,Electra,Electra
+482,279.9920,1,mid,1,mid,Electra,Electra
+1283,279.9920,1,mid,1,mid,Electra,Electra
+1004,278.9907,1,mid,1,mid,Electra,Electra
+342,269.9910,1,mid,1,mid,Electra,Electra
+391,269.9910,1,mid,1,mid,Electra,Electra
+539,269.9910,1,mid,1,mid,Electra,Electra
+875,269.9910,1,mid,1,mid,Electra,Electra
+1336,269.9910,1,mid,1,mid,Electra,Electra
+144,256.4905,1,mid,1,mid,Electra,Electra
+401,256.4905,1,mid,1,mid,Electra,Electra
+714,256.4905,1,mid,1,mid,Electra,Electra
+363,242.9910,1,mid,1,mid,Electra,Electra
+442,242.9910,1,mid,1,mid,Electra,Electra
+514,242.9910,1,mid,1,mid,Electra,Electra
+677,242.9910,1,mid,1,mid,Electra,Electra
+788,242.9910,1,mid,1,mid,Electra,Electra
+1166,242.9910,1,mid,1,mid,Electra,Electra
+1340,242.9910,1,mid,1,mid,Electra,Electra
+1142,232.4907,6,low,6,low,Strider,Strider
+347,225.8910,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+593,208.9810,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
+221,199.9920,2,mid,2,mid,Haro,Haro
+1414,176.6907,9,high,9,high,Trek,Trek
+177,170.9910,9,high,9,high,Trek,Trek
+752,170.9910,9,high,9,high,Trek,Trek
+1111,170.9910,9,high,9,high,Trek,Trek
+718,167.9920,2,mid,2,mid,Haro,Haro
+850,104.4905,7,mid,7,mid,"Sun Bicycles","Sun Bicycles"
