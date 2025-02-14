@@ -18,7 +18,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ### 2/ CREATE A DATABASE WITH MYSQL
 
-![Data Model of the Database](![Image](https://github.com/user-attachments/assets/275dfbf1-9396-4e3a-a4eb-b49bc089bc2c))
+![Image](https://github.com/user-attachments/assets/275dfbf1-9396-4e3a-a4eb-b49bc089bc2c)
 
 *(Image: Data Model of the Database)*
 
@@ -28,27 +28,27 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ![Image](https://github.com/user-attachments/assets/0d29aae8-8f50-4000-8fcc-b996e5971c8f)
 
-![Create tables without foreign keys](media/image3.png)
+![Image](https://github.com/user-attachments/assets/0c839738-d196-465d-bba4-291e0f804069)
 
-![Create tables without foreign keys](media/image4.png)
+![Image](https://github.com/user-attachments/assets/92bb09fc-6501-415c-80f8-fc435fa54bd5)
 
 #### Step 2: Create table which has foreign keys that depend on the above tables: products
 
-![Create products table](media/image5.png)
+![Image](https://github.com/user-attachments/assets/3f76ea03-3d98-4914-a7d4-25b071613936)
 
 #### Step 3: Create tables that have a relationship with stores: staffs
 
-![Create staffs table](media/image6.png)
+![Image](https://github.com/user-attachments/assets/93a93379-a2a5-42a1-aac2-672c8bfaa88b)
 
 #### Step 4: Create table that relates to orders: orders
 
-![Create orders table](media/image7.png)
+![Image](https://github.com/user-attachments/assets/63cf307c-2124-4d45-a203-637c8ada14f1)
 
 #### Step 5: Create tables to connect order_items and stocks: order_items, stocks
 
-![Create order_items and stocks tables](media/image8.png)
+![Image](https://github.com/user-attachments/assets/56831b7b-132d-4210-adab-433e41043d73)
 
-![Create order_items and stocks tables](media/image9.png)
+![Image](https://github.com/user-attachments/assets/9a4a9f93-af5a-40f6-8760-be8035fa0c5c)
 
 - Input the CSV files into each table following this order:
 
@@ -64,7 +64,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ### 3/ DATA PIPELINE
 
-![Data Pipeline](media/image10.png)
+![Image](https://github.com/user-attachments/assets/ac845cc7-feac-4b12-80ed-a9305b22607c)
 
 *(Image: Data Pipeline)*
 
@@ -134,16 +134,17 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 - **Define features:** `latest_brand_tier` will be our target feature, others will be used as independent features.
 - **Oversampling:** The data is imbalanced with only 241 tier 1 samples, we will use SMOTE to oversample class 1 to 1200 samples.
 
-![Oversampling with SMOTE](media/image11.png)
+![Image](https://github.com/user-attachments/assets/6e634f38-eb80-4194-8c40-3f7c8128d361)
 
 - **Train-test split:** 30% of the data will be used for testing.
 - **Algorithm:** We will use logistic regression because our independent features all have a good correlation with the target features (based on the correlation matrix). This algorithm is also very computationally effective. Because we have a large dataset that will be updated frequently, using other algorithms such as XGBoost or Neural Networks may provide more accurate results, but they will cost us a lot of CPU.
 
-![Correlation Matrix](media/image12.png)
+![image](https://github.com/user-attachments/assets/660329d3-21ff-4eb8-8525-08dee54f4293)
+
 
 - **Model evaluation:**
 
-![Model Evaluation](media/image13.png)
+![Image](https://github.com/user-attachments/assets/78b43bb1-b703-425f-b361-1c28ba0c906e)
 
   + The model has an overall accuracy of 81%.
   + The model does not perform so well with tier-1 samples, however, its performance on the other class is not that bad. To handle a large amount of data from the database, we prioritize a model that can solve the problem fast.
