@@ -26,7 +26,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 #### Step 1: Create tables that do not have foreign keys: brands, categories, stores
 
-![Create tables without foreign keys](![Image](https://github.com/user-attachments/assets/0d29aae8-8f50-4000-8fcc-b996e5971c8f))
+![Image](https://github.com/user-attachments/assets/0d29aae8-8f50-4000-8fcc-b996e5971c8f)
 
 ![Create tables without foreign keys](media/image3.png)
 
