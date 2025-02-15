@@ -62,11 +62,11 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
   + **order_items**  
   + **stocks**
 
-### 3/ DATA PIPELINE
+### 3/ DATA PIPELINES
 
 ![Image](https://github.com/user-attachments/assets/ac845cc7-feac-4b12-80ed-a9305b22607c)
 
-*(Image: Data Pipeline)*
+*(Image: Data Pipelines)*
 
 1. **Database Connection Setup**:
    - The application connects to a MySQL database named `bike_shop` using the `flask_mysqldb` extension.
