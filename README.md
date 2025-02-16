@@ -146,5 +146,5 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ![image](https://github.com/user-attachments/assets/e3de7403-6098-4021-8760-e18c1ef50037)
 
-  + The model has an overall accuracy of 81%.
+  + The model has an overall accuracy of 83%.
   + The model does not perform so well with tier-1 samples, however, its performance on the other class is not that bad. To handle a large amount of data from the database, we prioritize a model that can solve the problem fast.
