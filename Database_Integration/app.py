@@ -4,10 +4,10 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-# Cấu hình MySQL - điền thông tin kết nối của bạn
+# Connect with SQL Database
 app.config['MYSQL_HOST'] = '127.0.0.1'
 app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'giabao04052000'
+app.config['MYSQL_PASSWORD'] = 'password' #Your password
 app.config['MYSQL_DB'] = 'bike_shop'
 app.config['MYSQL_PORT'] = 3306
 
@@ -15,7 +15,7 @@ mysql = MySQL(app)
 
 @app.route('/')
 def index():
-    # Lấy danh sách sản phẩm
+    # Retrieve product information
     cur = mysql.connection.cursor()
     cur.execute('''
         SELECT p.product_id, p.product_name, b.brand_name, 
@@ -46,11 +46,11 @@ def buy_product():
         if quantity <= 0:
             return jsonify({'error': 'Out of stock'})
 
-        # Lấy giá sản phẩm
+        # Retrieve product's price
         cur.execute("SELECT list_price FROM products WHERE product_id = %s", (product_id,))
         price = cur.fetchone()[0]
 
-        # Tạo order mới
+        # Create new order
         cur.execute('''
             INSERT INTO orders (customer_id, order_status, order_date, store_id, staff_id)
             VALUES (%s, 'Pending', %s, 1, 1)
@@ -58,19 +58,19 @@ def buy_product():
         
         order_id = cur.lastrowid  # Lấy ID của đơn hàng vừa tạo
 
-        # Tạo item_id tự động tăng (dựa trên số lượng các mục trong đơn hàng)
+        # Create automatic item order
         cur.execute('''
             SELECT COALESCE(MAX(item_id), 0) + 1 FROM order_items WHERE order_id = %s
         ''', (order_id,))
         item_id = cur.fetchone()[0]
 
-        # Thêm order item
+        # Add order item
         cur.execute('''
             INSERT INTO order_items (order_id, item_id, product_id, quantity, list_price, discount)
             VALUES (%s, %s, %s, 1, %s, 0)
         ''', (order_id, item_id, product_id, price))
 
-        # Cập nhật số lượng trong kho
+        # Update quantity
         cur.execute('''
             UPDATE stocks 
             SET quantity = quantity - 1
