@@ -19,7 +19,6 @@ customer_totals AS (
     GROUP BY o.customer_id
 ),
 latest_brand AS (
-    -- Lấy brand_id của đơn hàng gần nhất
     SELECT 
         o.customer_id,
         p.brand_id
