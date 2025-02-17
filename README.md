@@ -148,7 +148,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ![image](https://github.com/user-attachments/assets/e3de7403-6098-4021-8760-e18c1ef50037)
 
-  + Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
+   + Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
 
 ![image](https://github.com/user-attachments/assets/53a95c2f-af9e-4744-a0f7-3d784b855b12)
 
