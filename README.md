@@ -18,7 +18,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ### 2/ CREATE A DATABASE WITH MYSQL
 
-![Image](https://github.com/user-attachments/assets/275dfbf1-9396-4e3a-a4eb-b49bc089bc2c)
+![image](https://github.com/user-attachments/assets/e4084619-9630-44a8-8000-14a6eebad35b)
 
 *(Image: Data Model of the Database)*
 
