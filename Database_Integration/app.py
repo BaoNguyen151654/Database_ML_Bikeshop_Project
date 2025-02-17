@@ -34,7 +34,7 @@ def index():
 def buy_product():
     data = request.json
     product_id = data.get('product_id')
-    customer_id = 1  # Demo với customer_id cố định
+    customer_id = 1  # Demo with the first customer
 
     try:
         cur = mysql.connection.cursor()
@@ -56,7 +56,7 @@ def buy_product():
             VALUES (%s, 'Pending', %s, 1, 1)
         ''', (customer_id, datetime.now()))
         
-        order_id = cur.lastrowid  # Lấy ID của đơn hàng vừa tạo
+        order_id = cur.lastrowid  
 
         # Create automatic item order
         cur.execute('''
