@@ -144,11 +144,11 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 ![image](https://github.com/user-attachments/assets/660329d3-21ff-4eb8-8525-08dee54f4293)
 
 - **Model evaluation:**
-  + The model’s accuracy stands at 83%. However, it tends to have issues accurately predicting products in the low segment class - the least frequent one in class and at the same time, oversampled. Furthermore, employing lasso regularization alongside giving triple weight to the minority class aids the model in effectively overfitting. The model as is, is well suited for stores where there is a high volume of customers that need to be processed into the database and real time machine learning is required because the model is not very resource heavy. As a tradeoff, the results can be considered accurate given the speed in which they are processed, although not highly so.
+The model’s accuracy stands at 83%. However, it tends to have issues accurately predicting products in the low segment class - the least frequent one in class and at the same time, oversampled. Furthermore, employing lasso regularization alongside giving triple weight to the minority class aids the model in effectively overfitting. The model as is, is well suited for stores where there is a high volume of customers that need to be processed into the database and real time machine learning is required because the model is not very resource heavy. As a tradeoff, the results can be considered accurate given the speed in which they are processed, although not highly so.
 
 ![image](https://github.com/user-attachments/assets/e3de7403-6098-4021-8760-e18c1ef50037)
 
-   + Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
+Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
 
 ![image](https://github.com/user-attachments/assets/53a95c2f-af9e-4744-a0f7-3d784b855b12)
 
