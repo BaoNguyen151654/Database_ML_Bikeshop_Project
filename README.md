@@ -145,7 +145,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 - **Model evaluation:**
 
-Logistic regression has an accuracy of 83%. However, it tends to have issues accurately predicting products in the low segment class - the least frequent one in class and at the same time, oversampled. Furthermore, employing lasso regularization alongside giving triple weight to the minority class aids the model in effectively overfitting. The model as is, is well suited for stores where there is a high volume of customers that need to be processed into the database and real time machine learning is required because the model is not very resource heavy. As a tradeoff, the results can be considered accurate given the speed in which they are processed, although not highly so.
+Logistic regression has an accuracy of 83%. However, it seems to struggle when predicting products in the low segment (which is the least frequent class and has been oversampled). Using lasso regularization and assigning triple weight to the minority class helps the model reduce overfitting. The model would be suitable for stores with a large influx of customers into the database, requiring real-time machine learning because it doesn't consume too many computational resources. While the results may not be highly accurate, the processing speed is quite fast.
 
 ![image](https://github.com/user-attachments/assets/e3de7403-6098-4021-8760-e18c1ef50037)
 
