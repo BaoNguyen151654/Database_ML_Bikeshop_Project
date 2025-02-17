@@ -127,7 +127,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
   + **latest_brand_name**: The name of the bike brand the customer recently purchased.
   + **most_purchased_brand_name**: The name of the bike brand the customer has bought the most over all purchases.
 
-- Using the [SQL script]([[../Machine_Learning/Query_DataforML.sql](https://github.com/BaoNguyen151654/Database_ML_Bikeshop_Project/blob/master/Machine_Learning/Query_DataforML.sql)] attached on **the machine learning folder on GitHub**, you can query all these features from the `bike_shop` database.
+- Using the [SQL script](../Machine_Learning/Query_DataforML.sql) attached on **the machine learning folder on GitHub**, you can query all these features from the `bike_shop` database.
 
 ### 3/ MODEL BUILDING AND EVALUATION
 
