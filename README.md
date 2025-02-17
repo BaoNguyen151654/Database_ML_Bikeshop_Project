@@ -127,7 +127,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
   + **latest_brand_name**: The name of the bike brand the customer recently purchased.
   + **most_purchased_brand_name**: The name of the bike brand the customer has bought the most over all purchases.
 
-- Using the [SQL script](../Machine_Learning/Query_DataforML.sql) attached on **the machine learning folder on GitHub**, you can query all these features from the `bike_shop` database.
+- Using the SQL script attached on **the machine learning folder on GitHub**, you can query all these features from the `bike_shop` database.
 
 ### 3/ MODEL BUILDING AND EVALUATION
 
@@ -140,7 +140,6 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 - **Algorithm:** We will use logistic regression because our independent features all have a good correlation with the target features (based on the correlation matrix). This algorithm is also very computationally effective. Because we have a large dataset that will be updated frequently, using other algorithms such as XGBoost or Neural Networks may provide more accurate results, but they will cost us a lot of CPU.
 
 ![image](https://github.com/user-attachments/assets/660329d3-21ff-4eb8-8525-08dee54f4293)
-
 
 - **Model evaluation:**
 
