@@ -139,7 +139,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 - **Train-test split:** 30% of the data will be used for testing.
 - **Algorithm:** This is a multi-label classification problem with a relatively small dataset (just over 4,000 samples), so I will prioritize using simple and interpretable algorithms. Logistic Regression would be a good choice.
     
-![image](https://github.com/user-attachments/assets/660329d3-21ff-4eb8-8525-08dee54f4293)
+![image](<img width="700" height="470" alt="Image" src="https://github.com/user-attachments/assets/d2dcdf11-561d-4b74-a99f-a97afdc2f5cd" />)
 
 - **Model evaluation:**
 
