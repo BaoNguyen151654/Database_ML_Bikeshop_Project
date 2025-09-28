@@ -136,18 +136,39 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 ![Image](https://github.com/user-attachments/assets/6e634f38-eb80-4194-8c40-3f7c8128d361)
 
-- **Train-test split:** 30% of the data will be used for testing.
+- **Evaluation method:** The AUC was used as the main metric due to the imbalanced class distribution, and the model was evaluated using 5-fold cross-validation.
 - **Algorithm:** This is a multi-label classification problem with a relatively small dataset (just over 4,000 samples), so I will prioritize using simple and interpretable algorithms. Logistic Regression would be a good choice.
     
-![image](<img width="700" height="470" alt="Image" src="https://github.com/user-attachments/assets/d2dcdf11-561d-4b74-a99f-a97afdc2f5cd" />)
+![Image](https://github.com/user-attachments/assets/c4aea10f-56d2-4103-a36a-99d8596bfa40)
 
 - **Model evaluation:**
 
-Logistic regression has an accuracy of 83%. However, it seems to struggle when predicting products in the low segment (which is the least frequent class and has been oversampled). Using lasso regularization and assigning triple weight to the minority class helps the model reduce overfitting. The model would be suitable for stores with a large influx of customers into the database, requiring real-time machine learning because it doesn't consume too many computational resources. While the results may not be highly accurate, the processing speed is quite fast.
+The model achieved a mean AUC of 0.94 after 5-fold cross-validation, indicating a relatively balanced predictive ability across the three classes. This process was performed on 70% of the data. I will further evaluate the model’s predictions on the remaining 30% using metrics such as recall, precision, and F1-score to obtain a more comprehensive assessment.
 
-![image](https://github.com/user-attachments/assets/56831b7b-132d-4210-adab-433e41043d73)
+![Image](https://github.com/user-attachments/assets/23c05f27-e7b3-4556-a347-2e2423722b96)
 
-Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
+On the test set, the model achieved an accuracy of 83%, performing well in distinguishing customers in the high and medium segments. However, the precision for customers in the low segment is quite low (only 35%). This can be explained by the fact that there are relatively few customers in this segment, most of the data being synthetic through SMOTE. In addition, applying a strong weighting (3×) in the logistic regression model also significantly reduced the precision for this class.
 
-![image](https://github.com/user-attachments/assets/53a95c2f-af9e-4744-a0f7-3d784b855b12)
+## 4/ BUSINESS USE CASE ANALYSIS
+
+The model’s primary goal is to **segment customers by their value or potential** (high, medium, low), which can directly support marketing, sales, and retention strategies:
+
+**High-value customers** 
+- The model identifies these customers accurately.
+- **Business action:** prioritize them for **personalized offers, premium services, and loyalty programs** to maximize revenue and retention.
+
+**Medium-value customers** 
+- Well-classified, allowing targeted **upselling and cross-selling campaigns**.
+- **Business action:** allocate marketing resources efficiently to grow their value.
+
+**Low-value customers** 
+- Precision is lower due to class imbalance and synthetic data.
+- **Business action:** approach with **cost-effective campaigns**, such as automated or digital-only promotions, to minimize marketing spend while still engaging them.
+
+**Overall Benefit** 
+- The model helps the business **optimize resource allocation** by focusing on high-impact customers.
+- It provides a **data-driven basis for personalized marketing and customer retention strategies**, improving ROI.
+
+
+
 
