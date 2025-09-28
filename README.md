@@ -145,7 +145,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 Logistic regression has an accuracy of 83%. However, it seems to struggle when predicting products in the low segment (which is the least frequent class and has been oversampled). Using lasso regularization and assigning triple weight to the minority class helps the model reduce overfitting. The model would be suitable for stores with a large influx of customers into the database, requiring real-time machine learning because it doesn't consume too many computational resources. While the results may not be highly accurate, the processing speed is quite fast.
 
-![image] (https://github.com/user-attachments/assets/56831b7b-132d-4210-adab-433e41043d73).
+![image](https://github.com/user-attachments/assets/56831b7b-132d-4210-adab-433e41043d73)
 
 Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
 
