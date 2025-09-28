@@ -138,16 +138,16 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 - **Evaluation method:** The AUC was used as the main metric due to the imbalanced class distribution, and the model was evaluated using 5-fold cross-validation.
 - **Algorithm:** This is a multi-label classification problem with a relatively small dataset (just over 4,000 samples), so I will prioritize using simple and interpretable algorithms. Logistic Regression would be a good choice.
-    
-![Image](https://github.com/user-attachments/assets/c4aea10f-56d2-4103-a36a-99d8596bfa40)
 
 - **Model evaluation:**
 
 The model achieved a mean AUC of 0.94 after 5-fold cross-validation, indicating a relatively balanced predictive ability across the three classes. This process was performed on 70% of the data. I will further evaluate the model’s predictions on the remaining 30% using metrics such as recall, precision, and F1-score to obtain a more comprehensive assessment.
 
-![Image](https://github.com/user-attachments/assets/23c05f27-e7b3-4556-a347-2e2423722b96)
+![Image](https://github.com/user-attachments/assets/c4aea10f-56d2-4103-a36a-99d8596bfa40)
 
 On the test set, the model achieved an accuracy of 83%, performing well in distinguishing customers in the high and medium segments. However, the precision for customers in the low segment is quite low (only 35%). This can be explained by the fact that there are relatively few customers in this segment, most of the data being synthetic through SMOTE. In addition, applying a strong weighting (3×) in the logistic regression model also significantly reduced the precision for this class.
+
+![Image](https://github.com/user-attachments/assets/23c05f27-e7b3-4556-a347-2e2423722b96)
 
 ## 4/ BUSINESS USE CASE ANALYSIS
 
