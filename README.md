@@ -137,9 +137,7 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 ![Image](https://github.com/user-attachments/assets/6e634f38-eb80-4194-8c40-3f7c8128d361)
 
 - **Train-test split:** 30% of the data will be used for testing.
-- **Algorithm:**
-  + Logistic Regression is a suitable choice since our independent features exhibit strong correlations with the target variable, as indicated by the correlation matrix. Additionally, this algorithm is computationally efficient. Given that we have a large dataset that is frequently updated, alternatives like XGBoost or Neural Networks may offer higher accuracy but would require significantly more computational resources.
-  + Catboost is not a bad choice either. This algorithm can produce outstanding results in terms of accuracy, but it requires significant computational resources and is difficult to interpret.
+- **Algorithm:** This is a multi-label classification problem with a relatively small dataset (just over 4,000 samples), so I will prioritize using simple and interpretable algorithms. Logistic Regression would be a good choice.
     
 ![image](https://github.com/user-attachments/assets/660329d3-21ff-4eb8-8525-08dee54f4293)
 
@@ -147,7 +145,8 @@ Many years ago, Bao is a dedicated bike seller, he opened his first store with a
 
 Logistic regression has an accuracy of 83%. However, it seems to struggle when predicting products in the low segment (which is the least frequent class and has been oversampled). Using lasso regularization and assigning triple weight to the minority class helps the model reduce overfitting. The model would be suitable for stores with a large influx of customers into the database, requiring real-time machine learning because it doesn't consume too many computational resources. While the results may not be highly accurate, the processing speed is quite fast.
 
-![image](https://github.com/user-attachments/assets/e3de7403-6098-4021-8760-e18c1ef50037)
+![image](<img width="700" height="470" alt="image" src="https://github.com/user-attachments/assets/867ab0ce-64c8-4ac3-94fd-215b2b25741c" />
+)
 
 Catboost provides superior accuracy compared to logistic regression, with an accuracy close to 100%. However, this model still requires more monitoring with real-world data. It would be suitable for studying fixed data (on a quarterly, monthly, or yearly basis), but it would not be as suitable for real-time processing like logistic regression.
 
